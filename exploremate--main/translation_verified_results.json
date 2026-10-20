@@ -1,0 +1,57 @@
+[
+  {
+    "phrase": "Where is the nearest bus stop?",
+    "translations": {
+      "Tamil": "அருகிலுள்ள பேருந்து நிறுத்தம் எங்கே உள்ளது?",
+      "Hindi": "सबसे नज़दीकी बस स्टॉप कहाँ है?",
+      "Telugu": "దగ్గరలోని బస్ స్టాప్ ఎక్కడ ఉంది?",
+      "Malayalam": "ഏറ്റവും അടുത്തുള്ള ബസ് സ്റ്റോപ്പ് എവിടെയാണ്?",
+      "Kannada": "ಹತ್ತಿರದ ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "French": "Où est l'arrêt de bus le plus proche ?"
+    }
+  },
+  {
+    "phrase": "How much is the entry ticket?",
+    "translations": {
+      "Tamil": "நுழைவுச் சீட்டின் விலை என்ன?",
+      "Hindi": "प्रवेश टिकट कितने का है?",
+      "Telugu": "ప్రవేశ టిక్కెట్ ధర ఎంత?",
+      "Malayalam": "പ്രവേശന ടിക്കറ്റിന്റെ വില എത്രയാണ്?",
+      "Kannada": "ಪ್ರವೇಶ ಟಿಕೆಟ್ ದರ ಎಷ್ಟು?",
+      "French": "Combien coûte le billet d'entrée ?"
+    }
+  },
+  {
+    "phrase": "Is this place open today?",
+    "translations": {
+      "Tamil": "இந்த இடம் இன்று திறந்திருக்கிறதா?",
+      "Hindi": "क्या यह जगह आज खुली है?",
+      "Telugu": "ఈ ప్రదేశం ఈరోజు తెరిచి ఉందా?",
+      "Malayalam": "ഈ സ്ഥലം ഇന്ന് തുറന്നിട്ടുണ്ടോ?",
+      "Kannada": "ಈ ಸ್ಥಳ ಇಂದು ತೆರೆದಿದೆಯೇ?",
+      "French": "Cet endroit est-il ouvert aujourd'hui ?"
+    }
+  },
+  {
+    "phrase": "Please take me to the beach",
+    "translations": {
+      "Tamil": "தயவுசெய்து என்னை கடற்கரைக்கு அழைத்துச் செல்லுங்கள்",
+      "Hindi": "कृपया मुझे समुद्र तट पर ले चलिए",
+      "Telugu": "దయచేసి నన్ను బీచ్‌కి తీసుకెళ్లండి",
+      "Malayalam": "ദയവായി എന്നെ ബീച്ചിലേക്ക് കൊണ്ടുപോകൂ",
+      "Kannada": "ದಯವಿಟ್ಟು ನನ್ನನ್ನು ಸಮುದ್ರ ತೀರಕ್ಕೆ ಕರೆದೊಯ್ಯಿರಿ",
+      "French": "S'il vous plaît, emmenez-moi à la plage"
+    }
+  },
+  {
+    "phrase": "I need help",
+    "translations": {
+      "Tamil": "எனக்கு உதவி தேவை",
+      "Hindi": "मुझे मदद चाहिए",
+      "Telugu": "నాకు సహాయం కావాలి",
+      "Malayalam": "എനിക്ക് സഹായം വേണം",
+      "Kannada": "ನನಗೆ ಸಹಾಯ ಬೇಕು",
+      "French": "J'ai besoin d'aide"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "chap-1",
+    "title": "The Letter from Rue Dumas",
+    "storyteller_name": "Local Storyteller 1",
+    "storyteller_bio": "Heritage preservationist and resident of the French Quarter.",
+    "text_en": "The sea breeze carried the faint scent of bougainvillea as you arrived at the yellow colonial mansion on Rue Dumas. Under the terracotta archway, an old brass letterbox held a faded parchment addressed to Governor Dupleix's clerk. The seal was cracked, whispering of a hidden maritime ledger buried along Goubert Avenue before the monsoon tides arrive...",
+    "text_ta": "டூமாஸ் தெருவில் உள்ள மஞ்சள் மாளிகையை நீங்கள் அடைந்தபோது, கடல் காற்று போகன்வில்லா பூக்களின் நறுமணத்தை ஏந்தி வந்தது. சுடுமண் வளைவின் கீழ் இருந்த பித்தளை அஞ்சல் பெட்டியில் ஒரு பழைய கடிதம் இருந்தது...",
+    "audio_file": "",
+    "location": {
+      "name": "Rue Dumas French Mansion",
+      "lat": 11.9325,
+      "lng": 79.8340,
+      "radius_m": 75
+    },
+    "ink_cost_kg": 0.0,
+    "cliffhanger_line": "The map fragment pointed straight towards the vintage Old Lighthouse tower...",
+    "estimated_read_minutes": 3
+  },
+  {
+    "id": "chap-2",
+    "title": "The Keeper of Goubert Avenue",
+    "storyteller_name": "Local Storyteller 2",
+    "storyteller_bio": "Historian and coastal guide of Pondicherry.",
+    "text_en": "Beside the 19th-century Old Lighthouse, the rhythmic crash of waves against the black volcanic boulders masked the sound of footsteps. The lighthouse keeper's journal revealed that the second cipher was cast into the courtyard of the French War Memorial during the armistice of 1918...",
+    "text_ta": "பழைய கலங்கரை விளக்கத்தின் அருகே அலைகள் பாறைகளில் மோதும் சத்தம் கேட்டது. கலங்கரை விளக்கக் காவலரின் குறிப்பேட்டில் இரண்டாம் ரகசிய குறிப்பு பிரெஞ்சு போர் நினைவிடத்தில் மறைக்கப்பட்டுள்ளதாக எழுதப்பட்டிருந்தது...",
+    "audio_file": "",
+    "location": {
+      "name": "Old Lighthouse",
+      "lat": 11.9318,
+      "lng": 79.8357,
+      "radius_m": 100
+    },
+    "ink_cost_kg": 0.5,
+    "cliffhanger_line": "A bronze medal gleamed near the base of the victory column...",
+    "estimated_read_minutes": 4
+  },
+  {
+    "id": "chap-3",
+    "title": "The War Memorial Cipher",
+    "storyteller_name": "Local Storyteller 3",
+    "storyteller_bio": "French colonial archivist and translator.",
+    "text_en": "Standing under the solemn arches of the French War Memorial, the inscription honored the soldiers of the First World War. Beneath the central bas-relief lay an engraved compass rose aligned not north, but directly toward the quiet sanctum of the Sacred Heart Basilica...",
+    "text_ta": "பிரெஞ்சு போர் நினைவிடத்தின் அமைதியான வளைவுகளின் கீழ், முதல் உலகப் போரின் வீரர்கள் நினைவுகூரப்படுகிறார்கள். அதன் அடித்தளத்தில் ஒரு திசைகாட்டி செதுக்கப்பட்டிருந்தது...",
+    "audio_file": "",
+    "location": {
+      "name": "French War Memorial",
+      "lat": 11.9320,
+      "lng": 79.8358,
+      "radius_m": 80
+    },
+    "ink_cost_kg": 0.6,
+    "cliffhanger_line": "The crimson stained glass filtered a message across the marble aisle...",
+    "estimated_read_minutes": 4
+  },
+  {
+    "id": "chap-4",
+    "title": "The Stained Glass of Sacred Heart",
+    "storyteller_name": "Local Storyteller 4",
+    "storyteller_bio": "Gothic architecture enthusiast and South Boulevard resident.",
+    "text_en": "Sunlight streamed through the neo-Gothic stained glass windows of the Basilica of the Sacred Heart of Jesus. As the ruby and cobalt rays illuminated the sanctuary floor, the shadow of the crucifix pointed toward the shaded canopies of the Botanical Garden...",
+    "text_ta": "தூய இருதய ஆண்டவர் பசிலிக்காவின் வண்ணக் கண்ணாடி ஜன்னல்கள் வழியே சூரிய ஒளி பாய்ந்தது. சிலுவையின் நிழல் தாவரவியல் பூங்காவை நோக்கி காட்டியது...",
+    "audio_file": "",
+    "location": {
+      "name": "Basilica of the Sacred Heart of Jesus",
+      "lat": 11.9259,
+      "lng": 79.8273,
+      "radius_m": 90
+    },
+    "ink_cost_kg": 0.7,
+    "cliffhanger_line": "Deep inside the fossil grove, the final chest awaited...",
+    "estimated_read_minutes": 4
+  },
+  {
+    "id": "chap-5",
+    "title": "The Heritage Botanical Secret",
+    "storyteller_name": "Local Storyteller 5",
+    "storyteller_bio": "Botanist and educator in Puducherry.",
+    "text_en": "Under the ancient 200-year-old mahogany trees of the Botanical Garden, the journey came full circle. The hidden chest held no gold, but the original hand-drawn municipal charters of Puducherry, pledged to remain a sanctuary of harmony, heritage, and serene ocean breezes forever.",
+    "text_ta": "இருநூறு ஆண்டுகள் பழமையான மரங்களின் கீழ் இந்த மர்ம பயணம் நிறைவுற்றது. அந்த பெட்டியில் புதுச்சேரியின் அமைதிக்கான வரலாற்று சாசனம் இருந்தது.",
+    "audio_file": "",
+    "location": {
+      "name": "Botanical Garden",
+      "lat": 11.9304,
+      "lng": 79.8214,
+      "radius_m": 120
+    },
+    "ink_cost_kg": 0.8,
+    "cliffhanger_line": "Pondicherry's timeless peace had been preserved for another century.",
+    "estimated_read_minutes": 5
+  }
+]

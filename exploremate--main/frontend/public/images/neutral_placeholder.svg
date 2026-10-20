@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4EFE6"/>
+      <stop offset="50%" stop-color="#EAE3D2"/>
+      <stop offset="100%" stop-color="#DDD3BC"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EAA82C"/>
+      <stop offset="100%" stop-color="#B45309"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="400" cy="190" r="64" fill="white" opacity="0.85" filter="drop-shadow(0 8px 16px rgba(0,0,0,0.08))"/>
+  <!-- Compass Rose -->
+  <g transform="translate(400, 190)">
+    <polygon points="0,-45 10,-10 45,0 10,10 0,45 -10,10 -45,0 -10,-10" fill="url(#gold)"/>
+    <circle cx="0" cy="0" r="7" fill="#0F172A"/>
+  </g>
+  <!-- Text -->
+  <text x="400" y="295" font-family="'Playfair Display', Georgia, serif" font-size="24" font-weight="bold" fill="#0F172A" text-anchor="middle">
+    ExploreMate Pondicherry
+  </text>
+  <text x="400" y="325" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#0D9488" text-anchor="middle" letter-spacing="1.5">
+    PHOTO VERIFICATION IN PROGRESS
+  </text>
+</svg>

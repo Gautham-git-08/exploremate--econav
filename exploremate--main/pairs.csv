@@ -1,0 +1,1807 @@
+from,to,foot_km,foot_min,bike_km,bike_min,car_km,car_min,bus_km_estimate,bus_min_estimate
+Sri Aurobindo Ashram,White Town (French Quarter),0.56,7.4,0.55,2.5,0.64,2.0,0.64,13.2
+Sri Aurobindo Ashram,Promenade / Rock Beach,2.29,30.5,2.27,15.0,0.73,2.2,0.73,13.5
+Sri Aurobindo Ashram,Pondicherry Museum,0.4,5.4,0.41,1.7,0.41,1.3,0.41,12.1
+Sri Aurobindo Ashram,Matrimandir Viewing Point,8.98,125.4,8.64,39.4,10.59,20.1,10.59,42.2
+Sri Aurobindo Ashram,Casablanca Heritage Boutique,0.85,11.4,0.85,3.7,0.85,2.4,0.85,13.8
+Sri Aurobindo Ashram,Cluny Embroidery Centre,0.59,7.8,0.6,2.8,0.6,1.8,0.6,12.9
+Sri Aurobindo Ashram,Paradise Beach,14.21,189.5,17.23,78.5,14.11,24.8,14.11,49.7
+Sri Aurobindo Ashram,Serenity Beach,4.55,60.6,4.63,18.8,4.66,9.3,4.66,24.9
+Sri Aurobindo Ashram,Eden Beach,10.29,137.2,10.33,44.4,11.2,20.7,11.2,43.1
+Sri Aurobindo Ashram,Pondy Marina Beach,3.16,42.2,3.17,13.3,3.17,8.5,3.17,23.6
+Sri Aurobindo Ashram,Auroville Beach,6.34,84.6,6.33,25.5,6.59,12.2,6.59,29.5
+Sri Aurobindo Ashram,French War Memorial,0.72,9.6,0.78,3.8,0.77,2.4,0.77,13.8
+Sri Aurobindo Ashram,Mahatma Gandhi Statue,0.68,9.1,0.7,3.4,0.68,2.1,0.68,13.4
+Sri Aurobindo Ashram,Aayi Mandapam / Bharathi Park,0.67,8.9,0.73,3.9,0.48,1.4,0.48,12.2
+Sri Aurobindo Ashram,Old Lighthouse,0.6,8.0,0.61,3.1,0.66,2.0,0.66,13.2
+Sri Aurobindo Ashram,Raj Niwas (Governor's Palace),0.64,8.5,0.65,4.1,0.45,1.4,0.45,12.2
+Sri Aurobindo Ashram,Manakula Vinayagar Temple,0.18,2.4,0.18,1.1,0.18,0.6,0.18,11.0
+Sri Aurobindo Ashram,Basilica of the Sacred Heart of Jesus,1.76,23.5,1.86,7.7,1.87,4.8,1.87,17.7
+Sri Aurobindo Ashram,Eglise de Notre Dame des Anges,0.79,10.6,0.8,3.6,0.79,2.5,0.79,14.0
+Sri Aurobindo Ashram,Cathedral of Our Lady of the Immaculate Conception,0.64,8.6,0.66,3.0,0.65,1.9,0.65,13.0
+Sri Aurobindo Ashram,Vedapureeswarar Temple,0.75,10.0,0.75,3.5,0.75,2.2,0.75,13.5
+Sri Aurobindo Ashram,"Thirukameswarar Temple, Villianur",10.68,142.4,10.72,44.0,11.14,19.1,11.14,40.6
+Sri Aurobindo Ashram,Kanniga Parameswari Temple,0.95,12.7,0.95,4.7,1.26,3.5,1.26,15.6
+Sri Aurobindo Ashram,Meeran Mosque,1.01,13.4,0.99,5.0,1.2,3.2,1.2,15.1
+Sri Aurobindo Ashram,Kuthba Mosque,1.1,14.7,1.1,4.7,1.1,3.0,1.1,14.8
+Sri Aurobindo Ashram,Jamia Mosque,0.9,12.0,0.9,3.8,0.9,2.5,0.9,14.0
+Sri Aurobindo Ashram,Bharathi Park / Government Park,0.67,8.9,0.73,3.9,0.48,1.4,0.48,12.2
+Sri Aurobindo Ashram,Botanical Garden,1.97,26.3,1.96,8.3,1.94,4.7,1.94,17.5
+Sri Aurobindo Ashram,Jawahar Toy Museum,0.92,12.3,0.9,4.1,0.92,3.0,0.92,14.8
+Sri Aurobindo Ashram,Chunnambar Boat House,12.52,166.9,15.99,74.8,10.51,16.9,10.51,37.0
+Sri Aurobindo Ashram,Ousteri Wetland and National Park,15.81,210.8,14.97,60.1,14.83,26.4,14.83,52.2
+Sri Aurobindo Ashram,Arikamedu Archaeological Site,9.1,121.3,9.12,40.4,9.65,18.0,9.65,38.8
+Sri Aurobindo Ashram,Auroville Visitors Centre,11.19,155.4,10.84,51.2,13.49,27.6,13.49,54.2
+Sri Aurobindo Ashram,Jawaharlal Nehru Statue,0.68,9.1,0.7,3.4,0.68,2.1,0.68,13.4
+Sri Aurobindo Ashram,Dupleix Statue,0.98,13.1,0.97,4.4,0.98,3.1,0.98,15.0
+Sri Aurobindo Ashram,Romain Rolland Library,0.49,6.5,0.49,2.2,0.49,1.5,0.49,12.4
+Sri Aurobindo Ashram,French Institute of Pondicherry (IFP),0.41,5.5,0.42,2.0,0.42,1.4,0.42,12.2
+Sri Aurobindo Ashram,Alliance Francaise de Pondichery,1.42,18.9,1.43,6.5,1.42,3.8,1.42,16.1
+Sri Aurobindo Ashram,Hotel de Ville / Municipal Office,0.79,10.6,0.8,3.6,0.79,2.5,0.79,14.0
+Sri Aurobindo Ashram,Old Port / Old Harbour Area,1.71,22.8,1.72,8.2,1.74,4.5,1.74,17.2
+Sri Aurobindo Ashram,Auroville Farms & Green Belt,11.31,156.7,11.08,50.2,14.87,27.6,14.87,54.2
+Sri Aurobindo Ashram,Karaikal Beach,151.0,2013.4,147.46,567.3,142.85,114.4,142.85,193.0
+White Town (French Quarter),Sri Aurobindo Ashram,0.56,7.4,0.55,2.5,0.64,2.0,0.64,13.2
+White Town (French Quarter),Promenade / Rock Beach,1.84,24.5,1.72,12.5,0.17,0.4,0.17,10.6
+White Town (French Quarter),Pondicherry Museum,0.25,3.3,0.25,1.2,0.25,0.8,0.25,11.3
+White Town (French Quarter),Matrimandir Viewing Point,9.4,130.9,9.06,41.3,11.21,21.5,11.21,44.4
+White Town (French Quarter),Casablanca Heritage Boutique,0.86,11.4,0.85,3.8,0.85,2.5,0.85,14.0
+White Town (French Quarter),Cluny Embroidery Centre,0.48,6.4,0.54,2.7,0.54,1.8,0.54,12.9
+White Town (French Quarter),Paradise Beach,14.02,186.9,16.99,78.1,14.37,25.6,14.37,51.0
+White Town (French Quarter),Serenity Beach,4.96,66.2,5.06,20.7,5.27,10.8,5.27,27.3
+White Town (French Quarter),Eden Beach,10.09,134.5,10.09,44.0,11.46,21.5,11.46,44.4
+White Town (French Quarter),Pondy Marina Beach,2.96,39.5,2.93,13.1,3.05,8.7,3.05,23.9
+White Town (French Quarter),Auroville Beach,6.76,90.1,6.76,27.4,7.2,13.7,7.2,31.9
+White Town (French Quarter),French War Memorial,0.27,3.6,0.33,1.8,0.4,1.4,0.4,12.2
+White Town (French Quarter),Mahatma Gandhi Statue,0.15,2.0,0.15,0.9,0.12,0.3,0.12,10.5
+White Town (French Quarter),Aayi Mandapam / Bharathi Park,0.35,4.7,0.35,2.4,0.17,0.5,0.17,10.8
+White Town (French Quarter),Old Lighthouse,0.15,2.0,0.15,1.2,0.1,0.2,0.1,10.3
+White Town (French Quarter),Raj Niwas (Governor's Palace),0.39,5.2,0.39,2.9,0.19,0.6,0.19,11.0
+White Town (French Quarter),Manakula Vinayagar Temple,0.51,6.9,0.51,2.7,0.56,1.8,0.56,12.9
+White Town (French Quarter),Basilica of the Sacred Heart of Jesus,1.67,22.3,1.86,7.9,1.8,5.0,1.8,18.0
+White Town (French Quarter),Eglise de Notre Dame des Anges,0.34,4.6,0.34,1.7,0.42,1.4,0.42,12.2
+White Town (French Quarter),Cathedral of Our Lady of the Immaculate Conception,0.65,8.7,0.65,3.0,0.65,2.0,0.65,13.2
+White Town (French Quarter),Vedapureeswarar Temple,1.06,14.2,1.12,5.1,1.12,3.2,1.12,15.1
+White Town (French Quarter),"Thirukameswarar Temple, Villianur",10.66,142.2,10.67,45.0,11.4,19.9,11.4,41.8
+White Town (French Quarter),Kanniga Parameswari Temple,0.96,12.8,0.96,4.9,1.25,3.6,1.25,15.8
+White Town (French Quarter),Meeran Mosque,0.88,11.7,0.9,5.0,1.2,3.4,1.2,15.4
+White Town (French Quarter),Kuthba Mosque,0.98,13.0,1.1,4.9,1.1,3.2,1.1,15.1
+White Town (French Quarter),Jamia Mosque,1.19,15.8,1.19,5.0,1.19,3.3,1.19,15.3
+White Town (French Quarter),Bharathi Park / Government Park,0.35,4.7,0.35,2.4,0.17,0.5,0.17,10.8
+White Town (French Quarter),Botanical Garden,1.87,24.9,1.98,8.4,1.93,5.0,1.93,18.0
+White Town (French Quarter),Jawahar Toy Museum,0.35,4.7,0.35,1.6,0.55,1.9,0.55,13.0
+White Town (French Quarter),Chunnambar Boat House,12.32,164.2,15.75,74.4,10.77,17.7,10.77,38.3
+White Town (French Quarter),Ousteri Wetland and National Park,16.09,214.5,15.24,61.2,15.09,27.2,15.09,53.5
+White Town (French Quarter),Arikamedu Archaeological Site,8.9,118.7,8.89,40.0,9.91,18.8,9.91,40.1
+White Town (French Quarter),Auroville Visitors Centre,11.61,160.9,11.27,53.1,15.35,28.9,15.35,56.2
+White Town (French Quarter),Jawaharlal Nehru Statue,0.15,2.0,0.15,0.9,0.12,0.3,0.12,10.5
+White Town (French Quarter),Dupleix Statue,0.42,5.6,0.42,1.9,0.61,2.1,0.61,13.4
+White Town (French Quarter),Romain Rolland Library,0.16,2.1,0.16,0.8,0.16,0.5,0.16,10.8
+White Town (French Quarter),French Institute of Pondicherry (IFP),0.25,3.3,0.25,1.2,0.25,0.8,0.25,11.3
+White Town (French Quarter),Alliance Francaise de Pondichery,0.97,12.9,0.96,4.6,1.04,2.8,1.04,14.5
+White Town (French Quarter),Hotel de Ville / Municipal Office,0.34,4.6,0.34,1.7,0.42,1.4,0.42,12.2
+White Town (French Quarter),Old Port / Old Harbour Area,1.26,16.8,1.22,6.0,1.62,4.7,1.62,17.5
+White Town (French Quarter),Auroville Farms & Green Belt,11.73,162.2,11.5,52.1,14.76,28.5,14.76,55.6
+White Town (French Quarter),Karaikal Beach,150.81,2010.8,147.25,567.6,143.11,115.2,143.11,194.3
+Promenade / Rock Beach,Sri Aurobindo Ashram,2.29,30.5,2.26,14.9,0.73,2.3,0.73,13.7
+Promenade / Rock Beach,White Town (French Quarter),1.84,24.5,1.71,12.4,0.17,0.4,0.17,10.6
+Promenade / Rock Beach,Pondicherry Museum,1.89,25.2,1.88,13.2,0.34,1.1,0.34,11.8
+Promenade / Rock Beach,Matrimandir Viewing Point,11.25,155.6,10.78,53.7,11.3,21.8,11.3,44.9
+Promenade / Rock Beach,Casablanca Heritage Boutique,2.24,29.8,2.26,14.9,0.85,2.6,0.85,14.2
+Promenade / Rock Beach,Cluny Embroidery Centre,1.74,23.2,1.74,13.0,0.42,1.3,0.42,12.1
+Promenade / Rock Beach,Paradise Beach,13.84,184.6,16.86,81.9,13.21,25.0,13.21,50.0
+Promenade / Rock Beach,Serenity Beach,6.82,90.9,6.77,33.1,5.36,11.1,5.36,27.8
+Promenade / Rock Beach,Eden Beach,9.92,132.3,9.96,47.8,10.3,20.9,10.3,43.4
+Promenade / Rock Beach,Pondy Marina Beach,2.79,37.3,2.8,16.9,2.89,7.9,2.89,22.6
+Promenade / Rock Beach,Auroville Beach,8.61,114.8,8.47,39.8,7.29,13.9,7.29,32.2
+Promenade / Rock Beach,French War Memorial,1.57,20.9,1.56,12.0,0.1,0.3,0.1,10.5
+Promenade / Rock Beach,Mahatma Gandhi Statue,1.68,22.5,1.59,12.0,0.05,0.1,0.05,10.2
+Promenade / Rock Beach,Aayi Mandapam / Bharathi Park,1.81,24.1,1.8,13.6,0.26,0.8,0.26,11.3
+Promenade / Rock Beach,Old Lighthouse,1.69,22.5,1.67,12.9,0.08,0.2,0.08,10.3
+Promenade / Rock Beach,Raj Niwas (Governor's Palace),1.84,24.6,1.84,14.1,0.28,0.9,0.28,11.4
+Promenade / Rock Beach,Manakula Vinayagar Temple,2.16,28.8,2.14,14.7,0.66,2.1,0.66,13.4
+Promenade / Rock Beach,Basilica of the Sacred Heart of Jesus,1.7,22.7,1.71,12.4,1.62,4.4,1.62,17.0
+Promenade / Rock Beach,Eglise de Notre Dame des Anges,1.5,19.9,1.5,11.5,0.16,0.5,0.16,10.8
+Promenade / Rock Beach,Cathedral of Our Lady of the Immaculate Conception,2.11,28.2,2.14,14.4,0.73,2.3,0.73,13.7
+Promenade / Rock Beach,Vedapureeswarar Temple,2.77,37.0,2.75,17.1,1.21,3.5,1.21,15.6
+Promenade / Rock Beach,"Thirukameswarar Temple, Villianur",10.85,144.6,10.54,48.8,11.43,19.8,11.43,41.7
+Promenade / Rock Beach,Kanniga Parameswari Temple,2.46,32.8,2.47,16.5,1.38,4.0,1.38,16.4
+Promenade / Rock Beach,Meeran Mosque,1.57,21.0,1.58,12.0,0.95,2.7,0.95,14.3
+Promenade / Rock Beach,Kuthba Mosque,1.47,19.6,1.48,11.6,0.85,2.6,0.85,14.2
+Promenade / Rock Beach,Jamia Mosque,2.83,37.7,2.82,17.1,1.28,3.6,1.28,15.8
+Promenade / Rock Beach,Bharathi Park / Government Park,1.81,24.1,1.8,13.6,0.26,0.8,0.26,11.3
+Promenade / Rock Beach,Botanical Garden,2.4,32.1,2.21,14.2,1.75,4.3,1.75,16.9
+Promenade / Rock Beach,Jawahar Toy Museum,1.36,18.2,1.36,10.7,0.18,0.4,0.18,10.6
+Promenade / Rock Beach,Chunnambar Boat House,12.15,162.0,15.62,78.2,9.61,17.1,9.61,37.4
+Promenade / Rock Beach,Ousteri Wetland and National Park,17.09,227.9,16.24,69.6,15.11,27.2,15.11,53.5
+Promenade / Rock Beach,Arikamedu Archaeological Site,8.73,116.4,8.75,43.8,8.75,18.2,8.75,39.1
+Promenade / Rock Beach,Auroville Visitors Centre,13.46,185.6,12.98,65.5,15.44,29.2,15.44,56.7
+Promenade / Rock Beach,Jawaharlal Nehru Statue,1.68,22.5,1.59,12.0,0.05,0.1,0.05,10.2
+Promenade / Rock Beach,Dupleix Statue,1.3,17.3,1.3,10.4,0.24,0.6,0.24,11.0
+Promenade / Rock Beach,Romain Rolland Library,1.8,24.0,1.79,12.8,0.25,0.8,0.25,11.3
+Promenade / Rock Beach,French Institute of Pondicherry (IFP),1.89,25.2,1.89,13.1,0.34,1.1,0.34,11.8
+Promenade / Rock Beach,Alliance Francaise de Pondichery,0.87,11.6,0.87,8.6,0.79,1.9,0.79,13.0
+Promenade / Rock Beach,Hotel de Ville / Municipal Office,1.5,19.9,1.5,11.5,0.16,0.5,0.16,10.8
+Promenade / Rock Beach,Old Port / Old Harbour Area,1.09,14.5,1.09,9.8,1.46,3.9,1.46,16.2
+Promenade / Rock Beach,Auroville Farms & Green Belt,13.58,186.9,13.22,64.4,14.85,28.8,14.85,56.1
+Promenade / Rock Beach,Karaikal Beach,150.63,2008.5,147.11,571.4,141.95,114.6,141.95,193.4
+Pondicherry Museum,Sri Aurobindo Ashram,0.4,5.4,0.41,1.8,0.41,1.3,0.41,12.1
+Pondicherry Museum,White Town (French Quarter),0.25,3.3,0.25,1.3,0.25,0.9,0.25,11.4
+Pondicherry Museum,Promenade / Rock Beach,1.89,25.2,1.88,13.3,0.34,1.0,0.34,11.6
+Pondicherry Museum,Matrimandir Viewing Point,9.34,130.1,9.0,40.8,11.03,20.9,11.03,43.4
+Pondicherry Museum,Casablanca Heritage Boutique,0.68,9.0,0.68,3.0,0.68,1.9,0.68,13.0
+Pondicherry Museum,Cluny Embroidery Centre,0.36,4.8,0.36,1.9,0.36,1.2,0.36,11.9
+Pondicherry Museum,Paradise Beach,13.99,186.5,17.05,77.8,14.19,25.0,14.19,50.0
+Pondicherry Museum,Serenity Beach,4.9,65.4,5.0,20.1,5.1,10.2,5.1,26.3
+Pondicherry Museum,Eden Beach,10.06,134.2,10.15,43.7,11.28,20.9,11.28,43.4
+Pondicherry Museum,Pondy Marina Beach,2.94,39.2,2.99,12.6,2.99,8.1,2.99,23.0
+Pondicherry Museum,Auroville Beach,6.7,89.3,6.7,26.9,7.03,13.1,7.03,31.0
+Pondicherry Museum,French War Memorial,0.32,4.3,0.38,2.0,0.38,1.3,0.38,12.1
+Pondicherry Museum,Mahatma Gandhi Statue,0.28,3.8,0.32,1.7,0.29,0.9,0.29,11.4
+Pondicherry Museum,Aayi Mandapam / Bharathi Park,0.33,4.4,0.33,2.2,0.08,0.3,0.08,10.5
+Pondicherry Museum,Old Lighthouse,0.2,2.7,0.2,1.3,0.26,0.9,0.26,11.4
+Pondicherry Museum,Raj Niwas (Governor's Palace),0.36,4.9,0.36,2.7,0.06,0.2,0.06,10.3
+Pondicherry Museum,Manakula Vinayagar Temple,0.28,3.7,0.28,1.7,0.32,1.0,0.32,11.6
+Pondicherry Museum,Basilica of the Sacred Heart of Jesus,1.56,20.8,1.68,7.0,1.62,4.4,1.62,17.0
+Pondicherry Museum,Eglise de Notre Dame des Anges,0.39,5.2,0.39,1.9,0.39,1.3,0.39,12.1
+Pondicherry Museum,Cathedral of Our Lady of the Immaculate Conception,0.47,6.3,0.47,2.1,0.47,1.4,0.47,12.2
+Pondicherry Museum,Vedapureeswarar Temple,0.89,11.8,0.94,4.2,0.89,2.6,0.89,14.2
+Pondicherry Museum,"Thirukameswarar Temple, Villianur",10.54,140.5,10.81,44.2,11.22,19.3,11.22,40.9
+Pondicherry Museum,Kanniga Parameswari Temple,0.78,10.4,0.78,4.0,1.07,3.0,1.07,14.8
+Pondicherry Museum,Meeran Mosque,0.78,10.4,0.81,4.3,1.02,2.8,1.02,14.5
+Pondicherry Museum,Kuthba Mosque,0.88,11.7,0.92,4.0,0.92,2.6,0.92,14.2
+Pondicherry Museum,Jamia Mosque,1.01,13.4,1.01,4.2,1.01,2.7,1.01,14.3
+Pondicherry Museum,Bharathi Park / Government Park,0.33,4.4,0.33,2.2,0.08,0.3,0.08,10.5
+Pondicherry Museum,Botanical Garden,1.75,23.3,1.8,7.6,1.75,4.4,1.75,17.0
+Pondicherry Museum,Jawahar Toy Museum,0.52,7.0,0.51,2.4,0.52,1.8,0.52,12.9
+Pondicherry Museum,Chunnambar Boat House,12.29,163.9,15.81,74.1,10.59,17.1,10.59,37.4
+Pondicherry Museum,Ousteri Wetland and National Park,15.91,212.1,15.06,60.3,14.91,26.6,14.91,52.6
+Pondicherry Museum,Arikamedu Archaeological Site,8.88,118.3,8.94,39.7,9.74,18.2,9.74,39.1
+Pondicherry Museum,Auroville Visitors Centre,11.55,160.1,11.21,52.6,15.17,28.3,15.17,55.3
+Pondicherry Museum,Jawaharlal Nehru Statue,0.28,3.8,0.32,1.7,0.29,0.9,0.29,11.4
+Pondicherry Museum,Dupleix Statue,0.59,7.8,0.58,2.7,0.59,2.0,0.59,13.2
+Pondicherry Museum,Romain Rolland Library,0.09,1.2,0.09,0.4,0.09,0.3,0.09,10.5
+Pondicherry Museum,French Institute of Pondicherry (IFP),0.15,2.0,0.15,0.9,0.15,0.6,0.15,11.0
+Pondicherry Museum,Alliance Francaise de Pondichery,1.02,13.6,1.02,4.8,1.02,2.7,1.02,14.3
+Pondicherry Museum,Hotel de Ville / Municipal Office,0.39,5.3,0.39,1.9,0.39,1.3,0.39,12.1
+Pondicherry Museum,Old Port / Old Harbour Area,1.31,17.5,1.31,6.5,1.56,4.1,1.56,16.6
+Pondicherry Museum,Auroville Farms & Green Belt,11.67,161.4,11.45,51.5,14.58,27.9,14.58,54.6
+Pondicherry Museum,Karaikal Beach,150.78,2010.4,147.3,567.3,142.93,114.6,142.93,193.4
+Matrimandir Viewing Point,Sri Aurobindo Ashram,8.98,125.4,8.62,39.2,10.54,20.1,10.54,42.2
+Matrimandir Viewing Point,White Town (French Quarter),9.4,130.9,9.05,41.1,11.11,21.8,11.11,44.9
+Matrimandir Viewing Point,Promenade / Rock Beach,11.25,155.6,10.77,53.6,11.2,22.0,11.2,45.2
+Matrimandir Viewing Point,Pondicherry Museum,9.34,130.1,8.99,40.5,10.84,21.0,10.84,43.6
+Matrimandir Viewing Point,Casablanca Heritage Boutique,9.2,128.3,8.78,40.2,10.93,21.3,10.93,44.1
+Matrimandir Viewing Point,Cluny Embroidery Centre,9.5,132.3,9.16,41.4,11.01,21.5,11.01,44.4
+Matrimandir Viewing Point,Paradise Beach,22.36,303.9,27.87,111.0,22.04,33.9,22.04,64.2
+Matrimandir Viewing Point,Serenity Beach,6.4,85.7,6.39,28.5,7.29,14.7,7.29,33.5
+Matrimandir Viewing Point,Eden Beach,18.44,251.6,18.35,80.9,19.13,29.8,19.13,57.7
+Matrimandir Viewing Point,Pondy Marina Beach,12.07,166.6,11.56,51.3,16.42,27.0,16.42,53.2
+Matrimandir Viewing Point,Auroville Beach,4.8,64.4,4.79,21.6,5.03,10.9,5.03,27.4
+Matrimandir Viewing Point,French War Memorial,9.69,134.8,9.37,42.6,11.23,22.2,11.23,45.5
+Matrimandir Viewing Point,Mahatma Gandhi Statue,9.64,134.2,9.2,42.0,11.15,21.9,11.15,45.0
+Matrimandir Viewing Point,Aayi Mandapam / Bharathi Park,9.58,133.3,9.32,42.7,10.94,21.2,10.94,43.9
+Matrimandir Viewing Point,Old Lighthouse,9.57,133.2,9.19,41.9,11.12,21.8,11.12,44.9
+Matrimandir Viewing Point,Raj Niwas (Governor's Palace),9.55,132.9,9.21,42.9,10.92,21.2,10.92,43.9
+Matrimandir Viewing Point,Manakula Vinayagar Temple,9.09,126.9,8.73,39.7,10.56,20.3,10.56,42.5
+Matrimandir Viewing Point,Basilica of the Sacred Heart of Jesus,9.91,137.8,9.57,43.3,13.85,22.2,13.85,45.5
+Matrimandir Viewing Point,Eglise de Notre Dame des Anges,9.76,135.7,9.38,42.4,11.25,22.2,11.25,45.5
+Matrimandir Viewing Point,Cathedral of Our Lady of the Immaculate Conception,9.28,129.4,8.86,40.4,10.9,21.2,10.9,43.9
+Matrimandir Viewing Point,Vedapureeswarar Temple,8.7,121.6,8.46,39.1,10.82,21.1,10.82,43.8
+Matrimandir Viewing Point,"Thirukameswarar Temple, Villianur",14.52,194.0,14.46,58.1,15.83,26.0,15.83,51.6
+Matrimandir Viewing Point,Kanniga Parameswari Temple,8.98,125.3,8.81,39.9,12.59,21.8,12.59,44.9
+Matrimandir Viewing Point,Meeran Mosque,9.82,136.5,9.46,42.7,13.95,22.1,13.95,45.4
+Matrimandir Viewing Point,Kuthba Mosque,9.92,137.9,9.49,42.7,13.84,21.9,13.84,45.0
+Matrimandir Viewing Point,Jamia Mosque,8.62,120.5,8.45,38.3,10.55,20.7,10.55,43.1
+Matrimandir Viewing Point,Bharathi Park / Government Park,9.58,133.3,9.32,42.7,10.94,21.2,10.94,43.9
+Matrimandir Viewing Point,Botanical Garden,9.62,134.0,9.35,42.4,13.05,20.5,13.05,42.8
+Matrimandir Viewing Point,Jawahar Toy Museum,9.88,137.4,9.4,42.7,11.38,22.7,11.38,46.3
+Matrimandir Viewing Point,Chunnambar Boat House,20.67,281.3,26.63,107.3,18.44,26.0,18.44,51.6
+Matrimandir Viewing Point,Ousteri Wetland and National Park,17.33,231.6,17.26,69.1,20.25,28.2,20.25,55.1
+Matrimandir Viewing Point,Arikamedu Archaeological Site,17.25,235.7,17.15,77.0,17.58,27.1,17.58,53.4
+Matrimandir Viewing Point,Auroville Visitors Centre,2.42,33.6,2.43,16.2,3.11,8.6,3.11,23.8
+Matrimandir Viewing Point,Jawaharlal Nehru Statue,9.64,134.2,9.2,42.0,11.15,21.9,11.15,45.0
+Matrimandir Viewing Point,Dupleix Statue,9.95,138.3,9.47,43.0,11.44,22.9,11.44,46.6
+Matrimandir Viewing Point,Romain Rolland Library,9.45,131.6,9.08,41.0,10.95,21.3,10.95,44.1
+Matrimandir Viewing Point,French Institute of Pondicherry (IFP),9.34,130.2,9.0,40.8,10.88,21.2,10.88,43.9
+Matrimandir Viewing Point,Alliance Francaise de Pondichery,10.38,144.0,10.04,45.2,14.44,23.5,14.44,47.6
+Matrimandir Viewing Point,Hotel de Ville / Municipal Office,9.76,135.7,9.38,42.5,11.25,22.2,11.25,45.5
+Matrimandir Viewing Point,Old Port / Old Harbour Area,10.67,147.9,10.34,46.9,14.52,23.6,14.52,47.8
+Matrimandir Viewing Point,Auroville Farms & Green Belt,2.54,34.9,2.49,16.1,3.15,9.2,3.15,24.7
+Matrimandir Viewing Point,Karaikal Beach,159.15,2127.8,151.53,584.3,150.78,123.5,150.78,207.6
+Casablanca Heritage Boutique,Sri Aurobindo Ashram,0.85,11.4,0.85,3.7,0.85,2.1,0.85,13.4
+Casablanca Heritage Boutique,White Town (French Quarter),0.86,11.4,0.86,4.2,1.0,3.2,1.0,15.1
+Casablanca Heritage Boutique,Promenade / Rock Beach,2.24,29.8,2.24,14.7,0.83,2.6,0.83,14.2
+Casablanca Heritage Boutique,Pondicherry Museum,0.68,9.0,0.68,3.3,0.84,2.3,0.84,13.7
+Casablanca Heritage Boutique,Matrimandir Viewing Point,9.2,128.3,8.78,39.7,11.14,21.1,11.14,43.8
+Casablanca Heritage Boutique,Cluny Embroidery Centre,0.5,6.6,0.5,2.2,0.5,1.5,0.5,12.4
+Casablanca Heritage Boutique,Paradise Beach,13.9,185.3,16.88,77.0,12.59,23.4,12.59,47.4
+Casablanca Heritage Boutique,Serenity Beach,5.2,69.3,4.92,20.2,5.21,10.3,5.21,26.5
+Casablanca Heritage Boutique,Eden Beach,9.98,133.0,9.98,42.8,9.68,19.3,9.68,40.9
+Casablanca Heritage Boutique,Pondy Marina Beach,2.94,39.1,2.9,12.4,2.9,7.7,2.9,22.3
+Casablanca Heritage Boutique,Auroville Beach,6.99,93.2,6.46,26.4,7.14,13.2,7.14,31.1
+Casablanca Heritage Boutique,French War Memorial,0.73,9.7,0.73,3.4,0.73,2.2,0.73,13.5
+Casablanca Heritage Boutique,Mahatma Gandhi Statue,0.83,11.0,0.83,4.2,0.88,2.7,0.88,14.3
+Casablanca Heritage Boutique,Aayi Mandapam / Bharathi Park,0.73,9.7,0.87,4.6,0.83,2.6,0.83,14.2
+Casablanca Heritage Boutique,Old Lighthouse,0.81,10.9,0.81,4.3,1.01,3.1,1.01,15.0
+Casablanca Heritage Boutique,Raj Niwas (Governor's Palace),0.7,9.3,0.7,4.4,0.81,2.5,0.81,14.0
+Casablanca Heritage Boutique,Manakula Vinayagar Temple,0.67,8.9,0.67,3.4,0.84,2.4,0.84,13.8
+Casablanca Heritage Boutique,Basilica of the Sacred Heart of Jesus,1.0,13.4,1.0,4.2,1.0,2.6,1.0,14.2
+Casablanca Heritage Boutique,Eglise de Notre Dame des Anges,0.74,9.9,0.74,3.3,0.74,2.3,0.74,13.7
+Casablanca Heritage Boutique,Cathedral of Our Lady of the Immaculate Conception,0.2,2.7,0.2,1.0,0.2,0.6,0.2,11.0
+Casablanca Heritage Boutique,Vedapureeswarar Temple,0.52,6.9,0.53,2.5,0.52,1.6,0.52,12.6
+Casablanca Heritage Boutique,"Thirukameswarar Temple, Villianur",9.9,132.1,10.23,42.0,10.81,18.0,10.81,38.8
+Casablanca Heritage Boutique,Kanniga Parameswari Temple,0.22,3.0,0.22,1.7,0.53,1.4,0.53,12.2
+Casablanca Heritage Boutique,Meeran Mosque,0.68,9.0,0.74,3.3,0.74,2.0,0.74,13.2
+Casablanca Heritage Boutique,Kuthba Mosque,0.78,10.4,0.79,3.5,0.79,2.0,0.79,13.2
+Casablanca Heritage Boutique,Jamia Mosque,0.58,7.8,0.58,2.4,0.58,1.5,0.58,12.4
+Casablanca Heritage Boutique,Bharathi Park / Government Park,0.73,9.7,0.87,4.6,0.83,2.6,0.83,14.2
+Casablanca Heritage Boutique,Botanical Garden,1.12,14.9,1.13,4.8,1.13,2.7,1.13,14.3
+Casablanca Heritage Boutique,Jawahar Toy Museum,0.87,11.6,0.87,3.9,0.87,2.8,0.87,14.5
+Casablanca Heritage Boutique,Chunnambar Boat House,12.2,162.7,15.64,73.3,8.99,15.5,8.99,34.8
+Casablanca Heritage Boutique,Ousteri Wetland and National Park,15.48,206.5,14.64,58.6,14.5,25.3,14.5,50.5
+Casablanca Heritage Boutique,Arikamedu Archaeological Site,8.79,117.2,8.77,38.9,8.13,16.6,8.13,36.6
+Casablanca Heritage Boutique,Auroville Visitors Centre,11.41,158.3,10.99,51.5,14.75,27.0,14.75,53.2
+Casablanca Heritage Boutique,Jawaharlal Nehru Statue,0.83,11.0,0.83,4.2,0.88,2.7,0.88,14.3
+Casablanca Heritage Boutique,Dupleix Statue,0.94,12.5,0.94,4.2,0.94,2.9,0.94,14.6
+Casablanca Heritage Boutique,Romain Rolland Library,0.7,9.3,0.7,3.4,0.84,2.6,0.84,14.2
+Casablanca Heritage Boutique,French Institute of Pondicherry (IFP),0.76,10.2,0.76,3.7,0.91,2.8,0.91,14.5
+Casablanca Heritage Boutique,Alliance Francaise de Pondichery,1.37,18.2,1.37,6.2,1.37,3.6,1.37,15.8
+Casablanca Heritage Boutique,Hotel de Ville / Municipal Office,0.74,9.9,0.74,3.3,0.74,2.3,0.74,13.7
+Casablanca Heritage Boutique,Old Port / Old Harbour Area,1.66,22.1,1.66,7.9,1.47,3.7,1.47,15.9
+Casablanca Heritage Boutique,Auroville Farms & Green Belt,11.53,159.6,11.23,50.5,14.16,26.6,14.16,52.6
+Casablanca Heritage Boutique,Karaikal Beach,150.69,2009.2,146.96,565.2,141.33,113.0,141.33,190.8
+Cluny Embroidery Centre,Sri Aurobindo Ashram,0.59,7.8,0.63,3.4,0.75,2.4,0.75,13.8
+Cluny Embroidery Centre,White Town (French Quarter),0.48,6.4,0.48,2.3,0.48,1.7,0.48,12.7
+Cluny Embroidery Centre,Promenade / Rock Beach,1.74,23.2,1.74,12.5,0.33,1.1,0.33,11.8
+Cluny Embroidery Centre,Pondicherry Museum,0.36,4.8,0.46,2.0,0.46,1.6,0.46,12.6
+Cluny Embroidery Centre,Matrimandir Viewing Point,9.5,132.3,9.18,41.9,11.23,21.6,11.23,44.6
+Cluny Embroidery Centre,Casablanca Heritage Boutique,0.5,6.6,0.5,2.6,0.62,2.0,0.62,13.2
+Cluny Embroidery Centre,Paradise Beach,13.69,182.5,16.72,76.8,12.99,24.4,12.99,49.0
+Cluny Embroidery Centre,Serenity Beach,5.06,67.5,5.17,21.3,5.29,10.8,5.29,27.3
+Cluny Embroidery Centre,Eden Beach,9.76,130.2,9.83,42.7,10.08,20.3,10.08,42.5
+Cluny Embroidery Centre,Pondy Marina Beach,2.64,35.1,2.66,11.6,2.68,7.4,2.68,21.8
+Cluny Embroidery Centre,Auroville Beach,6.86,91.5,6.87,28.1,7.22,13.7,7.22,31.9
+Cluny Embroidery Centre,French War Memorial,0.23,3.0,0.23,1.2,0.23,0.7,0.23,11.1
+Cluny Embroidery Centre,Mahatma Gandhi Statue,0.33,4.4,0.33,2.0,0.38,1.2,0.38,11.9
+Cluny Embroidery Centre,Aayi Mandapam / Bharathi Park,0.3,4.0,0.37,2.4,0.38,1.3,0.38,12.1
+Cluny Embroidery Centre,Old Lighthouse,0.33,4.4,0.33,2.1,0.41,1.3,0.41,12.1
+Cluny Embroidery Centre,Raj Niwas (Governor's Palace),0.27,3.6,0.27,2.7,0.4,1.4,0.4,12.2
+Cluny Embroidery Centre,Manakula Vinayagar Temple,0.41,5.4,0.41,2.7,0.67,2.1,0.67,13.4
+Cluny Embroidery Centre,Basilica of the Sacred Heart of Jesus,1.26,16.8,1.28,6.1,1.4,3.8,1.4,16.1
+Cluny Embroidery Centre,Eglise de Notre Dame des Anges,0.25,3.3,0.25,1.1,0.25,0.8,0.25,11.3
+Cluny Embroidery Centre,Cathedral of Our Lady of the Immaculate Conception,0.37,5.0,0.37,2.0,0.5,1.7,0.5,12.7
+Cluny Embroidery Centre,Vedapureeswarar Temple,1.03,13.7,1.02,4.9,1.14,3.2,1.14,15.1
+Cluny Embroidery Centre,"Thirukameswarar Temple, Villianur",10.24,136.6,10.4,43.7,11.21,19.2,11.21,40.7
+Cluny Embroidery Centre,Kanniga Parameswari Temple,0.72,9.6,0.72,4.3,1.15,3.4,1.15,15.4
+Cluny Embroidery Centre,Meeran Mosque,0.49,6.5,0.52,3.2,0.73,2.1,0.73,13.4
+Cluny Embroidery Centre,Kuthba Mosque,0.58,7.8,0.59,3.0,0.63,2.0,0.63,13.2
+Cluny Embroidery Centre,Jamia Mosque,1.08,14.4,1.08,5.0,1.2,3.4,1.2,15.4
+Cluny Embroidery Centre,Bharathi Park / Government Park,0.3,4.0,0.37,2.4,0.38,1.3,0.38,12.1
+Cluny Embroidery Centre,Botanical Garden,1.45,19.4,1.45,6.6,1.53,3.7,1.53,15.9
+Cluny Embroidery Centre,Jawahar Toy Museum,0.37,5.0,0.38,1.7,0.37,1.2,0.37,11.9
+Cluny Embroidery Centre,Chunnambar Boat House,11.99,159.9,15.48,73.1,9.39,16.5,9.39,36.4
+Cluny Embroidery Centre,Ousteri Wetland and National Park,16.09,214.6,15.14,61.2,14.89,26.6,14.89,52.6
+Cluny Embroidery Centre,Arikamedu Archaeological Site,8.57,114.3,8.62,38.7,8.53,17.6,8.53,38.2
+Cluny Embroidery Centre,Auroville Visitors Centre,11.71,162.2,11.38,53.7,15.36,29.0,15.36,56.4
+Cluny Embroidery Centre,Jawaharlal Nehru Statue,0.33,4.4,0.33,2.0,0.38,1.2,0.38,11.9
+Cluny Embroidery Centre,Dupleix Statue,0.44,5.8,0.44,2.0,0.44,1.4,0.44,12.2
+Cluny Embroidery Centre,Romain Rolland Library,0.37,4.9,0.37,1.6,0.37,1.2,0.37,11.9
+Cluny Embroidery Centre,French Institute of Pondicherry (IFP),0.45,6.0,0.46,1.9,0.46,1.5,0.46,12.4
+Cluny Embroidery Centre,Alliance Francaise de Pondichery,0.87,11.6,0.87,4.0,0.87,2.1,0.87,13.4
+Cluny Embroidery Centre,Hotel de Ville / Municipal Office,0.25,3.3,0.25,1.1,0.25,0.8,0.25,11.3
+Cluny Embroidery Centre,Old Port / Old Harbour Area,1.16,15.5,1.16,5.7,1.25,3.4,1.25,15.4
+Cluny Embroidery Centre,Auroville Farms & Green Belt,11.83,163.5,11.62,52.7,14.78,28.6,14.78,55.8
+Cluny Embroidery Centre,Karaikal Beach,150.48,2006.4,146.98,566.3,141.73,114.0,141.73,192.4
+Paradise Beach,Sri Aurobindo Ashram,14.21,189.5,17.21,82.6,13.15,26.1,13.15,51.8
+Paradise Beach,White Town (French Quarter),14.02,186.9,16.98,82.5,13.14,26.7,13.14,52.7
+Paradise Beach,Promenade / Rock Beach,13.84,184.6,16.85,86.3,12.97,26.1,12.97,51.8
+Paradise Beach,Pondicherry Museum,13.99,186.5,17.02,82.2,12.96,26.1,12.96,51.8
+Paradise Beach,Matrimandir Viewing Point,22.36,303.9,27.87,111.0,22.04,38.0,22.04,70.8
+Paradise Beach,Casablanca Heritage Boutique,13.9,185.3,16.89,81.3,12.6,24.9,12.6,49.8
+Paradise Beach,Cluny Embroidery Centre,13.69,182.5,16.7,80.4,12.64,25.1,12.64,50.2
+Paradise Beach,Serenity Beach,18.52,247.0,21.57,100.0,17.63,30.7,17.63,59.1
+Paradise Beach,Eden Beach,9.64,128.5,11.32,60.7,9.2,21.6,9.2,44.6
+Paradise Beach,Pondy Marina Beach,13.92,185.6,16.92,81.8,12.86,26.7,12.86,52.7
+Paradise Beach,Auroville Beach,20.32,270.9,26.87,106.3,19.04,32.5,19.04,62.0
+Paradise Beach,French War Memorial,13.75,183.3,16.92,81.7,12.86,25.8,12.86,51.3
+Paradise Beach,Mahatma Gandhi Statue,13.86,184.8,16.86,82.2,13.02,26.3,13.02,52.1
+Paradise Beach,Aayi Mandapam / Bharathi Park,13.92,185.6,17.07,82.9,12.97,26.1,12.97,51.8
+Paradise Beach,Old Lighthouse,13.86,184.8,17.03,82.6,13.15,26.7,13.15,52.7
+Paradise Beach,Raj Niwas (Governor's Palace),13.89,185.2,16.9,82.6,12.95,26.0,12.95,51.6
+Paradise Beach,Manakula Vinayagar Temple,14.03,187.1,17.02,82.3,13.13,26.3,13.13,52.1
+Paradise Beach,Basilica of the Sacred Heart of Jesus,12.97,173.0,15.94,77.9,11.66,23.0,11.66,46.8
+Paradise Beach,Eglise de Notre Dame des Anges,13.68,182.3,16.68,81.2,12.71,25.7,12.71,51.1
+Paradise Beach,Cathedral of Our Lady of the Immaculate Conception,13.81,184.1,16.76,80.9,12.71,25.2,12.71,50.3
+Paradise Beach,Vedapureeswarar Temple,14.01,186.8,16.95,82.2,13.45,25.5,13.45,50.8
+Paradise Beach,"Thirukameswarar Temple, Villianur",12.87,171.6,13.74,54.7,14.2,21.8,14.2,44.9
+Paradise Beach,Kanniga Parameswari Temple,13.8,184.0,16.74,81.1,12.49,24.8,12.49,49.7
+Paradise Beach,Meeran Mosque,13.22,176.2,16.22,78.5,12.16,23.9,12.16,48.2
+Paradise Beach,Kuthba Mosque,13.12,174.9,16.12,78.1,12.06,23.8,12.06,48.1
+Paradise Beach,Jamia Mosque,13.85,184.7,16.79,81.3,13.3,24.7,13.3,49.5
+Paradise Beach,Bharathi Park / Government Park,13.92,185.6,17.07,82.9,12.97,26.1,12.97,51.8
+Paradise Beach,Botanical Garden,12.9,172.0,15.87,77.4,11.58,22.5,11.58,46.0
+Paradise Beach,Jawahar Toy Museum,13.63,181.7,16.62,80.9,12.76,25.9,12.76,51.4
+Paradise Beach,Chunnambar Boat House,1.7,22.6,1.7,6.8,7.22,16.3,7.22,36.1
+Paradise Beach,Ousteri Wetland and National Park,19.54,260.6,20.07,78.6,20.16,30.1,20.16,58.2
+Paradise Beach,Arikamedu Archaeological Site,9.59,127.8,12.56,60.2,9.21,20.2,9.21,42.3
+Paradise Beach,Auroville Visitors Centre,24.57,333.8,28.15,113.1,23.97,40.5,23.97,74.8
+Paradise Beach,Jawaharlal Nehru Statue,13.86,184.8,16.86,82.2,13.02,26.3,13.02,52.1
+Paradise Beach,Dupleix Statue,13.56,180.8,16.56,80.6,12.82,26.1,12.82,51.8
+Paradise Beach,Romain Rolland Library,13.9,185.3,17.06,82.1,12.98,26.1,12.98,51.8
+Paradise Beach,French Institute of Pondicherry (IFP),13.99,186.5,17.15,82.4,13.05,26.4,13.05,52.2
+Paradise Beach,Alliance Francaise de Pondichery,13.05,174.0,16.05,78.3,12.43,25.0,12.43,50.0
+Paradise Beach,Hotel de Ville / Municipal Office,13.68,182.3,16.68,81.2,12.71,25.7,12.71,51.1
+Paradise Beach,Old Port / Old Harbour Area,13.27,176.9,16.27,79.8,11.85,24.2,11.85,48.7
+Paradise Beach,Auroville Farms & Green Belt,23.99,320.1,27.42,108.3,23.38,40.2,23.38,74.3
+Paradise Beach,Karaikal Beach,144.62,1928.3,138.51,534.2,135.45,105.6,135.45,179.0
+Serenity Beach,Sri Aurobindo Ashram,4.55,60.6,4.63,19.0,4.7,9.4,4.7,25.0
+Serenity Beach,White Town (French Quarter),4.96,66.2,5.06,20.8,5.26,11.1,5.26,27.8
+Serenity Beach,Promenade / Rock Beach,6.82,90.9,6.77,33.3,5.35,11.3,5.35,28.1
+Serenity Beach,Pondicherry Museum,4.9,65.4,5.0,20.3,5.0,10.3,5.0,26.5
+Serenity Beach,Matrimandir Viewing Point,6.4,85.7,6.39,28.7,7.29,14.6,7.29,33.4
+Serenity Beach,Casablanca Heritage Boutique,5.2,69.3,5.09,20.8,5.09,10.6,5.09,27.0
+Serenity Beach,Cluny Embroidery Centre,5.06,67.5,5.16,21.1,5.16,10.7,5.16,27.1
+Serenity Beach,Paradise Beach,18.52,247.0,21.51,96.0,17.63,29.1,17.63,56.6
+Serenity Beach,Eden Beach,14.6,194.7,14.61,61.9,14.71,25.0,14.71,50.0
+Serenity Beach,Pondy Marina Beach,7.64,101.9,7.57,31.0,7.57,17.0,7.57,37.2
+Serenity Beach,Auroville Beach,3.12,41.6,3.14,12.6,3.29,6.7,3.29,20.7
+Serenity Beach,French War Memorial,5.25,70.0,5.37,22.3,5.39,11.4,5.39,28.2
+Serenity Beach,Mahatma Gandhi Statue,5.21,69.5,5.21,21.7,5.3,11.1,5.3,27.8
+Serenity Beach,Aayi Mandapam / Bharathi Park,5.14,68.6,5.32,22.5,5.1,10.5,5.1,26.8
+Serenity Beach,Old Lighthouse,5.13,68.4,5.2,21.6,5.27,11.1,5.27,27.8
+Serenity Beach,Raj Niwas (Governor's Palace),5.11,68.2,5.21,22.7,5.07,10.4,5.07,26.6
+Serenity Beach,Manakula Vinayagar Temple,4.66,62.1,4.74,19.4,4.72,9.6,4.72,25.4
+Serenity Beach,Basilica of the Sacred Heart of Jesus,6.21,82.9,5.71,24.0,6.1,13.1,6.1,31.0
+Serenity Beach,Eglise de Notre Dame des Anges,5.32,70.9,5.39,22.2,5.41,11.5,5.41,28.4
+Serenity Beach,Cathedral of Our Lady of the Immaculate Conception,5.0,66.7,5.02,20.8,5.05,10.4,5.05,26.6
+Serenity Beach,Vedapureeswarar Temple,4.71,62.8,4.6,19.8,4.98,10.4,4.98,26.6
+Serenity Beach,"Thirukameswarar Temple, Villianur",14.42,192.2,14.26,57.9,13.83,23.0,13.83,46.8
+Serenity Beach,Kanniga Parameswari Temple,5.3,70.6,5.07,20.9,5.52,11.4,5.52,28.2
+Serenity Beach,Meeran Mosque,5.33,71.1,5.39,22.7,5.6,11.7,5.6,28.7
+Serenity Beach,Kuthba Mosque,5.43,72.5,5.5,22.5,5.5,11.5,5.5,28.4
+Serenity Beach,Jamia Mosque,4.63,61.8,4.71,19.3,5.16,10.4,5.16,26.6
+Serenity Beach,Bharathi Park / Government Park,5.14,68.6,5.32,22.5,5.1,10.5,5.1,26.8
+Serenity Beach,Botanical Garden,5.63,75.2,5.61,23.4,6.06,12.0,6.06,29.2
+Serenity Beach,Jawahar Toy Museum,5.45,72.7,5.41,22.5,5.54,12.0,5.54,29.2
+Serenity Beach,Chunnambar Boat House,16.83,224.4,20.27,92.3,14.02,21.2,14.02,43.9
+Serenity Beach,Ousteri Wetland and National Park,19.06,254.1,17.46,69.9,16.94,28.6,16.94,55.8
+Serenity Beach,Arikamedu Archaeological Site,13.41,178.8,13.4,58.0,13.17,22.3,13.17,45.7
+Serenity Beach,Auroville Visitors Centre,8.22,117.7,8.15,39.6,10.19,22.2,10.19,45.5
+Serenity Beach,Jawaharlal Nehru Statue,5.21,69.5,5.21,21.7,5.3,11.1,5.3,27.8
+Serenity Beach,Dupleix Statue,5.51,73.5,5.47,22.8,5.6,12.1,5.6,29.4
+Serenity Beach,Romain Rolland Library,5.01,66.9,5.09,20.7,5.1,10.5,5.1,26.8
+Serenity Beach,French Institute of Pondicherry (IFP),4.91,65.5,5.01,20.6,5.04,10.4,5.04,26.6
+Serenity Beach,Alliance Francaise de Pondichery,5.94,79.3,6.05,25.0,6.03,12.8,6.03,30.5
+Serenity Beach,Hotel de Ville / Municipal Office,5.32,70.9,5.39,22.2,5.41,11.5,5.41,28.4
+Serenity Beach,Old Port / Old Harbour Area,6.24,83.2,6.34,26.7,6.14,13.0,6.14,30.8
+Serenity Beach,Auroville Farms & Green Belt,8.65,122.9,8.83,39.4,10.51,21.7,10.51,44.7
+Serenity Beach,Karaikal Beach,155.31,2070.9,151.02,581.7,146.37,118.7,146.37,199.9
+Eden Beach,Sri Aurobindo Ashram,10.29,137.2,10.39,47.6,9.98,20.6,9.98,43.0
+Eden Beach,White Town (French Quarter),10.09,134.5,10.15,47.6,9.96,21.2,9.96,43.9
+Eden Beach,Promenade / Rock Beach,9.92,132.3,10.02,51.4,9.79,20.6,9.79,43.0
+Eden Beach,Pondicherry Museum,10.06,134.2,10.19,47.2,9.79,20.6,9.79,43.0
+Eden Beach,Matrimandir Viewing Point,18.44,251.6,18.42,84.8,18.86,32.5,18.86,62.0
+Eden Beach,Casablanca Heritage Boutique,9.98,133.0,10.07,46.3,9.42,19.4,9.42,41.0
+Eden Beach,Cluny Embroidery Centre,9.76,130.2,9.87,45.5,9.46,19.5,9.46,41.2
+Eden Beach,Paradise Beach,9.64,128.5,11.32,60.8,9.18,20.6,9.18,43.0
+Eden Beach,Serenity Beach,14.6,194.7,14.74,65.1,14.46,25.1,14.46,50.2
+Eden Beach,Pondy Marina Beach,10.0,133.3,10.1,46.9,9.69,21.2,9.69,43.9
+Eden Beach,Auroville Beach,16.4,218.6,16.21,71.8,15.87,27.0,15.87,53.2
+Eden Beach,French War Memorial,9.82,131.0,10.1,46.7,9.69,20.3,9.69,42.5
+Eden Beach,Mahatma Gandhi Statue,9.94,132.5,10.03,47.3,9.84,20.7,9.84,43.1
+Eden Beach,Aayi Mandapam / Bharathi Park,10.0,133.3,10.24,47.9,9.8,20.6,9.8,43.0
+Eden Beach,Old Lighthouse,9.94,132.5,10.2,47.6,9.98,21.1,9.98,43.8
+Eden Beach,Raj Niwas (Governor's Palace),9.97,132.9,10.07,47.6,9.77,20.5,9.77,42.8
+Eden Beach,Manakula Vinayagar Temple,10.11,134.8,10.2,47.3,9.96,20.8,9.96,43.3
+Eden Beach,Basilica of the Sacred Heart of Jesus,9.05,120.7,9.12,43.0,8.48,17.5,8.48,38.0
+Eden Beach,Eglise de Notre Dame des Anges,9.75,130.0,9.85,46.2,9.54,20.1,9.54,42.2
+Eden Beach,Cathedral of Our Lady of the Immaculate Conception,9.88,131.7,9.94,46.0,9.53,19.7,9.53,41.5
+Eden Beach,Vedapureeswarar Temple,10.09,134.5,10.13,47.3,10.27,20.0,10.27,42.0
+Eden Beach,"Thirukameswarar Temple, Villianur",11.64,155.1,11.66,47.7,11.32,21.0,11.32,43.6
+Eden Beach,Kanniga Parameswari Temple,9.88,131.7,9.91,46.2,9.32,19.3,9.32,40.9
+Eden Beach,Meeran Mosque,9.29,123.9,9.39,43.5,8.99,18.4,8.99,39.4
+Eden Beach,Kuthba Mosque,9.19,122.6,9.29,43.1,8.88,18.2,8.88,39.1
+Eden Beach,Jamia Mosque,9.93,132.4,9.97,46.3,10.13,19.2,10.13,40.7
+Eden Beach,Bharathi Park / Government Park,10.0,133.3,10.24,47.9,9.8,20.6,9.8,43.0
+Eden Beach,Botanical Garden,8.97,119.6,9.04,42.4,8.41,16.9,8.41,37.0
+Eden Beach,Jawahar Toy Museum,9.7,129.3,9.8,46.0,9.58,20.4,9.58,42.6
+Eden Beach,Chunnambar Boat House,7.94,105.9,10.08,57.1,5.58,12.7,5.58,30.3
+Eden Beach,Ousteri Wetland and National Park,18.33,244.4,18.03,71.5,17.65,29.4,17.65,57.0
+Eden Beach,Arikamedu Archaeological Site,3.09,41.1,3.09,14.9,3.13,8.1,3.13,23.0
+Eden Beach,Auroville Visitors Centre,20.65,281.5,20.3,92.6,20.79,35.0,20.79,66.0
+Eden Beach,Jawaharlal Nehru Statue,9.94,132.5,10.03,47.3,9.84,20.7,9.84,43.1
+Eden Beach,Dupleix Statue,9.64,128.5,9.74,45.7,9.65,20.5,9.65,42.8
+Eden Beach,Romain Rolland Library,9.98,133.0,10.24,47.1,9.81,20.6,9.81,43.0
+Eden Beach,French Institute of Pondicherry (IFP),10.06,134.2,10.33,47.4,9.87,20.8,9.87,43.3
+Eden Beach,Alliance Francaise de Pondichery,9.13,121.7,9.23,43.4,9.26,19.5,9.26,41.2
+Eden Beach,Hotel de Ville / Municipal Office,9.75,130.0,9.85,46.2,9.54,20.1,9.54,42.2
+Eden Beach,Old Port / Old Harbour Area,9.34,124.6,9.44,44.8,8.67,18.7,8.67,39.9
+Eden Beach,Auroville Farms & Green Belt,20.07,267.7,19.85,89.4,20.21,34.7,20.21,65.5
+Eden Beach,Karaikal Beach,146.43,1952.4,140.39,555.5,137.92,110.2,137.92,186.3
+Pondy Marina Beach,Sri Aurobindo Ashram,3.16,42.2,3.22,13.9,3.35,8.2,3.35,23.1
+Pondy Marina Beach,White Town (French Quarter),2.96,39.5,2.93,13.0,3.34,8.8,3.34,24.1
+Pondy Marina Beach,Promenade / Rock Beach,2.79,37.3,2.8,16.8,3.16,8.2,3.16,23.1
+Pondy Marina Beach,Pondicherry Museum,2.94,39.2,2.94,13.0,3.16,8.2,3.16,23.1
+Pondy Marina Beach,Matrimandir Viewing Point,12.07,166.6,11.59,52.0,13.64,27.1,13.64,53.4
+Pondy Marina Beach,Casablanca Heritage Boutique,2.94,39.1,2.9,12.6,3.03,7.5,3.03,22.0
+Pondy Marina Beach,Cluny Embroidery Centre,2.64,35.1,2.71,11.8,2.84,7.1,2.84,21.4
+Pondy Marina Beach,Paradise Beach,13.92,185.6,16.93,77.4,12.86,25.2,12.86,50.3
+Pondy Marina Beach,Serenity Beach,7.64,101.9,7.58,31.4,7.71,16.3,7.71,36.1
+Pondy Marina Beach,Eden Beach,10.0,133.3,10.04,43.3,9.95,21.2,9.95,43.9
+Pondy Marina Beach,Auroville Beach,9.43,125.8,9.28,38.1,9.64,19.2,9.64,40.7
+Pondy Marina Beach,French War Memorial,2.7,35.9,2.7,12.3,3.06,7.9,3.06,22.6
+Pondy Marina Beach,Mahatma Gandhi Statue,2.81,37.5,2.81,12.7,3.21,8.3,3.21,23.3
+Pondy Marina Beach,Aayi Mandapam / Bharathi Park,2.87,38.3,2.86,13.4,3.17,8.2,3.17,23.1
+Pondy Marina Beach,Old Lighthouse,2.81,37.5,2.81,13.1,3.35,8.7,3.35,23.9
+Pondy Marina Beach,Raj Niwas (Governor's Palace),2.84,37.9,2.84,13.7,3.15,8.1,3.15,23.0
+Pondy Marina Beach,Manakula Vinayagar Temple,2.98,39.8,3.04,13.6,3.33,8.4,3.33,23.4
+Pondy Marina Beach,Basilica of the Sacred Heart of Jesus,2.2,29.3,2.2,9.8,2.33,6.5,2.33,20.4
+Pondy Marina Beach,Eglise de Notre Dame des Anges,2.63,35.0,2.63,11.6,2.73,7.4,2.73,21.8
+Pondy Marina Beach,Cathedral of Our Lady of the Immaculate Conception,2.81,37.5,2.78,12.3,2.9,7.3,2.9,21.7
+Pondy Marina Beach,Vedapureeswarar Temple,3.33,44.4,3.43,14.9,3.55,8.8,3.55,24.1
+Pondy Marina Beach,"Thirukameswarar Temple, Villianur",10.92,145.6,10.61,44.3,10.46,20.2,10.46,42.3
+Pondy Marina Beach,Kanniga Parameswari Temple,3.03,40.5,3.14,14.2,3.57,8.9,3.57,24.2
+Pondy Marina Beach,Meeran Mosque,2.22,29.6,2.23,9.8,2.36,6.0,2.36,19.6
+Pondy Marina Beach,Kuthba Mosque,2.12,28.2,2.13,9.4,2.26,5.8,2.26,19.3
+Pondy Marina Beach,Jamia Mosque,3.4,45.3,3.44,14.6,3.62,9.0,3.62,24.4
+Pondy Marina Beach,Bharathi Park / Government Park,2.87,38.3,2.86,13.4,3.17,8.2,3.17,23.1
+Pondy Marina Beach,Botanical Garden,2.85,37.9,2.7,11.6,2.83,7.7,2.83,22.3
+Pondy Marina Beach,Jawahar Toy Museum,2.58,34.3,2.58,11.4,2.78,7.6,2.78,22.2
+Pondy Marina Beach,Chunnambar Boat House,12.22,163.0,15.69,73.8,9.26,17.4,9.26,37.8
+Pondy Marina Beach,Ousteri Wetland and National Park,17.31,230.8,16.73,67.0,16.65,28.8,16.65,56.1
+Pondy Marina Beach,Arikamedu Archaeological Site,8.81,117.4,8.83,39.4,8.4,18.5,8.4,39.6
+Pondy Marina Beach,Auroville Visitors Centre,14.28,196.6,13.79,63.8,18.36,32.2,18.36,61.5
+Pondy Marina Beach,Jawaharlal Nehru Statue,2.81,37.5,2.81,12.7,3.21,8.3,3.21,23.3
+Pondy Marina Beach,Dupleix Statue,2.51,33.5,2.51,11.1,2.84,7.8,2.84,22.5
+Pondy Marina Beach,Romain Rolland Library,2.85,38.0,2.85,12.6,3.18,8.2,3.18,23.1
+Pondy Marina Beach,French Institute of Pondicherry (IFP),2.94,39.2,2.94,12.9,3.25,8.4,3.25,23.4
+Pondy Marina Beach,Alliance Francaise de Pondichery,2.0,26.7,2.0,8.8,2.0,5.7,2.0,19.1
+Pondy Marina Beach,Hotel de Ville / Municipal Office,2.63,35.0,2.63,11.6,2.73,7.4,2.73,21.8
+Pondy Marina Beach,Old Port / Old Harbour Area,2.22,29.6,2.22,10.2,1.64,4.9,1.64,17.8
+Pondy Marina Beach,Auroville Farms & Green Belt,14.4,197.9,14.03,62.7,17.77,31.8,17.77,60.9
+Pondy Marina Beach,Karaikal Beach,150.71,2009.5,147.19,567.0,141.6,114.8,141.6,193.7
+Auroville Beach,Sri Aurobindo Ashram,6.34,84.6,6.32,25.8,6.43,11.7,6.43,28.7
+Auroville Beach,White Town (French Quarter),6.76,90.1,6.74,27.6,6.99,13.4,6.99,31.4
+Auroville Beach,Promenade / Rock Beach,8.61,114.8,8.46,40.1,7.08,13.6,7.08,31.8
+Auroville Beach,Pondicherry Museum,6.7,89.3,6.68,27.0,6.73,12.6,6.73,30.2
+Auroville Beach,Matrimandir Viewing Point,4.8,64.4,4.79,21.6,4.94,10.4,4.94,26.6
+Auroville Beach,Casablanca Heritage Boutique,6.99,93.2,6.43,26.9,6.82,12.9,6.82,30.6
+Auroville Beach,Cluny Embroidery Centre,6.86,91.5,6.85,27.9,6.89,13.0,6.89,30.8
+Auroville Beach,Paradise Beach,20.32,270.9,23.03,102.0,18.94,30.3,18.94,58.5
+Auroville Beach,Serenity Beach,3.12,41.6,3.13,12.8,3.18,6.3,3.18,20.1
+Auroville Beach,Eden Beach,16.4,218.6,16.13,67.9,16.03,26.3,16.03,52.1
+Auroville Beach,Pondy Marina Beach,9.43,125.8,9.25,37.8,9.3,19.3,9.3,40.9
+Auroville Beach,French War Memorial,7.05,94.0,7.06,29.1,7.12,13.8,7.12,32.1
+Auroville Beach,Mahatma Gandhi Statue,7.0,93.4,6.9,28.5,7.03,13.5,7.03,31.6
+Auroville Beach,Aayi Mandapam / Bharathi Park,6.94,92.5,7.01,29.2,6.82,12.8,6.82,30.5
+Auroville Beach,Old Lighthouse,6.93,92.4,6.89,28.4,7.0,13.4,7.0,31.4
+Auroville Beach,Raj Niwas (Governor's Palace),6.91,92.1,6.9,29.4,6.8,12.7,6.8,30.3
+Auroville Beach,Manakula Vinayagar Temple,6.45,86.0,6.43,26.2,6.45,11.9,6.45,29.0
+Auroville Beach,Basilica of the Sacred Heart of Jesus,8.01,106.8,7.22,30.0,7.83,15.4,7.83,34.6
+Auroville Beach,Eglise de Notre Dame des Anges,7.12,94.9,7.08,29.0,7.14,13.8,7.14,32.1
+Auroville Beach,Cathedral of Our Lady of the Immaculate Conception,6.8,90.7,6.52,27.1,6.78,12.7,6.78,30.3
+Auroville Beach,Vedapureeswarar Temple,6.51,86.8,6.12,25.8,6.71,12.7,6.71,30.3
+Auroville Beach,"Thirukameswarar Temple, Villianur",16.16,215.4,15.78,64.0,15.15,24.3,15.15,48.9
+Auroville Beach,Kanniga Parameswari Temple,7.09,94.6,6.59,26.9,6.79,13.3,6.79,31.3
+Auroville Beach,Meeran Mosque,7.13,95.1,7.11,29.4,7.33,14.0,7.33,32.4
+Auroville Beach,Kuthba Mosque,7.23,96.4,7.19,29.2,7.23,13.8,7.23,32.1
+Auroville Beach,Jamia Mosque,6.43,85.7,6.23,25.4,6.44,12.3,6.44,29.7
+Auroville Beach,Bharathi Park / Government Park,6.94,92.5,7.01,29.2,6.82,12.8,6.82,30.5
+Auroville Beach,Botanical Garden,7.43,99.1,7.13,29.4,7.33,13.9,7.33,32.2
+Auroville Beach,Jawahar Toy Museum,7.24,96.6,7.1,29.2,7.27,14.3,7.27,32.9
+Auroville Beach,Chunnambar Boat House,18.62,248.3,21.79,98.4,15.34,22.5,15.34,46.0
+Auroville Beach,Ousteri Wetland and National Park,20.8,277.3,18.98,76.0,18.26,29.9,18.26,57.8
+Auroville Beach,Arikamedu Archaeological Site,15.21,202.7,14.92,64.0,14.48,23.6,14.48,47.8
+Auroville Beach,Auroville Visitors Centre,6.62,96.4,6.55,32.5,7.84,17.9,7.84,38.6
+Auroville Beach,Jawaharlal Nehru Statue,7.0,93.4,6.9,28.5,7.03,13.5,7.03,31.6
+Auroville Beach,Dupleix Statue,7.31,97.5,7.16,29.5,7.33,14.4,7.33,33.0
+Auroville Beach,Romain Rolland Library,6.81,90.8,6.77,27.5,6.83,12.9,6.83,30.6
+Auroville Beach,French Institute of Pondicherry (IFP),6.7,89.4,6.69,27.3,6.77,12.8,6.77,30.5
+Auroville Beach,Alliance Francaise de Pondichery,7.74,103.2,7.74,31.8,7.76,15.2,7.76,34.3
+Auroville Beach,Hotel de Ville / Municipal Office,7.12,94.9,7.08,29.0,7.14,13.8,7.14,32.1
+Auroville Beach,Old Port / Old Harbour Area,8.03,107.1,8.03,33.5,7.87,15.3,7.87,34.5
+Auroville Beach,Auroville Farms & Green Belt,7.05,101.6,7.23,32.4,8.16,17.4,8.16,37.8
+Auroville Beach,Karaikal Beach,157.11,2094.8,152.54,587.8,147.68,119.9,147.68,201.8
+French War Memorial,Sri Aurobindo Ashram,0.72,9.6,0.78,3.7,0.77,2.4,0.77,13.8
+French War Memorial,White Town (French Quarter),0.27,3.6,0.33,1.9,0.4,1.3,0.4,12.1
+French War Memorial,Promenade / Rock Beach,1.57,20.9,1.56,12.1,0.1,0.4,0.1,10.6
+French War Memorial,Pondicherry Museum,0.32,4.3,0.38,1.9,0.38,1.2,0.38,11.9
+French War Memorial,Matrimandir Viewing Point,9.69,134.8,9.38,42.7,11.36,21.8,11.36,44.9
+French War Memorial,Casablanca Heritage Boutique,0.73,9.7,0.75,3.7,0.75,2.3,0.75,13.7
+French War Memorial,Cluny Embroidery Centre,0.23,3.0,0.23,1.7,0.32,1.0,0.32,11.6
+French War Memorial,Paradise Beach,13.75,183.3,16.76,77.4,13.11,24.7,13.11,49.5
+French War Memorial,Serenity Beach,5.25,70.0,5.37,22.1,5.42,11.0,5.42,27.6
+French War Memorial,Eden Beach,9.82,131.0,9.86,43.3,10.2,20.6,10.2,43.0
+French War Memorial,Pondy Marina Beach,2.7,35.9,2.7,12.4,2.78,7.6,2.78,22.2
+French War Memorial,Auroville Beach,7.05,94.0,7.08,28.8,7.35,13.9,7.35,32.2
+French War Memorial,Mahatma Gandhi Statue,0.12,1.6,0.12,1.3,0.15,0.5,0.15,10.8
+French War Memorial,Aayi Mandapam / Bharathi Park,0.24,3.3,0.29,2.3,0.3,1.0,0.3,11.6
+French War Memorial,Old Lighthouse,0.12,1.6,0.12,1.2,0.18,0.6,0.18,11.0
+French War Memorial,Raj Niwas (Governor's Palace),0.28,3.7,0.33,2.8,0.32,1.0,0.32,11.6
+French War Memorial,Manakula Vinayagar Temple,0.59,7.9,0.65,3.4,0.69,2.2,0.69,13.5
+French War Memorial,Basilica of the Sacred Heart of Jesus,1.42,18.9,1.42,7.0,1.52,4.1,1.52,16.6
+French War Memorial,Eglise de Notre Dame des Anges,0.07,0.9,0.07,0.7,0.06,0.2,0.06,10.3
+French War Memorial,Cathedral of Our Lady of the Immaculate Conception,0.6,8.0,0.63,3.1,0.63,2.0,0.63,13.2
+French War Memorial,Vedapureeswarar Temple,1.21,16.1,1.25,5.9,1.27,3.5,1.27,15.6
+French War Memorial,"Thirukameswarar Temple, Villianur",10.4,138.8,10.44,44.3,11.32,19.5,11.32,41.2
+French War Memorial,Kanniga Parameswari Temple,0.95,12.7,0.97,5.4,1.28,3.7,1.28,15.9
+French War Memorial,Meeran Mosque,0.62,8.3,0.63,3.9,0.85,2.4,0.85,13.8
+French War Memorial,Kuthba Mosque,0.72,9.6,0.74,3.9,0.75,2.2,0.75,13.5
+French War Memorial,Jamia Mosque,1.26,16.9,1.32,5.8,1.33,3.6,1.33,15.8
+French War Memorial,Bharathi Park / Government Park,0.24,3.3,0.29,2.3,0.3,1.0,0.3,11.6
+French War Memorial,Botanical Garden,1.61,21.5,1.62,7.5,1.65,4.0,1.65,16.4
+French War Memorial,Jawahar Toy Museum,0.2,2.6,0.2,1.2,0.19,0.7,0.19,11.1
+French War Memorial,Chunnambar Boat House,12.05,160.7,15.52,73.7,9.51,16.8,9.51,36.9
+French War Memorial,Ousteri Wetland and National Park,16.25,216.8,15.37,62.0,15.01,26.9,15.01,53.0
+French War Memorial,Arikamedu Archaeological Site,8.63,115.1,8.65,39.3,8.65,17.9,8.65,38.6
+French War Memorial,Auroville Visitors Centre,11.9,164.7,11.59,54.5,15.49,29.2,15.49,56.7
+French War Memorial,Jawaharlal Nehru Statue,0.12,1.6,0.12,1.3,0.15,0.5,0.15,10.8
+French War Memorial,Dupleix Statue,0.26,3.5,0.26,1.5,0.26,0.9,0.26,11.4
+French War Memorial,Romain Rolland Library,0.24,3.1,0.29,1.5,0.29,0.9,0.29,11.4
+French War Memorial,French Institute of Pondicherry (IFP),0.32,4.3,0.38,1.8,0.38,1.2,0.38,11.9
+French War Memorial,Alliance Francaise de Pondichery,0.69,9.3,0.69,3.6,0.69,1.6,0.69,12.6
+French War Memorial,Hotel de Ville / Municipal Office,0.07,0.9,0.07,0.7,0.06,0.2,0.06,10.3
+French War Memorial,Old Port / Old Harbour Area,0.99,13.2,0.99,5.3,1.36,3.6,1.36,15.8
+French War Memorial,Auroville Farms & Green Belt,12.01,166.0,11.82,53.4,14.91,28.8,14.91,56.1
+French War Memorial,Karaikal Beach,150.54,2007.2,147.02,566.9,141.85,114.3,141.85,192.9
+Mahatma Gandhi Statue,Sri Aurobindo Ashram,0.68,9.1,0.7,3.5,0.68,2.1,0.68,13.4
+Mahatma Gandhi Statue,White Town (French Quarter),0.15,2.0,0.15,0.9,0.12,0.3,0.12,10.5
+Mahatma Gandhi Statue,Promenade / Rock Beach,1.68,22.5,1.6,12.1,0.05,0.1,0.05,10.2
+Mahatma Gandhi Statue,Pondicherry Museum,0.28,3.8,0.32,1.8,0.29,1.0,0.29,11.6
+Mahatma Gandhi Statue,Matrimandir Viewing Point,9.64,134.2,9.22,42.3,11.25,21.7,11.25,44.7
+Mahatma Gandhi Statue,Casablanca Heritage Boutique,0.83,11.0,0.9,4.4,0.9,2.7,0.9,14.3
+Mahatma Gandhi Statue,Cluny Embroidery Centre,0.33,4.4,0.38,2.4,0.47,1.5,0.47,12.4
+Mahatma Gandhi Statue,Paradise Beach,13.86,184.8,16.87,77.7,13.26,25.1,13.26,50.2
+Mahatma Gandhi Statue,Serenity Beach,5.21,69.5,5.21,21.7,5.31,10.9,5.31,27.4
+Mahatma Gandhi Statue,Eden Beach,9.94,132.5,9.97,43.6,10.35,21.0,10.35,43.6
+Mahatma Gandhi Statue,Pondy Marina Beach,2.81,37.5,2.81,12.7,2.94,8.1,2.94,23.0
+Mahatma Gandhi Statue,Auroville Beach,7.0,93.4,6.91,28.4,7.24,13.8,7.24,32.1
+Mahatma Gandhi Statue,French War Memorial,0.12,1.6,0.12,1.3,0.15,0.4,0.15,10.6
+Mahatma Gandhi Statue,Aayi Mandapam / Bharathi Park,0.2,2.7,0.2,2.0,0.21,0.7,0.21,11.1
+Mahatma Gandhi Statue,Old Lighthouse,0.08,1.0,0.08,0.8,0.03,0.1,0.03,10.2
+Mahatma Gandhi Statue,Raj Niwas (Governor's Palace),0.24,3.2,0.24,2.5,0.23,0.8,0.23,11.3
+Mahatma Gandhi Statue,Manakula Vinayagar Temple,0.55,7.4,0.58,3.3,0.61,1.9,0.61,13.0
+Mahatma Gandhi Statue,Basilica of the Sacred Heart of Jesus,1.52,20.2,1.57,7.7,1.67,4.5,1.67,17.2
+Mahatma Gandhi Statue,Eglise de Notre Dame des Anges,0.19,2.5,0.22,1.3,0.21,0.7,0.21,11.1
+Mahatma Gandhi Statue,Cathedral of Our Lady of the Immaculate Conception,0.7,9.4,0.72,3.6,0.69,2.2,0.69,13.5
+Mahatma Gandhi Statue,Vedapureeswarar Temple,1.16,15.5,1.19,5.7,1.16,3.4,1.16,15.4
+Mahatma Gandhi Statue,"Thirukameswarar Temple, Villianur",10.5,140.1,10.55,44.6,11.44,20.0,11.44,42.0
+Mahatma Gandhi Statue,Kanniga Parameswari Temple,0.99,13.2,1.03,5.5,1.29,3.8,1.29,16.1
+Mahatma Gandhi Statue,Meeran Mosque,0.73,9.7,0.78,4.6,1.0,2.9,1.0,14.6
+Mahatma Gandhi Statue,Kuthba Mosque,0.82,11.0,0.89,4.5,0.9,2.7,0.9,14.3
+Mahatma Gandhi Statue,Jamia Mosque,1.22,16.3,1.26,5.7,1.23,3.5,1.23,15.6
+Mahatma Gandhi Statue,Bharathi Park / Government Park,0.2,2.7,0.2,2.0,0.21,0.7,0.21,11.1
+Mahatma Gandhi Statue,Botanical Garden,1.72,22.9,1.77,8.2,1.8,4.5,1.8,17.2
+Mahatma Gandhi Statue,Jawahar Toy Museum,0.23,3.1,0.23,1.2,0.23,0.6,0.23,11.0
+Mahatma Gandhi Statue,Chunnambar Boat House,12.17,162.2,15.63,74.0,9.66,17.2,9.66,37.5
+Mahatma Gandhi Statue,Ousteri Wetland and National Park,16.12,215.0,15.31,61.8,15.13,27.4,15.13,53.8
+Mahatma Gandhi Statue,Arikamedu Archaeological Site,8.75,116.7,8.76,39.6,8.8,18.3,8.8,39.3
+Mahatma Gandhi Statue,Auroville Visitors Centre,11.85,164.2,11.42,54.1,15.39,29.0,15.39,56.4
+Mahatma Gandhi Statue,Jawaharlal Nehru Statue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+Mahatma Gandhi Statue,Dupleix Statue,0.3,3.9,0.3,1.5,0.29,0.7,0.29,11.1
+Mahatma Gandhi Statue,Romain Rolland Library,0.19,2.6,0.23,1.4,0.2,0.7,0.2,11.1
+Mahatma Gandhi Statue,French Institute of Pondicherry (IFP),0.28,3.8,0.28,1.7,0.29,0.9,0.29,11.4
+Mahatma Gandhi Statue,Alliance Francaise de Pondichery,0.81,10.9,0.84,4.2,0.84,2.0,0.84,13.2
+Mahatma Gandhi Statue,Hotel de Ville / Municipal Office,0.19,2.5,0.22,1.3,0.21,0.7,0.21,11.1
+Mahatma Gandhi Statue,Old Port / Old Harbour Area,1.11,14.8,1.1,5.6,1.51,4.1,1.51,16.6
+Mahatma Gandhi Statue,Auroville Farms & Green Belt,11.97,165.5,11.66,53.0,14.8,28.7,14.8,55.9
+Mahatma Gandhi Statue,Karaikal Beach,150.65,2008.7,147.13,567.2,142.0,114.7,142.0,193.5
+Aayi Mandapam / Bharathi Park,Sri Aurobindo Ashram,0.67,8.9,0.73,4.2,0.48,1.5,0.48,12.4
+Aayi Mandapam / Bharathi Park,White Town (French Quarter),0.35,4.7,0.35,2.6,0.17,0.6,0.17,11.0
+Aayi Mandapam / Bharathi Park,Promenade / Rock Beach,1.81,24.1,1.81,13.7,0.26,0.8,0.26,11.3
+Aayi Mandapam / Bharathi Park,Pondicherry Museum,0.33,4.4,0.33,2.4,0.08,0.3,0.08,10.5
+Aayi Mandapam / Bharathi Park,Matrimandir Viewing Point,9.58,133.3,9.33,43.1,11.04,21.0,11.04,43.6
+Aayi Mandapam / Bharathi Park,Casablanca Heritage Boutique,0.73,9.7,0.73,4.6,0.69,2.0,0.69,13.2
+Aayi Mandapam / Bharathi Park,Cluny Embroidery Centre,0.3,4.0,0.3,2.8,0.38,1.3,0.38,12.1
+Aayi Mandapam / Bharathi Park,Paradise Beach,13.92,185.6,16.94,78.8,14.21,25.0,14.21,50.0
+Aayi Mandapam / Bharathi Park,Serenity Beach,5.14,68.6,5.32,22.5,5.11,10.2,5.11,26.3
+Aayi Mandapam / Bharathi Park,Eden Beach,10.0,133.3,10.04,44.7,11.29,21.0,11.29,43.6
+Aayi Mandapam / Bharathi Park,Pondy Marina Beach,2.87,38.3,2.89,13.7,3.0,8.2,3.0,23.1
+Aayi Mandapam / Bharathi Park,Auroville Beach,6.94,92.5,7.03,29.2,7.04,13.1,7.04,31.0
+Aayi Mandapam / Bharathi Park,French War Memorial,0.24,3.3,0.29,2.5,0.3,1.0,0.3,11.6
+Aayi Mandapam / Bharathi Park,Mahatma Gandhi Statue,0.2,2.7,0.2,2.1,0.21,0.6,0.21,11.0
+Aayi Mandapam / Bharathi Park,Old Lighthouse,0.2,2.7,0.2,2.2,0.18,0.6,0.18,11.0
+Aayi Mandapam / Bharathi Park,Raj Niwas (Governor's Palace),0.14,1.8,0.14,1.5,0.02,0.1,0.02,10.2
+Aayi Mandapam / Bharathi Park,Manakula Vinayagar Temple,0.49,6.5,0.49,3.9,0.4,1.2,0.4,11.9
+Aayi Mandapam / Bharathi Park,Basilica of the Sacred Heart of Jesus,1.49,19.9,1.51,8.1,1.63,4.5,1.63,17.2
+Aayi Mandapam / Bharathi Park,Eglise de Notre Dame des Anges,0.31,4.2,0.31,2.3,0.32,1.1,0.32,11.8
+Aayi Mandapam / Bharathi Park,Cathedral of Our Lady of the Immaculate Conception,0.6,8.0,0.6,4.1,0.48,1.5,0.48,12.4
+Aayi Mandapam / Bharathi Park,Vedapureeswarar Temple,1.1,14.6,1.09,6.3,0.95,2.7,0.95,14.3
+Aayi Mandapam / Bharathi Park,"Thirukameswarar Temple, Villianur",10.47,139.7,10.62,45.7,11.24,19.3,11.24,40.9
+Aayi Mandapam / Bharathi Park,Kanniga Parameswari Temple,0.93,12.4,0.93,6.0,1.09,3.1,1.09,15.0
+Aayi Mandapam / Bharathi Park,Meeran Mosque,0.72,9.5,0.8,5.3,1.03,2.9,1.03,14.6
+Aayi Mandapam / Bharathi Park,Kuthba Mosque,0.81,10.8,0.82,5.1,0.93,2.7,0.93,14.3
+Aayi Mandapam / Bharathi Park,Jamia Mosque,1.16,15.4,1.16,6.2,1.02,2.8,1.02,14.5
+Aayi Mandapam / Bharathi Park,Bharathi Park / Government Park,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+Aayi Mandapam / Bharathi Park,Botanical Garden,1.68,22.4,1.68,8.6,1.76,4.4,1.76,17.0
+Aayi Mandapam / Bharathi Park,Jawahar Toy Museum,0.44,5.9,0.44,2.9,0.44,1.5,0.44,12.4
+Aayi Mandapam / Bharathi Park,Chunnambar Boat House,12.23,163.0,15.7,75.1,10.6,17.2,10.6,37.5
+Aayi Mandapam / Bharathi Park,Ousteri Wetland and National Park,16.06,214.1,15.21,62.4,14.92,26.7,14.92,52.7
+Aayi Mandapam / Bharathi Park,Arikamedu Archaeological Site,8.81,117.5,8.84,40.7,9.75,18.3,9.75,39.3
+Aayi Mandapam / Bharathi Park,Auroville Visitors Centre,11.79,163.3,11.54,54.9,15.18,28.3,15.18,55.3
+Aayi Mandapam / Bharathi Park,Jawaharlal Nehru Statue,0.2,2.7,0.2,2.1,0.21,0.6,0.21,11.0
+Aayi Mandapam / Bharathi Park,Dupleix Statue,0.51,6.8,0.51,3.2,0.51,1.7,0.51,12.7
+Aayi Mandapam / Bharathi Park,Romain Rolland Library,0.24,3.2,0.24,2.0,0.01,0.0,0.01,10.0
+Aayi Mandapam / Bharathi Park,French Institute of Pondicherry (IFP),0.33,4.4,0.33,2.3,0.14,0.6,0.14,11.0
+Aayi Mandapam / Bharathi Park,Alliance Francaise de Pondichery,0.94,12.5,0.94,5.2,0.94,2.4,0.94,13.8
+Aayi Mandapam / Bharathi Park,Hotel de Ville / Municipal Office,0.31,4.2,0.31,2.3,0.32,1.1,0.32,11.8
+Aayi Mandapam / Bharathi Park,Old Port / Old Harbour Area,1.23,16.4,1.23,6.9,1.57,4.2,1.57,16.7
+Aayi Mandapam / Bharathi Park,Auroville Farms & Green Belt,11.91,164.6,11.77,53.9,14.59,28.0,14.59,54.8
+Aayi Mandapam / Bharathi Park,Karaikal Beach,150.71,2009.5,147.2,568.3,142.95,114.6,142.95,193.4
+Old Lighthouse,Sri Aurobindo Ashram,0.6,8.0,0.61,3.2,0.66,2.1,0.66,13.4
+Old Lighthouse,White Town (French Quarter),0.15,2.0,0.15,1.2,0.1,0.2,0.1,10.3
+Old Lighthouse,Promenade / Rock Beach,1.69,22.5,1.68,13.0,0.08,0.2,0.08,10.3
+Old Lighthouse,Pondicherry Museum,0.2,2.7,0.2,1.4,0.26,0.9,0.26,11.4
+Old Lighthouse,Matrimandir Viewing Point,9.57,133.2,9.21,42.1,11.22,21.6,11.22,44.6
+Old Lighthouse,Casablanca Heritage Boutique,0.81,10.9,0.81,4.0,0.87,2.6,0.87,14.2
+Old Lighthouse,Cluny Embroidery Centre,0.33,4.4,0.35,2.7,0.5,1.5,0.5,12.4
+Old Lighthouse,Paradise Beach,13.86,184.8,16.9,78.4,13.29,25.2,13.29,50.3
+Old Lighthouse,Serenity Beach,5.13,68.4,5.2,21.5,5.29,10.9,5.29,27.4
+Old Lighthouse,Eden Beach,9.94,132.5,10.0,44.3,10.38,21.1,10.38,43.8
+Old Lighthouse,Pondy Marina Beach,2.81,37.5,2.83,13.4,2.96,8.1,2.96,23.0
+Old Lighthouse,Auroville Beach,6.93,92.4,6.9,28.2,7.22,13.7,7.22,31.9
+Old Lighthouse,French War Memorial,0.12,1.6,0.12,1.2,0.18,0.5,0.18,10.8
+Old Lighthouse,Mahatma Gandhi Statue,0.08,1.0,0.08,0.9,0.03,0.1,0.03,10.2
+Old Lighthouse,Aayi Mandapam / Bharathi Park,0.2,2.7,0.2,2.1,0.18,0.6,0.18,11.0
+Old Lighthouse,Raj Niwas (Governor's Palace),0.24,3.2,0.24,2.6,0.2,0.7,0.2,11.1
+Old Lighthouse,Manakula Vinayagar Temple,0.47,6.3,0.47,2.9,0.58,1.9,0.58,13.0
+Old Lighthouse,Basilica of the Sacred Heart of Jesus,1.52,20.2,1.54,8.0,1.7,4.6,1.7,17.4
+Old Lighthouse,Eglise de Notre Dame des Anges,0.19,2.5,0.19,1.9,0.24,0.7,0.24,11.1
+Old Lighthouse,Cathedral of Our Lady of the Immaculate Conception,0.61,8.1,0.61,3.2,0.66,2.1,0.66,13.4
+Old Lighthouse,Vedapureeswarar Temple,1.09,14.5,1.08,5.3,1.13,3.3,1.13,15.3
+Old Lighthouse,"Thirukameswarar Temple, Villianur",10.5,140.1,10.95,45.3,11.41,20.0,11.41,42.0
+Old Lighthouse,Kanniga Parameswari Temple,0.91,12.2,0.91,5.1,1.27,3.7,1.27,15.9
+Old Lighthouse,Meeran Mosque,0.73,9.7,0.75,5.0,1.03,2.9,1.03,14.6
+Old Lighthouse,Kuthba Mosque,0.83,11.0,0.86,4.9,0.93,2.7,0.93,14.3
+Old Lighthouse,Jamia Mosque,1.14,15.3,1.15,5.2,1.2,3.4,1.2,15.4
+Old Lighthouse,Bharathi Park / Government Park,0.2,2.7,0.2,2.1,0.18,0.6,0.18,11.0
+Old Lighthouse,Botanical Garden,1.72,22.9,1.74,8.5,1.83,4.5,1.83,17.2
+Old Lighthouse,Jawahar Toy Museum,0.32,4.2,0.31,2.1,0.26,0.6,0.26,11.0
+Old Lighthouse,Chunnambar Boat House,12.17,162.2,15.66,74.8,9.69,17.3,9.69,37.7
+Old Lighthouse,Ousteri Wetland and National Park,16.04,214.0,15.2,61.4,15.1,27.3,15.1,53.7
+Old Lighthouse,Arikamedu Archaeological Site,8.75,116.7,8.79,40.4,8.83,18.4,8.83,39.4
+Old Lighthouse,Auroville Visitors Centre,11.78,163.1,11.41,53.9,15.36,29.0,15.36,56.4
+Old Lighthouse,Jawaharlal Nehru Statue,0.08,1.0,0.08,0.9,0.03,0.1,0.03,10.2
+Old Lighthouse,Dupleix Statue,0.38,5.1,0.37,2.4,0.32,0.8,0.32,11.3
+Old Lighthouse,Romain Rolland Library,0.12,1.5,0.12,1.0,0.17,0.6,0.17,11.0
+Old Lighthouse,French Institute of Pondicherry (IFP),0.2,2.7,0.2,1.4,0.26,0.9,0.26,11.4
+Old Lighthouse,Alliance Francaise de Pondichery,0.81,10.9,0.81,4.8,0.87,2.1,0.87,13.4
+Old Lighthouse,Hotel de Ville / Municipal Office,0.19,2.5,0.19,1.9,0.24,0.7,0.24,11.1
+Old Lighthouse,Old Port / Old Harbour Area,1.11,14.8,1.11,6.5,1.53,4.1,1.53,16.6
+Old Lighthouse,Auroville Farms & Green Belt,11.89,164.4,11.65,52.9,14.77,28.6,14.77,55.8
+Old Lighthouse,Karaikal Beach,150.65,2008.7,147.15,568.0,142.03,114.8,142.03,193.7
+Raj Niwas (Governor's Palace),Sri Aurobindo Ashram,0.64,8.5,0.68,4.2,0.45,1.4,0.45,12.2
+Raj Niwas (Governor's Palace),White Town (French Quarter),0.39,5.2,0.39,3.1,0.19,0.7,0.19,11.1
+Raj Niwas (Governor's Palace),Promenade / Rock Beach,1.84,24.6,1.84,14.3,0.28,0.9,0.28,11.4
+Raj Niwas (Governor's Palace),Pondicherry Museum,0.36,4.9,0.36,2.9,0.06,0.2,0.06,10.3
+Raj Niwas (Governor's Palace),Matrimandir Viewing Point,9.55,132.9,9.22,43.0,11.02,20.9,11.02,43.4
+Raj Niwas (Governor's Palace),Casablanca Heritage Boutique,0.7,9.3,0.69,4.3,0.66,1.9,0.66,13.0
+Raj Niwas (Governor's Palace),Cluny Embroidery Centre,0.27,3.6,0.27,2.4,0.35,1.2,0.35,11.9
+Raj Niwas (Governor's Palace),Paradise Beach,13.89,185.2,16.92,78.5,14.18,24.9,14.18,49.8
+Raj Niwas (Governor's Palace),Serenity Beach,5.11,68.2,5.21,22.4,5.08,10.1,5.08,26.2
+Raj Niwas (Governor's Palace),Eden Beach,9.97,132.9,10.02,44.4,11.27,20.9,11.27,43.4
+Raj Niwas (Governor's Palace),Pondy Marina Beach,2.84,37.9,2.86,13.3,2.97,8.1,2.97,23.0
+Raj Niwas (Governor's Palace),Auroville Beach,6.91,92.1,6.92,29.1,7.01,13.0,7.01,30.8
+Raj Niwas (Governor's Palace),French War Memorial,0.28,3.7,0.33,3.0,0.32,1.1,0.32,11.8
+Raj Niwas (Governor's Palace),Mahatma Gandhi Statue,0.24,3.2,0.24,2.6,0.23,0.7,0.23,11.1
+Raj Niwas (Governor's Palace),Aayi Mandapam / Bharathi Park,0.14,1.8,0.14,1.5,0.02,0.1,0.02,10.2
+Raj Niwas (Governor's Palace),Old Lighthouse,0.24,3.2,0.24,2.8,0.2,0.7,0.2,11.1
+Raj Niwas (Governor's Palace),Manakula Vinayagar Temple,0.45,6.1,0.45,3.5,0.37,1.2,0.37,11.9
+Raj Niwas (Governor's Palace),Basilica of the Sacred Heart of Jesus,1.46,19.5,1.48,7.8,1.61,4.4,1.61,17.0
+Raj Niwas (Governor's Palace),Eglise de Notre Dame des Anges,0.35,4.7,0.35,2.8,0.34,1.1,0.34,11.8
+Raj Niwas (Governor's Palace),Cathedral of Our Lady of the Immaculate Conception,0.57,7.6,0.57,3.7,0.46,1.4,0.46,12.2
+Raj Niwas (Governor's Palace),Vedapureeswarar Temple,1.07,14.2,1.06,5.9,0.93,2.6,0.93,14.2
+Raj Niwas (Governor's Palace),"Thirukameswarar Temple, Villianur",10.44,139.2,10.6,45.4,11.21,19.2,11.21,40.7
+Raj Niwas (Governor's Palace),Kanniga Parameswari Temple,0.9,12.0,0.9,5.7,1.06,3.0,1.06,14.8
+Raj Niwas (Governor's Palace),Meeran Mosque,0.68,9.1,0.68,5.0,1.01,2.8,1.01,14.5
+Raj Niwas (Governor's Palace),Kuthba Mosque,0.78,10.4,0.79,4.8,0.91,2.6,0.91,14.2
+Raj Niwas (Governor's Palace),Jamia Mosque,1.13,15.0,1.13,5.9,1.0,2.7,1.0,14.3
+Raj Niwas (Governor's Palace),Bharathi Park / Government Park,0.14,1.8,0.14,1.5,0.02,0.1,0.02,10.2
+Raj Niwas (Governor's Palace),Botanical Garden,1.65,22.0,1.65,8.3,1.74,4.3,1.74,16.9
+Raj Niwas (Governor's Palace),Jawahar Toy Museum,0.48,6.4,0.48,3.4,0.47,1.6,0.47,12.6
+Raj Niwas (Governor's Palace),Chunnambar Boat House,12.2,162.6,15.68,74.9,10.58,17.1,10.58,37.4
+Raj Niwas (Governor's Palace),Ousteri Wetland and National Park,16.03,213.7,15.18,62.0,14.9,26.6,14.9,52.6
+Raj Niwas (Governor's Palace),Arikamedu Archaeological Site,8.78,117.0,8.82,40.5,9.72,18.2,9.72,39.1
+Raj Niwas (Governor's Palace),Auroville Visitors Centre,11.76,162.9,11.43,54.8,15.16,28.3,15.16,55.3
+Raj Niwas (Governor's Palace),Jawaharlal Nehru Statue,0.24,3.2,0.24,2.6,0.23,0.7,0.23,11.1
+Raj Niwas (Governor's Palace),Dupleix Statue,0.54,7.2,0.54,3.7,0.53,1.8,0.53,12.9
+Raj Niwas (Governor's Palace),Romain Rolland Library,0.28,3.7,0.28,2.5,0.03,0.1,0.03,10.2
+Raj Niwas (Governor's Palace),French Institute of Pondicherry (IFP),0.36,4.9,0.36,2.8,0.14,0.6,0.14,11.0
+Raj Niwas (Governor's Palace),Alliance Francaise de Pondichery,0.97,13.0,0.97,5.7,0.96,2.5,0.96,14.0
+Raj Niwas (Governor's Palace),Hotel de Ville / Municipal Office,0.35,4.7,0.35,2.8,0.34,1.1,0.34,11.8
+Raj Niwas (Governor's Palace),Old Port / Old Harbour Area,1.27,16.9,1.27,7.4,1.54,4.1,1.54,16.6
+Raj Niwas (Governor's Palace),Auroville Farms & Green Belt,11.88,164.2,11.66,53.7,14.57,27.9,14.57,54.6
+Raj Niwas (Governor's Palace),Karaikal Beach,150.68,2009.1,147.18,568.0,142.92,114.6,142.92,193.4
+Manakula Vinayagar Temple,Sri Aurobindo Ashram,0.18,2.4,0.18,1.0,0.18,0.6,0.18,11.0
+Manakula Vinayagar Temple,White Town (French Quarter),0.51,6.9,0.51,2.8,0.56,1.8,0.56,12.9
+Manakula Vinayagar Temple,Promenade / Rock Beach,2.16,28.8,2.15,14.8,0.66,2.0,0.66,13.2
+Manakula Vinayagar Temple,Pondicherry Museum,0.28,3.7,0.28,1.7,0.32,1.0,0.32,11.6
+Manakula Vinayagar Temple,Matrimandir Viewing Point,9.09,126.9,8.75,39.9,10.66,20.0,10.66,42.0
+Manakula Vinayagar Temple,Casablanca Heritage Boutique,0.67,8.9,0.67,3.3,0.68,1.9,0.68,13.0
+Manakula Vinayagar Temple,Cluny Embroidery Centre,0.41,5.4,0.41,2.4,0.52,1.6,0.52,12.6
+Manakula Vinayagar Temple,Paradise Beach,14.03,187.1,17.04,78.1,13.98,24.4,13.98,49.0
+Manakula Vinayagar Temple,Serenity Beach,4.66,62.1,4.74,19.3,4.72,9.3,4.72,24.9
+Manakula Vinayagar Temple,Eden Beach,10.11,134.8,10.14,44.0,11.07,20.3,11.07,42.5
+Manakula Vinayagar Temple,Pondy Marina Beach,2.98,39.8,2.98,12.9,2.99,8.0,2.99,22.8
+Manakula Vinayagar Temple,Auroville Beach,6.45,86.0,6.44,26.1,6.65,12.1,6.65,29.4
+Manakula Vinayagar Temple,French War Memorial,0.59,7.9,0.65,3.6,0.69,2.2,0.69,13.5
+Manakula Vinayagar Temple,Mahatma Gandhi Statue,0.55,7.4,0.58,3.2,0.61,1.9,0.61,13.0
+Manakula Vinayagar Temple,Aayi Mandapam / Bharathi Park,0.49,6.5,0.6,3.7,0.4,1.2,0.4,11.9
+Manakula Vinayagar Temple,Old Lighthouse,0.47,6.3,0.47,2.9,0.58,1.8,0.58,12.9
+Manakula Vinayagar Temple,Raj Niwas (Governor's Palace),0.45,6.1,0.45,3.7,0.37,1.1,0.37,11.8
+Manakula Vinayagar Temple,Basilica of the Sacred Heart of Jesus,1.58,21.0,1.72,7.4,1.69,4.3,1.69,16.9
+Manakula Vinayagar Temple,Eglise de Notre Dame des Anges,0.66,8.8,0.66,3.5,0.71,2.3,0.71,13.7
+Manakula Vinayagar Temple,Cathedral of Our Lady of the Immaculate Conception,0.46,6.2,0.46,2.5,0.48,1.4,0.48,12.2
+Manakula Vinayagar Temple,Vedapureeswarar Temple,0.61,8.1,0.61,2.9,0.57,1.6,0.57,12.6
+Manakula Vinayagar Temple,"Thirukameswarar Temple, Villianur",10.57,141.1,10.63,44.1,11.01,18.7,11.01,39.9
+Manakula Vinayagar Temple,Kanniga Parameswari Temple,0.77,10.3,0.81,4.3,1.08,2.9,1.08,14.6
+Manakula Vinayagar Temple,Meeran Mosque,0.82,11.0,0.8,4.6,1.02,2.7,1.02,14.3
+Manakula Vinayagar Temple,Kuthba Mosque,0.92,12.3,0.91,4.4,0.92,2.5,0.92,14.0
+Manakula Vinayagar Temple,Jamia Mosque,0.76,10.1,0.76,3.4,0.72,1.9,0.72,13.0
+Manakula Vinayagar Temple,Bharathi Park / Government Park,0.49,6.5,0.6,3.7,0.4,1.2,0.4,11.9
+Manakula Vinayagar Temple,Botanical Garden,1.79,23.9,1.79,7.9,1.79,4.3,1.79,16.9
+Manakula Vinayagar Temple,Jawahar Toy Museum,0.79,10.5,0.78,4.0,0.84,2.8,0.84,14.5
+Manakula Vinayagar Temple,Chunnambar Boat House,12.34,164.5,15.8,74.5,10.38,16.5,10.38,36.4
+Manakula Vinayagar Temple,Ousteri Wetland and National Park,15.7,209.4,14.88,60.2,14.7,26.0,14.7,51.6
+Manakula Vinayagar Temple,Arikamedu Archaeological Site,8.92,118.9,8.93,40.1,9.52,17.6,9.52,38.2
+Manakula Vinayagar Temple,Auroville Visitors Centre,11.3,156.8,10.95,51.7,13.55,27.6,13.55,54.2
+Manakula Vinayagar Temple,Jawaharlal Nehru Statue,0.55,7.4,0.58,3.2,0.61,1.9,0.61,13.0
+Manakula Vinayagar Temple,Dupleix Statue,0.86,11.4,0.85,4.3,0.91,2.9,0.91,14.6
+Manakula Vinayagar Temple,Romain Rolland Library,0.36,4.8,0.36,2.0,0.41,1.3,0.41,12.1
+Manakula Vinayagar Temple,French Institute of Pondicherry (IFP),0.35,4.7,0.47,2.2,0.34,1.0,0.34,11.6
+Manakula Vinayagar Temple,Alliance Francaise de Pondichery,1.29,17.2,1.29,6.3,1.34,3.6,1.34,15.8
+Manakula Vinayagar Temple,Hotel de Ville / Municipal Office,0.66,8.8,0.66,3.5,0.71,2.3,0.71,13.7
+Manakula Vinayagar Temple,Old Port / Old Harbour Area,1.58,21.1,1.58,8.1,1.56,4.0,1.56,16.4
+Manakula Vinayagar Temple,Auroville Farms & Green Belt,11.42,158.1,11.19,50.7,14.37,27.4,14.37,53.8
+Manakula Vinayagar Temple,Karaikal Beach,150.82,2011.0,147.37,567.4,142.72,114.0,142.72,192.4
+Basilica of the Sacred Heart of Jesus,Sri Aurobindo Ashram,1.76,23.5,1.86,7.7,1.87,4.2,1.87,16.7
+Basilica of the Sacred Heart of Jesus,White Town (French Quarter),1.67,22.3,1.76,7.9,1.86,4.8,1.86,17.7
+Basilica of the Sacred Heart of Jesus,Promenade / Rock Beach,1.7,22.7,1.71,12.4,1.68,4.3,1.68,16.9
+Basilica of the Sacred Heart of Jesus,Pondicherry Museum,1.56,20.8,1.6,7.4,1.68,4.2,1.68,16.7
+Basilica of the Sacred Heart of Jesus,Matrimandir Viewing Point,9.91,137.8,9.57,43.0,12.16,23.2,12.16,47.1
+Basilica of the Sacred Heart of Jesus,Casablanca Heritage Boutique,1.0,13.4,1.0,4.2,1.0,2.6,1.0,14.2
+Basilica of the Sacred Heart of Jesus,Cluny Embroidery Centre,1.26,16.8,1.28,5.7,1.36,3.2,1.36,15.1
+Basilica of the Sacred Heart of Jesus,Paradise Beach,12.97,173.0,15.95,73.4,11.65,21.5,11.65,44.4
+Basilica of the Sacred Heart of Jesus,Serenity Beach,6.21,82.9,5.71,23.5,6.23,12.4,6.23,29.8
+Basilica of the Sacred Heart of Jesus,Eden Beach,9.05,120.7,9.05,39.3,8.74,17.4,8.74,37.8
+Basilica of the Sacred Heart of Jesus,Pondy Marina Beach,2.2,29.3,2.2,9.8,2.33,6.6,2.33,20.6
+Basilica of the Sacred Heart of Jesus,Auroville Beach,8.01,106.8,7.25,29.6,8.16,15.3,8.16,34.5
+Basilica of the Sacred Heart of Jesus,French War Memorial,1.42,18.9,1.51,6.9,1.58,3.9,1.58,16.2
+Basilica of the Sacred Heart of Jesus,Mahatma Gandhi Statue,1.52,20.2,1.61,7.7,1.73,4.4,1.73,17.0
+Basilica of the Sacred Heart of Jesus,Aayi Mandapam / Bharathi Park,1.49,19.9,1.65,8.1,1.69,4.2,1.69,16.7
+Basilica of the Sacred Heart of Jesus,Old Lighthouse,1.52,20.2,1.61,7.8,1.87,4.8,1.87,17.7
+Basilica of the Sacred Heart of Jesus,Raj Niwas (Governor's Palace),1.46,19.5,1.48,7.9,1.67,4.1,1.67,16.6
+Basilica of the Sacred Heart of Jesus,Manakula Vinayagar Temple,1.58,21.0,1.67,7.4,1.85,4.4,1.85,17.0
+Basilica of the Sacred Heart of Jesus,Eglise de Notre Dame des Anges,1.36,18.1,1.37,6.6,1.45,3.8,1.45,16.1
+Basilica of the Sacred Heart of Jesus,Cathedral of Our Lady of the Immaculate Conception,1.22,16.3,1.2,5.2,1.2,3.3,1.2,15.3
+Basilica of the Sacred Heart of Jesus,Vedapureeswarar Temple,1.31,17.5,1.32,5.8,1.31,3.6,1.31,15.8
+Basilica of the Sacred Heart of Jesus,"Thirukameswarar Temple, Villianur",9.34,124.6,9.34,38.5,9.26,16.4,9.26,36.2
+Basilica of the Sacred Heart of Jesus,Kanniga Parameswari Temple,1.02,13.5,1.01,4.9,1.24,3.4,1.24,15.4
+Basilica of the Sacred Heart of Jesus,Meeran Mosque,0.8,10.6,0.79,3.7,0.88,2.1,0.88,13.4
+Basilica of the Sacred Heart of Jesus,Kuthba Mosque,0.69,9.2,0.69,3.3,0.78,1.9,0.78,13.0
+Basilica of the Sacred Heart of Jesus,Jamia Mosque,1.3,17.3,1.3,5.5,1.3,3.5,1.3,15.6
+Basilica of the Sacred Heart of Jesus,Bharathi Park / Government Park,1.49,19.9,1.65,8.1,1.69,4.2,1.69,16.7
+Basilica of the Sacred Heart of Jesus,Botanical Garden,0.62,8.3,0.62,2.7,0.62,1.8,0.62,12.9
+Basilica of the Sacred Heart of Jesus,Jawahar Toy Museum,1.41,18.8,1.36,6.7,1.5,4.0,1.5,16.4
+Basilica of the Sacred Heart of Jesus,Chunnambar Boat House,11.28,150.4,14.71,69.8,8.05,13.6,8.05,31.8
+Basilica of the Sacred Heart of Jesus,Ousteri Wetland and National Park,15.38,205.1,14.65,58.1,14.08,24.9,14.08,49.8
+Basilica of the Sacred Heart of Jesus,Arikamedu Archaeological Site,7.86,104.8,7.84,35.4,7.19,14.7,7.19,33.5
+Basilica of the Sacred Heart of Jesus,Auroville Visitors Centre,12.13,167.8,11.78,54.8,15.62,27.5,15.62,54.0
+Basilica of the Sacred Heart of Jesus,Jawaharlal Nehru Statue,1.52,20.2,1.61,7.7,1.73,4.4,1.73,17.0
+Basilica of the Sacred Heart of Jesus,Dupleix Statue,1.29,17.3,1.29,6.4,1.57,4.2,1.57,16.7
+Basilica of the Sacred Heart of Jesus,Romain Rolland Library,1.56,20.7,1.64,7.3,1.7,4.3,1.7,16.9
+Basilica of the Sacred Heart of Jesus,French Institute of Pondicherry (IFP),1.64,21.9,1.73,7.6,1.77,4.5,1.77,17.2
+Basilica of the Sacred Heart of Jesus,Alliance Francaise de Pondichery,0.91,12.2,0.92,4.4,1.37,3.5,1.37,15.6
+Basilica of the Sacred Heart of Jesus,Hotel de Ville / Municipal Office,1.36,18.1,1.37,6.6,1.45,3.8,1.45,16.1
+Basilica of the Sacred Heart of Jesus,Old Port / Old Harbour Area,1.13,15.0,1.13,5.8,0.77,2.7,0.77,14.3
+Basilica of the Sacred Heart of Jesus,Auroville Farms & Green Belt,12.24,169.1,12.02,53.7,15.03,27.2,15.03,53.5
+Basilica of the Sacred Heart of Jesus,Karaikal Beach,149.76,1996.9,146.07,561.8,140.39,111.1,140.39,187.8
+Eglise de Notre Dame des Anges,Sri Aurobindo Ashram,0.79,10.6,0.8,3.7,0.79,2.5,0.79,14.0
+Eglise de Notre Dame des Anges,White Town (French Quarter),0.34,4.6,0.34,1.7,0.42,1.4,0.42,12.2
+Eglise de Notre Dame des Anges,Promenade / Rock Beach,1.5,19.9,1.5,11.6,0.16,0.5,0.16,10.8
+Eglise de Notre Dame des Anges,Pondicherry Museum,0.39,5.2,0.39,1.9,0.39,1.3,0.39,12.1
+Eglise de Notre Dame des Anges,Matrimandir Viewing Point,9.76,135.7,9.4,42.7,11.38,21.9,11.38,45.0
+Eglise de Notre Dame des Anges,Casablanca Heritage Boutique,0.74,9.9,0.77,3.7,0.77,2.4,0.77,13.8
+Eglise de Notre Dame des Anges,Cluny Embroidery Centre,0.25,3.3,0.25,1.7,0.34,1.1,0.34,11.8
+Eglise de Notre Dame des Anges,Paradise Beach,13.68,182.3,16.69,76.7,13.05,24.4,13.05,49.0
+Eglise de Notre Dame des Anges,Serenity Beach,5.32,70.9,5.39,22.1,5.44,11.2,5.44,27.9
+Eglise de Notre Dame des Anges,Eden Beach,9.75,130.0,9.79,42.6,10.13,20.4,10.13,42.6
+Eglise de Notre Dame des Anges,Pondy Marina Beach,2.63,35.0,2.63,11.7,2.72,7.4,2.72,21.8
+Eglise de Notre Dame des Anges,Auroville Beach,7.12,94.9,7.09,28.8,7.37,14.0,7.37,32.4
+Eglise de Notre Dame des Anges,French War Memorial,0.07,0.9,0.07,0.7,0.06,0.2,0.06,10.3
+Eglise de Notre Dame des Anges,Mahatma Gandhi Statue,0.19,2.5,0.22,1.4,0.21,0.7,0.21,11.1
+Eglise de Notre Dame des Anges,Aayi Mandapam / Bharathi Park,0.31,4.2,0.31,2.3,0.32,1.1,0.32,11.8
+Eglise de Notre Dame des Anges,Old Lighthouse,0.19,2.5,0.19,1.9,0.24,0.7,0.24,11.1
+Eglise de Notre Dame des Anges,Raj Niwas (Governor's Palace),0.35,4.7,0.35,2.8,0.34,1.2,0.34,11.9
+Eglise de Notre Dame des Anges,Manakula Vinayagar Temple,0.66,8.8,0.66,3.5,0.71,2.3,0.71,13.7
+Eglise de Notre Dame des Anges,Basilica of the Sacred Heart of Jesus,1.36,18.1,1.38,6.5,1.45,3.8,1.45,16.1
+Eglise de Notre Dame des Anges,Cathedral of Our Lady of the Immaculate Conception,0.62,8.2,0.65,3.1,0.65,2.1,0.65,13.4
+Eglise de Notre Dame des Anges,Vedapureeswarar Temple,1.28,17.0,1.27,5.9,1.29,3.6,1.29,15.8
+Eglise de Notre Dame des Anges,"Thirukameswarar Temple, Villianur",10.34,138.0,10.37,43.6,11.26,19.3,11.26,40.9
+Eglise de Notre Dame des Anges,Kanniga Parameswari Temple,0.97,12.9,0.99,5.4,1.3,3.8,1.3,16.1
+Eglise de Notre Dame des Anges,Meeran Mosque,0.57,7.6,0.58,3.4,0.79,2.2,0.79,13.5
+Eglise de Notre Dame des Anges,Kuthba Mosque,0.66,8.9,0.69,3.4,0.69,2.0,0.69,13.2
+Eglise de Notre Dame des Anges,Jamia Mosque,1.33,17.8,1.34,5.8,1.35,3.7,1.35,15.9
+Eglise de Notre Dame des Anges,Bharathi Park / Government Park,0.31,4.2,0.31,2.3,0.32,1.1,0.32,11.8
+Eglise de Notre Dame des Anges,Botanical Garden,1.55,20.8,1.56,7.0,1.58,3.8,1.58,16.1
+Eglise de Notre Dame des Anges,Jawahar Toy Museum,0.13,1.7,0.13,0.8,0.13,0.5,0.13,10.8
+Eglise de Notre Dame des Anges,Chunnambar Boat House,11.98,159.7,15.45,73.1,9.45,16.6,9.45,36.6
+Eglise de Notre Dame des Anges,Ousteri Wetland and National Park,16.19,216.0,15.5,61.9,14.95,26.6,14.95,52.6
+Eglise de Notre Dame des Anges,Arikamedu Archaeological Site,8.56,114.2,8.58,38.7,8.59,17.7,8.59,38.3
+Eglise de Notre Dame des Anges,Auroville Visitors Centre,11.97,165.7,11.6,54.5,16.5,29.3,16.5,56.9
+Eglise de Notre Dame des Anges,Jawaharlal Nehru Statue,0.19,2.5,0.22,1.4,0.21,0.7,0.21,11.1
+Eglise de Notre Dame des Anges,Dupleix Statue,0.19,2.6,0.19,1.1,0.19,0.6,0.19,11.0
+Eglise de Notre Dame des Anges,Romain Rolland Library,0.31,4.1,0.31,1.5,0.31,1.0,0.31,11.6
+Eglise de Notre Dame des Anges,French Institute of Pondicherry (IFP),0.39,5.3,0.39,1.8,0.39,1.3,0.39,12.1
+Eglise de Notre Dame des Anges,Alliance Francaise de Pondichery,0.62,8.3,0.62,2.9,0.62,1.3,0.62,12.1
+Eglise de Notre Dame des Anges,Hotel de Ville / Municipal Office,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+Eglise de Notre Dame des Anges,Old Port / Old Harbour Area,0.92,12.2,0.92,4.6,1.29,3.4,1.29,15.4
+Eglise de Notre Dame des Anges,Auroville Farms & Green Belt,12.08,167.0,11.84,53.4,15.91,28.9,15.91,56.2
+Eglise de Notre Dame des Anges,Karaikal Beach,150.47,2006.2,146.95,566.2,141.79,114.1,141.79,192.6
+Cathedral of Our Lady of the Immaculate Conception,Sri Aurobindo Ashram,0.64,8.6,0.66,2.8,0.66,1.9,0.66,13.0
+Cathedral of Our Lady of the Immaculate Conception,White Town (French Quarter),0.65,8.7,0.72,3.8,0.87,2.9,0.87,14.6
+Cathedral of Our Lady of the Immaculate Conception,Promenade / Rock Beach,2.11,28.2,2.11,14.3,0.7,2.3,0.7,13.7
+Cathedral of Our Lady of the Immaculate Conception,Pondicherry Museum,0.47,6.3,0.65,3.0,0.65,2.0,0.65,13.2
+Cathedral of Our Lady of the Immaculate Conception,Matrimandir Viewing Point,9.28,129.4,8.92,40.5,11.0,20.8,11.0,43.3
+Cathedral of Our Lady of the Immaculate Conception,Casablanca Heritage Boutique,0.2,2.7,0.2,1.0,0.2,0.6,0.2,11.0
+Cathedral of Our Lady of the Immaculate Conception,Cluny Embroidery Centre,0.37,5.0,0.37,1.8,0.37,1.3,0.37,12.1
+Cathedral of Our Lady of the Immaculate Conception,Paradise Beach,13.81,184.1,16.84,77.1,12.81,24.0,12.81,48.4
+Cathedral of Our Lady of the Immaculate Conception,Serenity Beach,5.0,66.7,5.01,20.5,5.07,10.1,5.07,26.2
+Cathedral of Our Lady of the Immaculate Conception,Eden Beach,9.88,131.7,9.94,43.0,9.9,19.9,9.9,41.8
+Cathedral of Our Lady of the Immaculate Conception,Pondy Marina Beach,2.81,37.5,2.78,11.9,2.78,7.6,2.78,22.2
+Cathedral of Our Lady of the Immaculate Conception,Auroville Beach,6.8,90.7,6.59,27.1,7.0,13.0,7.0,30.8
+Cathedral of Our Lady of the Immaculate Conception,French War Memorial,0.6,8.0,0.6,3.0,0.6,2.0,0.6,13.2
+Cathedral of Our Lady of the Immaculate Conception,Mahatma Gandhi Statue,0.7,9.4,0.7,3.7,0.75,2.5,0.75,14.0
+Cathedral of Our Lady of the Immaculate Conception,Aayi Mandapam / Bharathi Park,0.6,8.0,0.75,4.2,0.71,2.3,0.71,13.7
+Cathedral of Our Lady of the Immaculate Conception,Old Lighthouse,0.61,8.1,0.7,3.9,0.89,2.9,0.89,14.6
+Cathedral of Our Lady of the Immaculate Conception,Raj Niwas (Governor's Palace),0.57,7.6,0.57,3.9,0.68,2.2,0.68,13.5
+Cathedral of Our Lady of the Immaculate Conception,Manakula Vinayagar Temple,0.46,6.2,0.47,2.5,0.64,2.1,0.64,13.4
+Cathedral of Our Lady of the Immaculate Conception,Basilica of the Sacred Heart of Jesus,1.22,16.3,1.2,5.2,1.2,3.3,1.2,15.3
+Cathedral of Our Lady of the Immaculate Conception,Eglise de Notre Dame des Anges,0.62,8.2,0.62,2.9,0.62,2.0,0.62,13.2
+Cathedral of Our Lady of the Immaculate Conception,Vedapureeswarar Temple,0.67,8.9,0.67,3.1,0.66,1.9,0.66,13.0
+Cathedral of Our Lady of the Immaculate Conception,"Thirukameswarar Temple, Villianur",10.11,134.9,10.43,43.0,10.94,18.5,10.94,39.6
+Cathedral of Our Lady of the Immaculate Conception,Kanniga Parameswari Temple,0.43,5.7,0.43,2.7,0.74,2.0,0.74,13.2
+Cathedral of Our Lady of the Immaculate Conception,Meeran Mosque,0.55,7.3,0.62,3.2,0.62,1.9,0.62,13.0
+Cathedral of Our Lady of the Immaculate Conception,Kuthba Mosque,0.65,8.7,0.71,3.4,0.7,2.0,0.7,13.2
+Cathedral of Our Lady of the Immaculate Conception,Jamia Mosque,0.72,9.7,0.73,3.2,0.73,2.0,0.73,13.2
+Cathedral of Our Lady of the Immaculate Conception,Bharathi Park / Government Park,0.6,8.0,0.75,4.2,0.71,2.3,0.71,13.7
+Cathedral of Our Lady of the Immaculate Conception,Botanical Garden,1.32,17.7,1.34,5.8,1.35,3.3,1.35,15.3
+Cathedral of Our Lady of the Immaculate Conception,Jawahar Toy Museum,0.75,9.9,0.75,3.4,0.75,2.5,0.75,14.0
+Cathedral of Our Lady of the Immaculate Conception,Chunnambar Boat House,12.11,161.4,15.6,73.5,9.21,16.1,9.21,35.8
+Cathedral of Our Lady of the Immaculate Conception,Ousteri Wetland and National Park,15.62,208.4,14.78,59.4,14.63,25.9,14.63,51.4
+Cathedral of Our Lady of the Immaculate Conception,Arikamedu Archaeological Site,8.69,115.9,8.73,39.1,8.35,17.2,8.35,37.5
+Cathedral of Our Lady of the Immaculate Conception,Auroville Visitors Centre,11.49,159.3,11.13,52.3,14.89,27.6,14.89,54.2
+Cathedral of Our Lady of the Immaculate Conception,Jawaharlal Nehru Statue,0.7,9.4,0.7,3.7,0.75,2.5,0.75,14.0
+Cathedral of Our Lady of the Immaculate Conception,Dupleix Statue,0.81,10.8,0.81,3.7,0.81,2.7,0.81,14.3
+Cathedral of Our Lady of the Immaculate Conception,Romain Rolland Library,0.49,6.6,0.56,3.0,0.72,2.3,0.72,13.7
+Cathedral of Our Lady of the Immaculate Conception,French Institute of Pondicherry (IFP),0.56,7.4,0.62,3.4,0.78,2.6,0.78,14.2
+Cathedral of Our Lady of the Immaculate Conception,Alliance Francaise de Pondichery,1.24,16.5,1.24,5.8,1.24,3.4,1.24,15.4
+Cathedral of Our Lady of the Immaculate Conception,Hotel de Ville / Municipal Office,0.62,8.2,0.62,2.9,0.62,2.0,0.62,13.2
+Cathedral of Our Lady of the Immaculate Conception,Old Port / Old Harbour Area,1.53,20.5,1.54,7.5,1.35,3.6,1.35,15.8
+Cathedral of Our Lady of the Immaculate Conception,Auroville Farms & Green Belt,11.61,160.6,11.36,51.2,14.3,27.2,14.3,53.5
+Cathedral of Our Lady of the Immaculate Conception,Karaikal Beach,150.6,2008.0,147.17,566.3,141.55,113.6,141.55,191.8
+Vedapureeswarar Temple,Sri Aurobindo Ashram,0.75,10.0,0.89,4.1,0.97,2.8,0.97,14.5
+Vedapureeswarar Temple,White Town (French Quarter),1.06,14.2,1.12,5.2,1.11,4.2,1.11,16.7
+Vedapureeswarar Temple,Promenade / Rock Beach,2.77,37.0,2.77,16.9,1.33,4.4,1.33,17.0
+Vedapureeswarar Temple,Pondicherry Museum,0.89,11.8,0.88,4.0,0.87,3.3,0.87,15.3
+Vedapureeswarar Temple,Matrimandir Viewing Point,8.7,121.6,8.53,39.2,10.63,21.2,10.63,43.9
+Vedapureeswarar Temple,Casablanca Heritage Boutique,0.52,6.9,0.52,2.5,0.51,1.8,0.51,12.9
+Vedapureeswarar Temple,Cluny Embroidery Centre,1.03,13.7,1.01,4.5,1.01,3.4,1.01,15.4
+Vedapureeswarar Temple,Paradise Beach,14.01,186.8,17.0,77.7,13.43,23.1,13.43,47.0
+Vedapureeswarar Temple,Serenity Beach,4.71,62.8,4.75,19.8,5.24,10.8,5.24,27.3
+Vedapureeswarar Temple,Eden Beach,10.09,134.5,10.1,43.6,10.52,19.0,10.52,40.4
+Vedapureeswarar Temple,Pondy Marina Beach,3.33,44.4,3.41,14.4,3.4,9.3,3.4,24.9
+Vedapureeswarar Temple,Auroville Beach,6.51,86.8,6.28,26.0,6.62,13.3,6.62,31.3
+Vedapureeswarar Temple,French War Memorial,1.21,16.1,1.23,5.7,1.23,4.1,1.23,16.6
+Vedapureeswarar Temple,Mahatma Gandhi Statue,1.16,15.5,1.19,5.6,1.15,4.2,1.15,16.7
+Vedapureeswarar Temple,Aayi Mandapam / Bharathi Park,1.1,14.6,1.2,6.1,0.94,3.6,0.94,15.8
+Vedapureeswarar Temple,Old Lighthouse,1.09,14.5,1.08,5.2,1.12,4.2,1.12,16.7
+Vedapureeswarar Temple,Raj Niwas (Governor's Palace),1.07,14.2,1.06,6.0,0.92,3.5,0.92,15.6
+Vedapureeswarar Temple,Manakula Vinayagar Temple,0.61,8.1,0.71,3.6,1.04,3.0,1.04,14.8
+Vedapureeswarar Temple,Basilica of the Sacred Heart of Jesus,1.31,17.5,1.31,5.6,1.3,3.8,1.3,16.1
+Vedapureeswarar Temple,Eglise de Notre Dame des Anges,1.28,17.0,1.25,5.6,1.25,4.1,1.25,16.6
+Vedapureeswarar Temple,Cathedral of Our Lady of the Immaculate Conception,0.67,8.9,0.65,3.0,0.71,2.5,0.71,14.0
+Vedapureeswarar Temple,"Thirukameswarar Temple, Villianur",9.98,133.2,10.04,41.7,10.46,17.4,10.46,37.8
+Vedapureeswarar Temple,Kanniga Parameswari Temple,0.4,5.4,0.4,2.6,0.53,1.6,0.53,12.6
+Vedapureeswarar Temple,Meeran Mosque,1.2,16.0,1.25,5.6,1.24,3.7,1.24,15.9
+Vedapureeswarar Temple,Kuthba Mosque,1.3,17.4,1.31,5.8,1.29,3.6,1.29,15.8
+Vedapureeswarar Temple,Jamia Mosque,0.17,2.3,0.17,1.1,0.17,0.6,0.17,11.0
+Vedapureeswarar Temple,Bharathi Park / Government Park,1.1,14.6,1.2,6.1,0.94,3.6,0.94,15.8
+Vedapureeswarar Temple,Botanical Garden,1.23,16.4,1.24,5.6,1.23,3.0,1.23,14.8
+Vedapureeswarar Temple,Jawahar Toy Museum,1.4,18.7,1.38,6.1,1.38,4.6,1.38,17.4
+Vedapureeswarar Temple,Chunnambar Boat House,12.32,164.2,15.76,74.1,9.83,15.2,9.83,34.3
+Vedapureeswarar Temple,Ousteri Wetland and National Park,15.12,201.6,14.29,57.9,14.15,24.8,14.15,49.7
+Vedapureeswarar Temple,Arikamedu Archaeological Site,8.9,118.7,8.89,39.7,8.97,16.3,8.97,36.1
+Vedapureeswarar Temple,Auroville Visitors Centre,10.91,151.6,10.74,51.0,14.4,26.4,14.4,52.2
+Vedapureeswarar Temple,Jawaharlal Nehru Statue,1.16,15.5,1.19,5.6,1.15,4.2,1.15,16.7
+Vedapureeswarar Temple,Dupleix Statue,1.47,19.6,1.45,6.4,1.44,4.8,1.44,17.7
+Vedapureeswarar Temple,Romain Rolland Library,0.97,12.9,0.96,4.3,0.95,3.6,0.95,15.8
+Vedapureeswarar Temple,French Institute of Pondicherry (IFP),0.92,12.2,1.03,4.7,1.01,3.9,1.01,16.2
+Vedapureeswarar Temple,Alliance Francaise de Pondichery,1.9,25.3,1.89,8.3,1.89,5.2,1.89,18.3
+Vedapureeswarar Temple,Hotel de Ville / Municipal Office,1.28,17.0,1.25,5.6,1.25,4.1,1.25,16.6
+Vedapureeswarar Temple,Old Port / Old Harbour Area,2.19,29.2,2.19,10.0,1.97,5.3,1.97,18.5
+Vedapureeswarar Temple,Auroville Farms & Green Belt,11.03,152.9,10.97,49.9,13.81,26.1,13.81,51.8
+Vedapureeswarar Temple,Karaikal Beach,150.8,2010.7,146.78,565.0,142.17,112.7,142.17,190.3
+"Thirukameswarar Temple, Villianur",Sri Aurobindo Ashram,10.68,142.4,10.85,44.8,10.43,18.8,10.43,40.1
+"Thirukameswarar Temple, Villianur",White Town (French Quarter),10.66,142.2,10.79,45.6,10.97,20.0,10.97,42.0
+"Thirukameswarar Temple, Villianur",Promenade / Rock Beach,10.85,144.6,10.66,49.4,10.8,19.4,10.8,41.0
+"Thirukameswarar Temple, Villianur",Pondicherry Museum,10.54,140.5,10.9,45.1,10.79,19.4,10.79,41.0
+"Thirukameswarar Temple, Villianur",Matrimandir Viewing Point,14.52,194.0,14.46,58.2,15.85,26.0,15.85,51.6
+"Thirukameswarar Temple, Villianur",Casablanca Heritage Boutique,9.9,132.1,10.49,42.8,10.07,17.5,10.07,38.0
+"Thirukameswarar Temple, Villianur",Cluny Embroidery Centre,10.24,136.6,10.51,43.5,10.47,18.3,10.47,39.3
+"Thirukameswarar Temple, Villianur",Paradise Beach,12.87,171.6,13.74,54.5,14.18,22.1,14.18,45.4
+"Thirukameswarar Temple, Villianur",Serenity Beach,14.42,192.2,14.29,58.5,13.92,23.0,13.92,46.8
+"Thirukameswarar Temple, Villianur",Eden Beach,11.64,155.1,11.81,48.0,12.07,20.6,12.07,43.0
+"Thirukameswarar Temple, Villianur",Pondy Marina Beach,10.92,145.6,10.74,44.9,10.52,20.7,10.52,43.1
+"Thirukameswarar Temple, Villianur",Auroville Beach,16.16,215.4,15.82,64.6,15.33,24.8,15.33,49.7
+"Thirukameswarar Temple, Villianur",French War Memorial,10.4,138.8,10.74,44.7,10.7,19.1,10.7,40.6
+"Thirukameswarar Temple, Villianur",Mahatma Gandhi Statue,10.5,140.1,10.67,45.3,10.85,19.5,10.85,41.2
+"Thirukameswarar Temple, Villianur",Aayi Mandapam / Bharathi Park,10.47,139.7,10.89,45.9,10.8,19.4,10.8,41.0
+"Thirukameswarar Temple, Villianur",Old Lighthouse,10.5,140.1,10.84,45.6,10.98,19.9,10.98,41.8
+"Thirukameswarar Temple, Villianur",Raj Niwas (Governor's Palace),10.44,139.2,10.71,45.6,10.78,19.3,10.78,40.9
+"Thirukameswarar Temple, Villianur",Manakula Vinayagar Temple,10.57,141.1,10.72,44.7,10.5,19.1,10.5,40.6
+"Thirukameswarar Temple, Villianur",Basilica of the Sacred Heart of Jesus,9.34,124.6,9.46,39.5,9.31,17.0,9.31,37.2
+"Thirukameswarar Temple, Villianur",Eglise de Notre Dame des Anges,10.34,138.0,10.49,44.2,10.57,18.9,10.57,40.2
+"Thirukameswarar Temple, Villianur",Cathedral of Our Lady of the Immaculate Conception,10.11,134.9,10.7,43.8,10.28,18.2,10.28,39.1
+"Thirukameswarar Temple, Villianur",Vedapureeswarar Temple,9.98,133.2,10.17,42.3,9.74,17.8,9.74,38.5
+"Thirukameswarar Temple, Villianur",Kanniga Parameswari Temple,9.81,130.8,10.39,42.4,9.97,17.2,9.97,37.5
+"Thirukameswarar Temple, Villianur",Meeran Mosque,9.78,130.5,10.03,41.5,9.99,17.2,9.99,37.5
+"Thirukameswarar Temple, Villianur",Kuthba Mosque,9.7,129.3,9.93,41.1,9.89,17.0,9.89,37.2
+"Thirukameswarar Temple, Villianur",Jamia Mosque,9.83,131.2,10.01,41.5,9.59,17.1,9.59,37.4
+"Thirukameswarar Temple, Villianur",Bharathi Park / Government Park,10.47,139.7,10.89,45.9,10.8,19.4,10.8,41.0
+"Thirukameswarar Temple, Villianur",Botanical Garden,8.88,118.4,9.39,38.9,9.1,15.6,9.1,35.0
+"Thirukameswarar Temple, Villianur",Jawahar Toy Museum,10.39,138.6,10.44,44.0,10.62,19.1,10.62,40.6
+"Thirukameswarar Temple, Villianur",Chunnambar Boat House,11.17,149.0,12.5,50.9,11.39,16.8,11.39,36.9
+"Thirukameswarar Temple, Villianur",Ousteri Wetland and National Park,6.96,92.7,6.62,25.6,6.62,10.1,6.62,26.2
+"Thirukameswarar Temple, Villianur",Arikamedu Archaeological Site,10.67,142.3,10.57,43.9,10.53,17.9,10.53,38.6
+"Thirukameswarar Temple, Villianur",Auroville Visitors Centre,14.7,198.7,14.74,60.3,15.56,27.7,15.56,54.3
+"Thirukameswarar Temple, Villianur",Jawaharlal Nehru Statue,10.5,140.1,10.67,45.3,10.85,19.5,10.85,41.2
+"Thirukameswarar Temple, Villianur",Dupleix Statue,10.3,137.4,10.38,43.7,10.68,19.3,10.68,40.9
+"Thirukameswarar Temple, Villianur",Romain Rolland Library,10.54,140.6,10.88,45.1,10.81,19.4,10.81,41.0
+"Thirukameswarar Temple, Villianur",French Institute of Pondicherry (IFP),10.62,141.7,10.97,45.4,10.88,19.6,10.88,41.4
+"Thirukameswarar Temple, Villianur",Alliance Francaise de Pondichery,10.06,134.1,9.87,41.4,10.48,18.6,10.48,39.8
+"Thirukameswarar Temple, Villianur",Hotel de Ville / Municipal Office,10.34,138.0,10.49,44.2,10.57,18.9,10.57,40.2
+"Thirukameswarar Temple, Villianur",Old Port / Old Harbour Area,10.27,136.9,10.08,42.8,9.5,18.2,9.5,39.1
+"Thirukameswarar Temple, Villianur",Auroville Farms & Green Belt,13.98,186.4,14.01,55.5,14.97,27.4,14.97,53.8
+"Thirukameswarar Temple, Villianur",Karaikal Beach,143.47,1912.9,137.4,527.8,134.76,100.5,134.76,170.8
+Kanniga Parameswari Temple,Sri Aurobindo Ashram,0.95,12.7,0.95,4.1,0.95,2.7,0.95,14.3
+Kanniga Parameswari Temple,White Town (French Quarter),0.96,12.8,1.08,5.3,1.22,3.8,1.22,16.1
+Kanniga Parameswari Temple,Promenade / Rock Beach,2.46,32.8,2.48,15.8,1.05,3.3,1.05,15.3
+Kanniga Parameswari Temple,Pondicherry Museum,0.78,10.4,0.94,4.2,1.06,3.0,1.06,14.8
+Kanniga Parameswari Temple,Matrimandir Viewing Point,8.98,125.3,8.67,39.4,11.24,21.7,11.24,44.7
+Kanniga Parameswari Temple,Casablanca Heritage Boutique,0.22,3.0,0.22,1.1,0.22,0.7,0.22,11.1
+Kanniga Parameswari Temple,Cluny Embroidery Centre,0.72,9.6,0.72,3.3,0.72,2.2,0.72,13.5
+Kanniga Parameswari Temple,Paradise Beach,13.8,184.0,16.85,77.1,12.61,23.4,12.61,47.4
+Kanniga Parameswari Temple,Serenity Beach,5.3,70.6,4.81,19.9,5.31,10.9,5.31,27.4
+Kanniga Parameswari Temple,Eden Beach,9.88,131.7,9.96,43.0,9.69,19.3,9.69,40.9
+Kanniga Parameswari Temple,Pondy Marina Beach,3.03,40.5,3.12,13.2,3.12,8.1,3.12,23.0
+Kanniga Parameswari Temple,Auroville Beach,7.09,94.6,6.34,26.0,7.23,13.8,7.23,32.1
+Kanniga Parameswari Temple,French War Memorial,0.95,12.7,0.95,4.5,0.95,2.9,0.95,14.6
+Kanniga Parameswari Temple,Mahatma Gandhi Statue,0.99,13.2,1.05,5.3,1.1,3.4,1.1,15.4
+Kanniga Parameswari Temple,Aayi Mandapam / Bharathi Park,0.93,12.4,1.1,5.7,1.06,3.2,1.06,15.1
+Kanniga Parameswari Temple,Old Lighthouse,0.91,12.2,1.04,5.4,1.24,3.8,1.24,16.1
+Kanniga Parameswari Temple,Raj Niwas (Governor's Palace),0.9,12.0,0.92,5.5,1.03,3.1,1.03,15.0
+Kanniga Parameswari Temple,Manakula Vinayagar Temple,0.77,10.3,0.77,3.8,1.02,2.9,1.02,14.6
+Kanniga Parameswari Temple,Basilica of the Sacred Heart of Jesus,1.02,13.5,1.01,4.2,1.01,2.6,1.01,14.2
+Kanniga Parameswari Temple,Eglise de Notre Dame des Anges,0.97,12.9,0.97,4.4,0.97,3.0,0.97,14.8
+Kanniga Parameswari Temple,Cathedral of Our Lady of the Immaculate Conception,0.43,5.7,0.43,2.1,0.43,1.3,0.43,12.1
+Kanniga Parameswari Temple,Vedapureeswarar Temple,0.4,5.4,0.41,2.2,0.41,1.3,0.41,12.1
+Kanniga Parameswari Temple,"Thirukameswarar Temple, Villianur",9.81,130.8,10.24,42.0,10.69,18.0,10.69,38.8
+Kanniga Parameswari Temple,Meeran Mosque,0.9,12.0,0.96,4.2,0.96,2.6,0.96,14.2
+Kanniga Parameswari Temple,Kuthba Mosque,1.0,13.3,1.01,4.4,1.01,2.4,1.01,13.8
+Kanniga Parameswari Temple,Jamia Mosque,0.36,4.8,0.47,2.3,0.47,1.4,0.47,12.2
+Kanniga Parameswari Temple,Bharathi Park / Government Park,0.93,12.4,1.1,5.7,1.06,3.2,1.06,15.1
+Kanniga Parameswari Temple,Botanical Garden,1.02,13.6,1.14,4.9,1.14,2.7,1.14,14.3
+Kanniga Parameswari Temple,Jawahar Toy Museum,1.1,14.6,1.1,5.0,1.1,3.4,1.1,15.4
+Kanniga Parameswari Temple,Chunnambar Boat House,12.11,161.4,15.61,73.4,9.0,15.5,9.0,34.8
+Kanniga Parameswari Temple,Ousteri Wetland and National Park,15.25,203.3,14.52,58.4,14.38,25.3,14.38,50.5
+Kanniga Parameswari Temple,Arikamedu Archaeological Site,8.69,115.8,8.75,39.0,8.15,16.6,8.15,36.6
+Kanniga Parameswari Temple,Auroville Visitors Centre,11.19,155.3,10.88,51.2,14.63,27.0,14.63,53.2
+Kanniga Parameswari Temple,Jawaharlal Nehru Statue,0.99,13.2,1.05,5.3,1.1,3.4,1.1,15.4
+Kanniga Parameswari Temple,Dupleix Statue,1.16,15.5,1.16,5.3,1.16,3.6,1.16,15.8
+Kanniga Parameswari Temple,Romain Rolland Library,0.8,10.7,0.92,4.4,1.07,3.3,1.07,15.3
+Kanniga Parameswari Temple,French Institute of Pondicherry (IFP),0.86,11.5,0.99,4.8,1.13,3.5,1.13,15.6
+Kanniga Parameswari Temple,Alliance Francaise de Pondichery,1.59,21.2,1.6,7.2,1.6,4.0,1.6,16.4
+Kanniga Parameswari Temple,Hotel de Ville / Municipal Office,0.97,12.9,0.97,4.4,0.97,3.0,0.97,14.8
+Kanniga Parameswari Temple,Old Port / Old Harbour Area,1.88,25.1,1.9,8.9,1.69,4.1,1.69,16.6
+Kanniga Parameswari Temple,Auroville Farms & Green Belt,11.31,156.6,11.11,50.1,14.04,26.6,14.04,52.6
+Kanniga Parameswari Temple,Karaikal Beach,150.59,2007.9,146.97,565.3,141.35,113.0,141.35,190.8
+Meeran Mosque,Sri Aurobindo Ashram,1.01,13.4,0.99,4.1,0.99,2.1,0.99,13.4
+Meeran Mosque,White Town (French Quarter),0.88,11.7,0.96,4.2,0.98,2.7,0.98,14.3
+Meeran Mosque,Promenade / Rock Beach,1.57,21.0,1.69,12.5,0.8,2.2,0.8,13.5
+Meeran Mosque,Pondicherry Museum,0.78,10.4,0.8,3.7,0.8,2.2,0.8,13.5
+Meeran Mosque,Matrimandir Viewing Point,9.82,136.5,9.35,42.2,11.28,21.1,11.28,43.8
+Meeran Mosque,Casablanca Heritage Boutique,0.68,9.0,0.67,2.8,0.67,1.5,0.67,12.4
+Meeran Mosque,Cluny Embroidery Centre,0.49,6.5,0.48,2.0,0.48,1.1,0.48,11.8
+Meeran Mosque,Paradise Beach,13.22,176.2,16.39,75.1,12.56,23.2,12.56,47.1
+Meeran Mosque,Serenity Beach,5.33,71.1,5.35,21.6,5.35,10.3,5.35,26.5
+Meeran Mosque,Eden Beach,9.29,123.9,9.5,41.0,9.65,19.1,9.65,40.6
+Meeran Mosque,Pondy Marina Beach,2.22,29.6,2.33,9.9,2.49,6.9,2.49,21.0
+Meeran Mosque,Auroville Beach,7.13,95.1,7.05,28.3,7.28,13.2,7.28,31.1
+Meeran Mosque,French War Memorial,0.62,8.3,0.71,3.2,0.7,1.8,0.7,12.9
+Meeran Mosque,Mahatma Gandhi Statue,0.73,9.7,0.81,3.9,0.86,2.3,0.86,13.7
+Meeran Mosque,Aayi Mandapam / Bharathi Park,0.72,9.5,0.85,4.4,0.81,2.1,0.81,13.4
+Meeran Mosque,Old Lighthouse,0.73,9.7,0.81,4.1,0.99,2.7,0.99,14.3
+Meeran Mosque,Raj Niwas (Governor's Palace),0.68,9.1,0.68,4.1,0.79,2.1,0.79,13.4
+Meeran Mosque,Manakula Vinayagar Temple,0.82,11.0,0.8,3.8,0.97,2.4,0.97,13.8
+Meeran Mosque,Basilica of the Sacred Heart of Jesus,0.8,10.6,0.87,4.1,0.97,2.5,0.97,14.0
+Meeran Mosque,Eglise de Notre Dame des Anges,0.57,7.6,0.58,2.8,0.72,1.9,0.72,13.0
+Meeran Mosque,Cathedral of Our Lady of the Immaculate Conception,0.55,7.3,0.55,2.5,0.55,1.3,0.55,12.1
+Meeran Mosque,Vedapureeswarar Temple,1.2,16.0,1.2,5.1,1.19,2.7,1.19,14.3
+Meeran Mosque,"Thirukameswarar Temple, Villianur",9.78,130.5,10.08,41.8,10.78,18.0,10.78,38.8
+Meeran Mosque,Kanniga Parameswari Temple,0.9,12.0,0.9,4.5,1.2,2.9,1.2,14.6
+Meeran Mosque,Kuthba Mosque,0.1,1.4,0.27,1.4,0.38,1.2,0.38,11.9
+Meeran Mosque,Jamia Mosque,1.26,16.8,1.26,5.2,1.26,2.9,1.26,14.6
+Meeran Mosque,Bharathi Park / Government Park,0.72,9.5,0.85,4.4,0.81,2.1,0.81,13.4
+Meeran Mosque,Botanical Garden,0.99,13.3,0.99,4.6,1.1,2.5,1.1,14.0
+Meeran Mosque,Jawahar Toy Museum,0.62,8.2,0.62,3.2,0.85,2.4,0.85,13.8
+Meeran Mosque,Chunnambar Boat House,11.52,153.6,15.15,71.5,8.96,15.3,8.96,34.5
+Meeran Mosque,Ousteri Wetland and National Park,15.63,208.5,14.93,59.6,14.46,25.3,14.46,50.5
+Meeran Mosque,Arikamedu Archaeological Site,8.11,108.1,8.29,37.1,8.1,16.4,8.1,36.2
+Meeran Mosque,Auroville Visitors Centre,12.03,166.5,11.56,54.0,16.01,28.0,16.01,54.8
+Meeran Mosque,Jawaharlal Nehru Statue,0.73,9.7,0.81,3.9,0.86,2.3,0.86,13.7
+Meeran Mosque,Dupleix Statue,0.68,9.1,0.69,3.5,0.92,2.5,0.92,14.0
+Meeran Mosque,Romain Rolland Library,0.76,10.2,0.84,3.6,0.82,2.2,0.82,13.5
+Meeran Mosque,French Institute of Pondicherry (IFP),0.85,11.4,0.93,3.9,0.89,2.4,0.89,13.8
+Meeran Mosque,Alliance Francaise de Pondichery,0.7,9.4,0.81,3.9,0.97,2.8,0.97,14.5
+Meeran Mosque,Hotel de Ville / Municipal Office,0.57,7.5,0.58,2.8,0.72,1.9,0.72,13.0
+Meeran Mosque,Old Port / Old Harbour Area,1.0,13.3,1.11,5.6,1.06,2.9,1.06,14.6
+Meeran Mosque,Auroville Farms & Green Belt,12.15,167.8,11.8,52.9,15.42,27.6,15.42,54.2
+Meeran Mosque,Karaikal Beach,150.01,2000.1,146.65,564.7,141.3,112.8,141.3,190.5
+Kuthba Mosque,Sri Aurobindo Ashram,1.1,14.7,1.09,4.5,1.09,2.3,1.09,13.7
+Kuthba Mosque,White Town (French Quarter),0.98,13.0,1.06,4.6,1.08,2.9,1.08,14.6
+Kuthba Mosque,Promenade / Rock Beach,1.47,19.6,1.48,11.7,0.91,2.4,0.91,13.8
+Kuthba Mosque,Pondicherry Museum,0.88,11.7,0.9,4.1,0.9,2.3,0.9,13.7
+Kuthba Mosque,Matrimandir Viewing Point,9.92,137.9,9.46,42.6,11.38,21.3,11.38,44.1
+Kuthba Mosque,Casablanca Heritage Boutique,0.78,10.4,0.77,3.2,0.77,1.7,0.77,12.7
+Kuthba Mosque,Cluny Embroidery Centre,0.58,7.8,0.58,2.4,0.58,1.3,0.58,12.1
+Kuthba Mosque,Paradise Beach,13.12,174.9,16.18,74.4,12.5,23.0,12.5,46.8
+Kuthba Mosque,Serenity Beach,5.43,72.5,5.45,22.0,5.45,10.5,5.45,26.8
+Kuthba Mosque,Eden Beach,9.19,122.6,9.28,40.3,9.59,18.9,9.59,40.2
+Kuthba Mosque,Pondy Marina Beach,2.12,28.2,2.12,9.2,2.43,6.6,2.43,20.6
+Kuthba Mosque,Auroville Beach,7.23,96.4,7.15,28.7,7.38,13.4,7.38,31.4
+Kuthba Mosque,French War Memorial,0.72,9.6,0.81,3.6,0.81,2.0,0.81,13.2
+Kuthba Mosque,Mahatma Gandhi Statue,0.82,11.0,0.91,4.3,0.96,2.5,0.96,14.0
+Kuthba Mosque,Aayi Mandapam / Bharathi Park,0.81,10.8,0.95,4.8,0.91,2.3,0.91,13.7
+Kuthba Mosque,Old Lighthouse,0.83,11.0,0.91,4.5,1.09,2.9,1.09,14.6
+Kuthba Mosque,Raj Niwas (Governor's Palace),0.78,10.4,0.78,4.5,0.89,2.2,0.89,13.5
+Kuthba Mosque,Manakula Vinayagar Temple,0.92,12.3,0.91,4.2,1.08,2.5,1.08,14.0
+Kuthba Mosque,Basilica of the Sacred Heart of Jesus,0.69,9.2,0.69,3.3,0.91,2.3,0.91,13.7
+Kuthba Mosque,Eglise de Notre Dame des Anges,0.66,8.9,0.68,3.2,0.82,2.1,0.82,13.4
+Kuthba Mosque,Cathedral of Our Lady of the Immaculate Conception,0.65,8.7,0.65,2.9,0.65,1.5,0.65,12.4
+Kuthba Mosque,Vedapureeswarar Temple,1.3,17.4,1.3,5.5,1.3,2.9,1.3,14.6
+Kuthba Mosque,"Thirukameswarar Temple, Villianur",9.7,129.3,10.0,41.0,10.71,17.8,10.71,38.5
+Kuthba Mosque,Kanniga Parameswari Temple,1.0,13.3,1.0,4.9,1.31,3.1,1.31,15.0
+Kuthba Mosque,Meeran Mosque,0.1,1.4,0.1,0.4,0.1,0.2,0.1,10.3
+Kuthba Mosque,Jamia Mosque,1.36,18.2,1.36,5.6,1.36,3.1,1.36,15.0
+Kuthba Mosque,Bharathi Park / Government Park,0.81,10.8,0.95,4.8,0.91,2.3,0.91,13.7
+Kuthba Mosque,Botanical Garden,0.91,12.1,0.91,3.9,1.03,2.3,1.03,13.7
+Kuthba Mosque,Jawahar Toy Museum,0.71,9.5,0.73,3.6,0.95,2.5,0.95,14.0
+Kuthba Mosque,Chunnambar Boat House,11.42,152.3,14.94,70.7,8.9,15.1,8.9,34.2
+Kuthba Mosque,Ousteri Wetland and National Park,15.54,207.3,14.84,58.8,14.4,25.1,14.4,50.2
+Kuthba Mosque,Arikamedu Archaeological Site,8.0,106.7,8.07,36.3,8.04,16.2,8.04,35.9
+Kuthba Mosque,Auroville Visitors Centre,12.13,167.8,11.66,54.4,15.95,27.8,15.95,54.5
+Kuthba Mosque,Jawaharlal Nehru Statue,0.82,11.0,0.91,4.3,0.96,2.5,0.96,14.0
+Kuthba Mosque,Dupleix Statue,0.61,8.2,0.61,3.3,1.02,2.7,1.02,14.3
+Kuthba Mosque,Romain Rolland Library,0.86,11.5,0.95,4.0,0.92,2.4,0.92,13.8
+Kuthba Mosque,French Institute of Pondicherry (IFP),0.95,12.7,1.03,4.3,0.99,2.6,0.99,14.2
+Kuthba Mosque,Alliance Francaise de Pondichery,0.6,8.0,0.6,3.1,0.91,2.6,0.91,14.2
+Kuthba Mosque,Hotel de Ville / Municipal Office,0.66,8.9,0.68,3.2,0.82,2.1,0.82,13.4
+Kuthba Mosque,Old Port / Old Harbour Area,0.89,11.9,0.89,4.8,1.0,2.6,1.0,14.2
+Kuthba Mosque,Auroville Farms & Green Belt,12.25,169.1,11.9,53.3,15.36,27.4,15.36,53.8
+Kuthba Mosque,Karaikal Beach,149.91,1998.8,146.44,563.9,141.24,112.6,141.24,190.2
+Jamia Mosque,Sri Aurobindo Ashram,0.9,12.0,0.9,3.7,0.9,2.4,0.9,13.8
+Jamia Mosque,White Town (French Quarter),1.19,15.8,1.18,5.3,1.18,4.3,1.18,16.9
+Jamia Mosque,Promenade / Rock Beach,2.83,37.7,2.83,17.1,1.41,4.2,1.41,16.7
+Jamia Mosque,Pondicherry Museum,1.01,13.4,0.94,4.1,0.94,3.4,0.94,15.4
+Jamia Mosque,Matrimandir Viewing Point,8.62,120.5,8.46,38.5,10.55,20.8,10.55,43.3
+Jamia Mosque,Casablanca Heritage Boutique,0.58,7.8,0.58,2.5,0.58,1.6,0.58,12.6
+Jamia Mosque,Cluny Embroidery Centre,1.08,14.4,1.07,4.6,1.08,3.1,1.08,15.0
+Jamia Mosque,Paradise Beach,13.85,184.7,16.79,76.7,13.35,22.9,13.35,46.6
+Jamia Mosque,Serenity Beach,4.63,61.8,4.71,19.3,5.17,10.5,5.17,26.8
+Jamia Mosque,Eden Beach,9.93,132.4,9.9,42.6,10.44,18.8,10.44,40.1
+Jamia Mosque,Pondy Marina Beach,3.4,45.3,3.47,14.5,3.48,8.9,3.48,24.2
+Jamia Mosque,Auroville Beach,6.43,85.7,6.25,25.5,6.55,13.0,6.55,30.8
+Jamia Mosque,French War Memorial,1.26,16.9,1.3,5.8,1.31,3.8,1.31,16.1
+Jamia Mosque,Mahatma Gandhi Statue,1.22,16.3,1.25,5.7,1.22,4.3,1.22,16.9
+Jamia Mosque,Aayi Mandapam / Bharathi Park,1.16,15.4,1.26,6.2,1.01,3.7,1.01,15.9
+Jamia Mosque,Old Lighthouse,1.14,15.3,1.14,5.4,1.19,4.2,1.19,16.7
+Jamia Mosque,Raj Niwas (Governor's Palace),1.13,15.0,1.12,6.2,0.99,3.6,0.99,15.8
+Jamia Mosque,Manakula Vinayagar Temple,0.76,10.1,0.77,3.7,0.96,2.7,0.96,14.3
+Jamia Mosque,Basilica of the Sacred Heart of Jesus,1.3,17.3,1.3,5.5,1.37,3.5,1.37,15.6
+Jamia Mosque,Eglise de Notre Dame des Anges,1.33,17.8,1.31,5.7,1.33,3.8,1.33,16.1
+Jamia Mosque,Cathedral of Our Lady of the Immaculate Conception,0.72,9.7,0.72,3.2,0.79,2.2,0.79,13.5
+Jamia Mosque,Vedapureeswarar Temple,0.17,2.3,0.22,1.3,0.21,1.1,0.21,11.8
+Jamia Mosque,"Thirukameswarar Temple, Villianur",9.83,131.2,9.97,41.3,10.38,17.2,10.38,37.5
+Jamia Mosque,Kanniga Parameswari Temple,0.36,4.8,0.36,1.6,0.36,1.0,0.36,11.6
+Jamia Mosque,Meeran Mosque,1.26,16.8,1.32,5.6,1.47,3.4,1.47,15.4
+Jamia Mosque,Kuthba Mosque,1.36,18.2,1.37,5.7,1.37,3.2,1.37,15.1
+Jamia Mosque,Bharathi Park / Government Park,1.16,15.4,1.26,6.2,1.01,3.7,1.01,15.9
+Jamia Mosque,Botanical Garden,1.07,14.3,1.08,4.6,1.09,2.6,1.09,14.2
+Jamia Mosque,Jawahar Toy Museum,1.46,19.5,1.44,6.3,1.46,4.3,1.46,16.9
+Jamia Mosque,Chunnambar Boat House,12.16,162.1,15.55,73.0,9.75,15.0,9.75,34.0
+Jamia Mosque,Ousteri Wetland and National Park,14.97,199.6,14.22,57.4,14.07,24.5,14.07,49.2
+Jamia Mosque,Arikamedu Archaeological Site,8.74,116.5,8.69,38.6,8.89,16.1,8.89,35.8
+Jamia Mosque,Auroville Visitors Centre,10.83,150.5,10.66,50.3,14.32,26.2,14.32,51.9
+Jamia Mosque,Jawaharlal Nehru Statue,1.22,16.3,1.25,5.7,1.22,4.3,1.22,16.9
+Jamia Mosque,Dupleix Statue,1.53,20.4,1.51,6.6,1.52,4.5,1.52,17.2
+Jamia Mosque,Romain Rolland Library,1.03,13.7,1.02,4.5,1.02,3.7,1.02,15.9
+Jamia Mosque,French Institute of Pondicherry (IFP),1.09,14.6,1.09,4.8,1.31,3.7,1.31,15.9
+Jamia Mosque,Alliance Francaise de Pondichery,1.96,26.1,1.96,8.5,1.96,4.8,1.96,17.7
+Jamia Mosque,Hotel de Ville / Municipal Office,1.33,17.8,1.31,5.7,1.33,3.8,1.33,16.1
+Jamia Mosque,Old Port / Old Harbour Area,2.25,30.0,2.25,10.2,2.05,4.9,2.05,17.8
+Jamia Mosque,Auroville Farms & Green Belt,10.95,151.8,10.9,49.2,13.74,25.8,13.74,51.3
+Jamia Mosque,Karaikal Beach,150.64,2008.6,146.7,564.5,142.09,112.5,142.09,190.0
+Bharathi Park / Government Park,Sri Aurobindo Ashram,0.67,8.9,0.73,4.2,0.48,1.5,0.48,12.4
+Bharathi Park / Government Park,White Town (French Quarter),0.35,4.7,0.35,2.6,0.17,0.6,0.17,11.0
+Bharathi Park / Government Park,Promenade / Rock Beach,1.81,24.1,1.81,13.7,0.26,0.8,0.26,11.3
+Bharathi Park / Government Park,Pondicherry Museum,0.33,4.4,0.33,2.4,0.08,0.3,0.08,10.5
+Bharathi Park / Government Park,Matrimandir Viewing Point,9.58,133.3,9.33,43.1,11.04,21.0,11.04,43.6
+Bharathi Park / Government Park,Casablanca Heritage Boutique,0.73,9.7,0.73,4.6,0.69,2.0,0.69,13.2
+Bharathi Park / Government Park,Cluny Embroidery Centre,0.3,4.0,0.3,2.8,0.38,1.3,0.38,12.1
+Bharathi Park / Government Park,Paradise Beach,13.92,185.6,16.94,78.8,14.21,25.0,14.21,50.0
+Bharathi Park / Government Park,Serenity Beach,5.14,68.6,5.32,22.5,5.11,10.2,5.11,26.3
+Bharathi Park / Government Park,Eden Beach,10.0,133.3,10.04,44.7,11.29,21.0,11.29,43.6
+Bharathi Park / Government Park,Pondy Marina Beach,2.87,38.3,2.89,13.7,3.0,8.2,3.0,23.1
+Bharathi Park / Government Park,Auroville Beach,6.94,92.5,7.03,29.2,7.04,13.1,7.04,31.0
+Bharathi Park / Government Park,French War Memorial,0.24,3.3,0.29,2.5,0.3,1.0,0.3,11.6
+Bharathi Park / Government Park,Mahatma Gandhi Statue,0.2,2.7,0.2,2.1,0.21,0.6,0.21,11.0
+Bharathi Park / Government Park,Aayi Mandapam / Bharathi Park,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+Bharathi Park / Government Park,Old Lighthouse,0.2,2.7,0.2,2.2,0.18,0.6,0.18,11.0
+Bharathi Park / Government Park,Raj Niwas (Governor's Palace),0.14,1.8,0.14,1.5,0.02,0.1,0.02,10.2
+Bharathi Park / Government Park,Manakula Vinayagar Temple,0.49,6.5,0.49,3.9,0.4,1.2,0.4,11.9
+Bharathi Park / Government Park,Basilica of the Sacred Heart of Jesus,1.49,19.9,1.51,8.1,1.63,4.5,1.63,17.2
+Bharathi Park / Government Park,Eglise de Notre Dame des Anges,0.31,4.2,0.31,2.3,0.32,1.1,0.32,11.8
+Bharathi Park / Government Park,Cathedral of Our Lady of the Immaculate Conception,0.6,8.0,0.6,4.1,0.48,1.5,0.48,12.4
+Bharathi Park / Government Park,Vedapureeswarar Temple,1.1,14.6,1.09,6.3,0.95,2.7,0.95,14.3
+Bharathi Park / Government Park,"Thirukameswarar Temple, Villianur",10.47,139.7,10.62,45.7,11.24,19.3,11.24,40.9
+Bharathi Park / Government Park,Kanniga Parameswari Temple,0.93,12.4,0.93,6.0,1.09,3.1,1.09,15.0
+Bharathi Park / Government Park,Meeran Mosque,0.72,9.5,0.8,5.3,1.03,2.9,1.03,14.6
+Bharathi Park / Government Park,Kuthba Mosque,0.81,10.8,0.82,5.1,0.93,2.7,0.93,14.3
+Bharathi Park / Government Park,Jamia Mosque,1.16,15.4,1.16,6.2,1.02,2.8,1.02,14.5
+Bharathi Park / Government Park,Botanical Garden,1.68,22.4,1.68,8.6,1.76,4.4,1.76,17.0
+Bharathi Park / Government Park,Jawahar Toy Museum,0.44,5.9,0.44,2.9,0.44,1.5,0.44,12.4
+Bharathi Park / Government Park,Chunnambar Boat House,12.23,163.0,15.7,75.1,10.6,17.2,10.6,37.5
+Bharathi Park / Government Park,Ousteri Wetland and National Park,16.06,214.1,15.21,62.4,14.92,26.7,14.92,52.7
+Bharathi Park / Government Park,Arikamedu Archaeological Site,8.81,117.5,8.84,40.7,9.75,18.3,9.75,39.3
+Bharathi Park / Government Park,Auroville Visitors Centre,11.79,163.3,11.54,54.9,15.18,28.3,15.18,55.3
+Bharathi Park / Government Park,Jawaharlal Nehru Statue,0.2,2.7,0.2,2.1,0.21,0.6,0.21,11.0
+Bharathi Park / Government Park,Dupleix Statue,0.51,6.8,0.51,3.2,0.51,1.7,0.51,12.7
+Bharathi Park / Government Park,Romain Rolland Library,0.24,3.2,0.24,2.0,0.01,0.0,0.01,10.0
+Bharathi Park / Government Park,French Institute of Pondicherry (IFP),0.33,4.4,0.33,2.3,0.14,0.6,0.14,11.0
+Bharathi Park / Government Park,Alliance Francaise de Pondichery,0.94,12.5,0.94,5.2,0.94,2.4,0.94,13.8
+Bharathi Park / Government Park,Hotel de Ville / Municipal Office,0.31,4.2,0.31,2.3,0.32,1.1,0.32,11.8
+Bharathi Park / Government Park,Old Port / Old Harbour Area,1.23,16.4,1.23,6.9,1.57,4.2,1.57,16.7
+Bharathi Park / Government Park,Auroville Farms & Green Belt,11.91,164.6,11.77,53.9,14.59,28.0,14.59,54.8
+Bharathi Park / Government Park,Karaikal Beach,150.71,2009.5,147.2,568.3,142.95,114.6,142.95,193.4
+Botanical Garden,Sri Aurobindo Ashram,1.97,26.3,1.95,8.3,2.05,4.5,2.05,17.2
+Botanical Garden,White Town (French Quarter),1.87,24.9,1.96,8.6,2.04,5.1,2.04,18.2
+Botanical Garden,Promenade / Rock Beach,2.4,32.1,2.22,14.2,1.86,4.5,1.86,17.2
+Botanical Garden,Pondicherry Museum,1.75,23.3,1.81,8.1,1.86,4.5,1.86,17.2
+Botanical Garden,Matrimandir Viewing Point,9.62,134.0,9.36,42.6,11.46,22.5,11.46,46.0
+Botanical Garden,Casablanca Heritage Boutique,1.12,14.9,1.15,4.8,1.15,2.8,1.15,14.5
+Botanical Garden,Cluny Embroidery Centre,1.45,19.4,1.48,6.3,1.53,3.4,1.53,15.4
+Botanical Garden,Paradise Beach,12.9,172.0,15.87,72.8,11.58,20.9,11.58,43.4
+Botanical Garden,Serenity Beach,5.63,75.2,5.58,23.4,6.08,12.1,6.08,29.4
+Botanical Garden,Eden Beach,8.97,119.6,8.98,38.7,8.66,16.8,8.66,36.9
+Botanical Garden,Pondy Marina Beach,2.85,37.9,2.7,11.6,2.83,7.7,2.83,22.3
+Botanical Garden,Auroville Beach,7.43,99.1,7.12,29.6,7.46,14.6,7.46,33.4
+Botanical Garden,French War Memorial,1.61,21.5,1.71,7.5,1.76,4.2,1.76,16.7
+Botanical Garden,Mahatma Gandhi Statue,1.72,22.9,1.81,8.3,1.91,4.6,1.91,17.4
+Botanical Garden,Aayi Mandapam / Bharathi Park,1.68,22.4,1.86,8.7,1.87,4.5,1.87,17.2
+Botanical Garden,Old Lighthouse,1.72,22.9,1.81,8.4,2.05,5.0,2.05,18.0
+Botanical Garden,Raj Niwas (Governor's Palace),1.65,22.0,1.68,8.5,1.84,4.4,1.84,17.0
+Botanical Garden,Manakula Vinayagar Temple,1.79,23.9,1.81,8.1,2.03,4.7,2.03,17.5
+Botanical Garden,Basilica of the Sacred Heart of Jesus,0.62,8.3,0.62,2.7,0.62,1.9,0.62,13.0
+Botanical Garden,Eglise de Notre Dame des Anges,1.55,20.8,1.61,7.3,1.63,4.0,1.63,16.4
+Botanical Garden,Cathedral of Our Lady of the Immaculate Conception,1.32,17.7,1.35,5.8,1.35,3.4,1.35,15.4
+Botanical Garden,Vedapureeswarar Temple,1.23,16.4,1.26,5.6,1.25,3.6,1.25,15.8
+Botanical Garden,"Thirukameswarar Temple, Villianur",8.88,118.4,9.18,37.6,9.77,15.7,9.77,35.1
+Botanical Garden,Kanniga Parameswari Temple,1.02,13.6,1.05,4.4,1.05,2.5,1.05,14.0
+Botanical Garden,Meeran Mosque,0.99,13.3,1.06,4.5,1.06,2.3,1.06,13.7
+Botanical Garden,Kuthba Mosque,0.91,12.1,0.95,4.1,0.95,2.1,0.95,13.4
+Botanical Garden,Jamia Mosque,1.07,14.3,1.09,4.7,1.1,2.7,1.1,14.3
+Botanical Garden,Bharathi Park / Government Park,1.68,22.4,1.86,8.7,1.87,4.5,1.87,17.2
+Botanical Garden,Jawahar Toy Museum,1.6,21.4,1.62,7.4,1.68,4.2,1.68,16.7
+Botanical Garden,Chunnambar Boat House,11.2,149.3,14.63,69.1,7.97,13.0,7.97,30.8
+Botanical Garden,Ousteri Wetland and National Park,14.72,196.4,14.03,55.3,13.46,23.0,13.46,46.8
+Botanical Garden,Arikamedu Archaeological Site,7.78,103.8,7.77,34.7,7.12,14.1,7.12,32.6
+Botanical Garden,Auroville Visitors Centre,11.83,163.9,11.57,54.4,15.0,25.7,15.0,51.1
+Botanical Garden,Jawaharlal Nehru Statue,1.72,22.9,1.81,8.3,1.91,4.6,1.91,17.4
+Botanical Garden,Dupleix Statue,1.51,20.2,1.56,7.1,1.75,4.4,1.75,17.0
+Botanical Garden,Romain Rolland Library,1.75,23.4,1.85,8.0,1.88,4.5,1.88,17.2
+Botanical Garden,French Institute of Pondicherry (IFP),1.83,24.5,1.94,8.2,1.94,4.7,1.94,17.5
+Botanical Garden,Alliance Francaise de Pondichery,1.53,20.4,1.42,6.2,1.55,3.7,1.55,15.9
+Botanical Garden,Hotel de Ville / Municipal Office,1.55,20.8,1.61,7.3,1.63,4.0,1.63,16.4
+Botanical Garden,Old Port / Old Harbour Area,1.83,24.3,1.63,7.6,1.63,3.8,1.63,16.1
+Botanical Garden,Auroville Farms & Green Belt,11.95,165.2,11.8,53.4,14.41,25.3,14.41,50.5
+Botanical Garden,Karaikal Beach,149.69,1995.9,145.92,560.9,140.32,110.5,140.32,186.8
+Jawahar Toy Museum,Sri Aurobindo Ashram,0.92,12.3,0.9,4.2,0.92,3.0,0.92,14.8
+Jawahar Toy Museum,White Town (French Quarter),0.35,4.7,0.35,1.6,0.55,1.9,0.55,13.0
+Jawahar Toy Museum,Promenade / Rock Beach,1.36,18.2,1.37,10.9,0.18,0.4,0.18,10.6
+Jawahar Toy Museum,Pondicherry Museum,0.52,7.0,0.51,2.5,0.52,1.8,0.52,12.9
+Jawahar Toy Museum,Matrimandir Viewing Point,9.88,137.4,9.42,42.9,11.5,22.4,11.5,45.8
+Jawahar Toy Museum,Casablanca Heritage Boutique,0.87,11.6,0.9,4.3,0.9,2.8,0.9,14.5
+Jawahar Toy Museum,Cluny Embroidery Centre,0.37,5.0,0.38,2.3,0.47,1.6,0.47,12.6
+Jawahar Toy Museum,Paradise Beach,13.63,181.7,16.64,76.5,13.1,24.8,13.1,49.7
+Jawahar Toy Museum,Serenity Beach,5.45,72.7,5.41,22.3,5.57,11.6,5.57,28.6
+Jawahar Toy Museum,Eden Beach,9.7,129.3,9.74,42.3,10.18,20.7,10.18,43.1
+Jawahar Toy Museum,Pondy Marina Beach,2.58,34.3,2.58,11.5,2.77,7.7,2.77,22.3
+Jawahar Toy Museum,Auroville Beach,7.24,96.6,7.11,29.1,7.5,14.5,7.5,33.2
+Jawahar Toy Museum,French War Memorial,0.2,2.6,0.2,1.2,0.19,0.6,0.19,11.0
+Jawahar Toy Museum,Mahatma Gandhi Statue,0.23,3.1,0.23,1.3,0.23,0.6,0.23,11.0
+Jawahar Toy Museum,Aayi Mandapam / Bharathi Park,0.44,5.9,0.44,2.9,0.44,1.5,0.44,12.4
+Jawahar Toy Museum,Old Lighthouse,0.32,4.2,0.31,2.1,0.26,0.6,0.26,11.0
+Jawahar Toy Museum,Raj Niwas (Governor's Palace),0.48,6.4,0.48,3.4,0.47,1.6,0.47,12.6
+Jawahar Toy Museum,Manakula Vinayagar Temple,0.79,10.5,0.78,4.0,0.84,2.8,0.84,14.5
+Jawahar Toy Museum,Basilica of the Sacred Heart of Jesus,1.41,18.8,1.36,6.7,1.5,4.2,1.5,16.7
+Jawahar Toy Museum,Eglise de Notre Dame des Anges,0.13,1.7,0.13,0.8,0.13,0.5,0.13,10.8
+Jawahar Toy Museum,Cathedral of Our Lady of the Immaculate Conception,0.75,9.9,0.78,3.7,0.77,2.6,0.77,14.2
+Jawahar Toy Museum,Vedapureeswarar Temple,1.4,18.7,1.39,6.4,1.42,4.1,1.42,16.6
+Jawahar Toy Museum,"Thirukameswarar Temple, Villianur",10.39,138.6,10.32,43.4,11.31,19.6,11.31,41.4
+Jawahar Toy Museum,Kanniga Parameswari Temple,1.1,14.6,1.12,5.9,1.43,4.2,1.43,16.7
+Jawahar Toy Museum,Meeran Mosque,0.62,8.2,0.62,3.9,0.84,2.5,0.84,14.0
+Jawahar Toy Museum,Kuthba Mosque,0.71,9.5,0.68,3.5,0.74,2.4,0.74,13.8
+Jawahar Toy Museum,Jamia Mosque,1.46,19.5,1.46,6.3,1.48,4.2,1.48,16.7
+Jawahar Toy Museum,Bharathi Park / Government Park,0.44,5.9,0.44,2.9,0.44,1.5,0.44,12.4
+Jawahar Toy Museum,Botanical Garden,1.6,21.4,1.58,7.3,1.63,4.1,1.63,16.6
+Jawahar Toy Museum,Chunnambar Boat House,11.93,159.0,15.4,72.8,9.5,16.9,9.5,37.0
+Jawahar Toy Museum,Ousteri Wetland and National Park,16.24,216.6,15.51,62.2,15.0,27.0,15.0,53.2
+Jawahar Toy Museum,Arikamedu Archaeological Site,8.51,113.5,8.53,38.4,8.64,18.0,8.64,38.8
+Jawahar Toy Museum,Auroville Visitors Centre,12.09,167.4,11.62,54.7,16.55,29.6,16.55,57.4
+Jawahar Toy Museum,Jawaharlal Nehru Statue,0.23,3.1,0.23,1.3,0.23,0.6,0.23,11.0
+Jawahar Toy Museum,Dupleix Statue,0.06,0.9,0.06,0.3,0.06,0.2,0.06,10.3
+Jawahar Toy Museum,Romain Rolland Library,0.43,5.8,0.43,2.1,0.43,1.5,0.43,12.4
+Jawahar Toy Museum,French Institute of Pondicherry (IFP),0.52,7.0,0.52,2.4,0.52,1.7,0.52,12.7
+Jawahar Toy Museum,Alliance Francaise de Pondichery,0.62,8.2,0.61,3.0,0.67,1.7,0.67,12.7
+Jawahar Toy Museum,Hotel de Ville / Municipal Office,0.13,1.7,0.13,0.8,0.13,0.5,0.13,10.8
+Jawahar Toy Museum,Old Port / Old Harbour Area,0.87,11.6,0.87,4.4,1.34,3.7,1.34,15.9
+Jawahar Toy Museum,Auroville Farms & Green Belt,12.21,168.7,11.86,53.7,15.96,29.2,15.96,56.7
+Jawahar Toy Museum,Karaikal Beach,150.42,2005.6,146.89,566.0,141.84,114.4,141.84,193.0
+Chunnambar Boat House,Sri Aurobindo Ashram,12.52,166.9,15.97,78.6,11.05,21.0,11.05,43.6
+Chunnambar Boat House,White Town (French Quarter),12.32,164.2,15.74,78.6,11.03,21.6,11.03,44.6
+Chunnambar Boat House,Promenade / Rock Beach,12.15,162.0,15.61,82.4,10.86,21.1,10.86,43.8
+Chunnambar Boat House,Pondicherry Museum,12.29,163.9,15.78,78.2,10.85,21.0,10.85,43.6
+Chunnambar Boat House,Matrimandir Viewing Point,20.67,281.3,26.63,107.1,19.93,32.9,19.93,62.6
+Chunnambar Boat House,Casablanca Heritage Boutique,12.2,162.7,15.65,77.4,10.49,19.9,10.49,41.8
+Chunnambar Boat House,Cluny Embroidery Centre,11.99,159.9,15.46,76.5,10.53,20.0,10.53,42.0
+Chunnambar Boat House,Paradise Beach,1.7,22.6,1.7,6.8,5.56,12.7,5.56,30.3
+Chunnambar Boat House,Serenity Beach,16.83,224.4,20.33,96.1,15.52,25.6,15.52,51.0
+Chunnambar Boat House,Eden Beach,7.94,105.9,10.08,56.8,7.09,16.5,7.09,36.4
+Chunnambar Boat House,Pondy Marina Beach,12.22,163.0,15.68,77.9,10.75,21.7,10.75,44.7
+Chunnambar Boat House,Auroville Beach,18.62,248.3,25.63,102.4,16.94,27.4,16.94,53.8
+Chunnambar Boat House,French War Memorial,12.05,160.7,15.68,77.7,10.76,20.7,10.76,43.1
+Chunnambar Boat House,Mahatma Gandhi Statue,12.17,162.2,15.62,78.3,10.91,21.2,10.91,43.9
+Chunnambar Boat House,Aayi Mandapam / Bharathi Park,12.23,163.0,15.83,78.9,10.86,21.0,10.86,43.6
+Chunnambar Boat House,Old Lighthouse,12.17,162.2,15.79,78.6,11.04,21.6,11.04,44.6
+Chunnambar Boat House,Raj Niwas (Governor's Palace),12.2,162.6,15.66,78.7,10.84,20.9,10.84,43.4
+Chunnambar Boat House,Manakula Vinayagar Temple,12.34,164.5,15.78,78.3,11.03,21.2,11.03,43.9
+Chunnambar Boat House,Basilica of the Sacred Heart of Jesus,11.28,150.4,14.7,74.0,9.55,17.9,9.55,38.6
+Chunnambar Boat House,Eglise de Notre Dame des Anges,11.98,159.7,15.44,77.3,10.6,20.6,10.6,43.0
+Chunnambar Boat House,Cathedral of Our Lady of the Immaculate Conception,12.11,161.4,15.52,77.0,10.6,20.2,10.6,42.3
+Chunnambar Boat House,Vedapureeswarar Temple,12.32,164.2,15.71,78.3,11.34,20.4,11.34,42.6
+Chunnambar Boat House,"Thirukameswarar Temple, Villianur",11.17,149.0,12.5,50.7,13.06,18.5,13.06,39.6
+Chunnambar Boat House,Kanniga Parameswari Temple,12.11,161.4,15.5,77.2,10.39,19.8,10.39,41.7
+Chunnambar Boat House,Meeran Mosque,11.52,153.6,14.98,74.5,10.05,18.9,10.05,40.2
+Chunnambar Boat House,Kuthba Mosque,11.42,152.3,14.88,74.1,9.95,18.7,9.95,39.9
+Chunnambar Boat House,Jamia Mosque,12.16,162.1,15.55,77.3,11.19,19.7,11.19,41.5
+Chunnambar Boat House,Bharathi Park / Government Park,12.23,163.0,15.83,78.9,10.86,21.0,10.86,43.6
+Chunnambar Boat House,Botanical Garden,11.2,149.3,14.63,73.5,9.47,17.4,9.47,37.8
+Chunnambar Boat House,Jawahar Toy Museum,11.93,159.0,15.38,77.0,10.65,20.8,10.65,43.3
+Chunnambar Boat House,Ousteri Wetland and National Park,17.85,238.0,18.83,74.6,19.01,26.8,19.01,52.9
+Chunnambar Boat House,Arikamedu Archaeological Site,7.89,105.2,11.32,56.2,7.11,15.2,7.11,34.3
+Chunnambar Boat House,Auroville Visitors Centre,22.88,311.2,26.91,109.2,21.86,35.5,21.86,66.8
+Chunnambar Boat House,Jawaharlal Nehru Statue,12.17,162.2,15.62,78.3,10.91,21.2,10.91,43.9
+Chunnambar Boat House,Dupleix Statue,11.86,158.2,15.32,76.7,10.72,21.0,10.72,43.6
+Chunnambar Boat House,Romain Rolland Library,12.2,162.7,15.82,78.1,10.87,21.1,10.87,43.8
+Chunnambar Boat House,French Institute of Pondicherry (IFP),12.29,163.9,15.91,78.4,10.94,21.3,10.94,44.1
+Chunnambar Boat House,Alliance Francaise de Pondichery,11.36,151.4,14.81,74.4,10.32,20.0,10.32,42.0
+Chunnambar Boat House,Hotel de Ville / Municipal Office,11.98,159.7,15.44,77.3,10.6,20.6,10.6,43.0
+Chunnambar Boat House,Old Port / Old Harbour Area,11.57,154.3,15.03,75.8,9.74,19.1,9.74,40.6
+Chunnambar Boat House,Auroville Farms & Green Belt,22.3,297.4,26.18,104.4,21.27,35.1,21.27,66.2
+Chunnambar Boat House,Karaikal Beach,142.93,1905.7,137.28,530.3,134.3,102.3,134.3,173.7
+Ousteri Wetland and National Park,Sri Aurobindo Ashram,15.81,210.8,14.95,60.1,14.83,26.6,14.83,52.6
+Ousteri Wetland and National Park,White Town (French Quarter),16.09,214.5,15.23,61.6,15.37,27.7,15.37,54.3
+Ousteri Wetland and National Park,Promenade / Rock Beach,17.09,227.9,16.32,70.8,15.2,27.2,15.2,53.5
+Ousteri Wetland and National Park,Pondicherry Museum,15.91,212.1,14.99,60.4,15.19,27.1,15.19,53.4
+Ousteri Wetland and National Park,Matrimandir Viewing Point,17.33,231.6,17.26,69.2,20.26,28.3,20.26,55.3
+Ousteri Wetland and National Park,Casablanca Heritage Boutique,15.48,206.5,14.61,58.8,14.47,25.3,14.47,50.5
+Ousteri Wetland and National Park,Cluny Embroidery Centre,16.09,214.6,15.12,60.9,14.87,26.1,14.87,51.8
+Ousteri Wetland and National Park,Paradise Beach,19.54,260.6,20.13,79.1,20.92,30.8,20.92,59.3
+Ousteri Wetland and National Park,Serenity Beach,19.06,254.1,17.49,70.6,16.91,28.5,16.91,55.6
+Ousteri Wetland and National Park,Eden Beach,18.33,244.4,18.24,72.4,19.2,29.3,19.2,56.9
+Ousteri Wetland and National Park,Pondy Marina Beach,17.31,230.8,16.81,68.2,16.67,29.4,16.67,57.0
+Ousteri Wetland and National Park,Auroville Beach,20.8,277.3,19.03,76.7,18.32,30.3,18.32,58.5
+Ousteri Wetland and National Park,French War Memorial,16.25,216.8,15.35,62.1,15.1,26.8,15.1,52.9
+Ousteri Wetland and National Park,Mahatma Gandhi Statue,16.12,215.0,15.3,62.0,15.25,27.3,15.25,53.7
+Ousteri Wetland and National Park,Aayi Mandapam / Bharathi Park,16.06,214.1,15.31,62.5,15.2,27.1,15.2,53.4
+Ousteri Wetland and National Park,Old Lighthouse,16.04,214.0,15.19,61.7,15.38,27.7,15.38,54.3
+Ousteri Wetland and National Park,Raj Niwas (Governor's Palace),16.03,213.7,15.17,62.5,15.18,27.0,15.18,53.2
+Ousteri Wetland and National Park,Manakula Vinayagar Temple,15.7,209.4,14.82,60.0,14.9,26.9,14.9,53.0
+Ousteri Wetland and National Park,Basilica of the Sacred Heart of Jesus,15.38,205.1,14.73,59.3,14.29,25.1,14.29,50.2
+Ousteri Wetland and National Park,Eglise de Notre Dame des Anges,16.19,216.0,15.36,62.0,14.97,26.7,14.97,52.7
+Ousteri Wetland and National Park,Cathedral of Our Lady of the Immaculate Conception,15.62,208.4,14.77,59.5,14.68,25.9,14.68,51.4
+Ousteri Wetland and National Park,Vedapureeswarar Temple,15.12,201.6,14.27,57.6,14.14,25.6,14.14,51.0
+Ousteri Wetland and National Park,"Thirukameswarar Temple, Villianur",6.96,92.7,6.63,25.9,6.63,10.3,6.63,26.5
+Ousteri Wetland and National Park,Kanniga Parameswari Temple,15.25,203.3,14.41,58.1,14.37,25.0,14.37,50.0
+Ousteri Wetland and National Park,Meeran Mosque,15.63,208.5,15.0,60.3,14.39,25.0,14.39,50.0
+Ousteri Wetland and National Park,Kuthba Mosque,15.54,207.3,14.9,59.9,14.29,24.8,14.29,49.7
+Ousteri Wetland and National Park,Jamia Mosque,14.97,199.6,14.11,56.8,13.99,24.8,13.99,49.7
+Ousteri Wetland and National Park,Bharathi Park / Government Park,16.06,214.1,15.31,62.5,15.2,27.1,15.2,53.4
+Ousteri Wetland and National Park,Botanical Garden,14.72,196.4,14.11,56.6,13.5,23.4,13.5,47.4
+Ousteri Wetland and National Park,Jawahar Toy Museum,16.24,216.6,15.49,62.6,15.02,26.9,15.02,53.0
+Ousteri Wetland and National Park,Chunnambar Boat House,17.85,238.0,18.89,75.4,18.51,25.5,18.51,50.8
+Ousteri Wetland and National Park,Arikamedu Archaeological Site,17.37,231.6,17.0,68.3,17.65,26.6,17.65,52.6
+Ousteri Wetland and National Park,Auroville Visitors Centre,17.51,236.2,17.54,71.2,19.66,29.9,19.66,57.8
+Ousteri Wetland and National Park,Jawaharlal Nehru Statue,16.12,215.0,15.3,62.0,15.25,27.3,15.25,53.7
+Ousteri Wetland and National Park,Dupleix Statue,16.15,215.4,15.56,62.9,15.08,27.1,15.08,53.4
+Ousteri Wetland and National Park,Romain Rolland Library,15.93,212.4,15.07,60.8,15.21,27.2,15.21,53.5
+Ousteri Wetland and National Park,French Institute of Pondicherry (IFP),15.99,213.3,15.14,61.1,15.28,27.4,15.28,53.8
+Ousteri Wetland and National Park,Alliance Francaise de Pondichery,16.23,216.5,15.49,62.7,14.88,26.4,14.88,52.2
+Ousteri Wetland and National Park,Hotel de Ville / Municipal Office,16.19,216.0,15.36,62.0,14.97,26.7,14.97,52.7
+Ousteri Wetland and National Park,Old Port / Old Harbour Area,16.51,220.2,15.74,64.3,14.97,26.5,14.97,52.4
+Ousteri Wetland and National Park,Auroville Farms & Green Belt,16.79,223.9,16.81,66.5,19.07,29.5,19.07,57.2
+Ousteri Wetland and National Park,Karaikal Beach,149.83,1997.8,143.4,550.9,141.5,109.2,141.5,184.7
+Arikamedu Archaeological Site,Sri Aurobindo Ashram,9.1,121.3,9.14,43.5,8.78,17.2,8.78,37.5
+Arikamedu Archaeological Site,White Town (French Quarter),8.9,118.7,8.91,43.5,8.76,17.8,8.76,38.5
+Arikamedu Archaeological Site,Promenade / Rock Beach,8.73,116.4,8.78,47.3,8.59,17.3,8.59,37.7
+Arikamedu Archaeological Site,Pondicherry Museum,8.88,118.3,8.95,43.1,8.59,17.2,8.59,37.5
+Arikamedu Archaeological Site,Matrimandir Viewing Point,17.25,235.7,17.18,80.6,17.66,29.1,17.66,56.6
+Arikamedu Archaeological Site,Casablanca Heritage Boutique,8.79,117.2,8.82,42.2,8.22,16.0,8.22,35.6
+Arikamedu Archaeological Site,Cluny Embroidery Centre,8.57,114.3,8.63,41.3,8.26,16.2,8.26,35.9
+Arikamedu Archaeological Site,Paradise Beach,9.59,127.8,12.57,59.9,9.18,18.5,9.18,39.6
+Arikamedu Archaeological Site,Serenity Beach,13.41,178.8,13.5,61.0,13.26,21.8,13.26,44.9
+Arikamedu Archaeological Site,Eden Beach,3.09,41.1,3.09,15.0,3.13,8.1,3.13,23.0
+Arikamedu Archaeological Site,Pondy Marina Beach,8.81,117.4,8.85,42.8,8.49,17.8,8.49,38.5
+Arikamedu Archaeological Site,Auroville Beach,15.21,202.7,14.97,67.6,14.67,23.6,14.67,47.8
+Arikamedu Archaeological Site,French War Memorial,8.63,115.1,8.86,42.6,8.49,16.9,8.49,37.0
+Arikamedu Archaeological Site,Mahatma Gandhi Statue,8.75,116.7,8.79,43.1,8.64,17.4,8.64,37.8
+Arikamedu Archaeological Site,Aayi Mandapam / Bharathi Park,8.81,117.5,9.0,43.8,8.6,17.2,8.6,37.5
+Arikamedu Archaeological Site,Old Lighthouse,8.75,116.7,8.96,43.5,8.78,17.8,8.78,38.5
+Arikamedu Archaeological Site,Raj Niwas (Governor's Palace),8.78,117.0,8.83,43.5,8.57,17.1,8.57,37.4
+Arikamedu Archaeological Site,Manakula Vinayagar Temple,8.92,118.9,8.96,43.2,8.76,17.4,8.76,37.8
+Arikamedu Archaeological Site,Basilica of the Sacred Heart of Jesus,7.86,104.8,7.88,38.9,7.28,14.1,7.28,32.6
+Arikamedu Archaeological Site,Eglise de Notre Dame des Anges,8.56,114.2,8.61,42.1,8.34,16.8,8.34,36.9
+Arikamedu Archaeological Site,Cathedral of Our Lady of the Immaculate Conception,8.69,115.9,8.7,41.8,8.33,16.3,8.33,36.1
+Arikamedu Archaeological Site,Vedapureeswarar Temple,8.9,118.7,8.88,43.1,9.07,16.6,9.07,36.6
+Arikamedu Archaeological Site,"Thirukameswarar Temple, Villianur",10.67,142.3,10.58,43.9,10.12,17.7,10.12,38.3
+Arikamedu Archaeological Site,Kanniga Parameswari Temple,8.69,115.8,8.67,42.0,8.12,15.9,8.12,35.4
+Arikamedu Archaeological Site,Meeran Mosque,8.11,108.1,8.15,39.4,7.79,15.1,7.79,34.2
+Arikamedu Archaeological Site,Kuthba Mosque,8.0,106.7,8.05,39.0,7.68,14.9,7.68,33.8
+Arikamedu Archaeological Site,Jamia Mosque,8.74,116.5,8.72,42.2,8.93,15.9,8.93,35.4
+Arikamedu Archaeological Site,Bharathi Park / Government Park,8.81,117.5,9.0,43.8,8.6,17.2,8.6,37.5
+Arikamedu Archaeological Site,Botanical Garden,7.78,103.8,7.8,38.3,7.21,13.6,7.21,31.8
+Arikamedu Archaeological Site,Jawahar Toy Museum,8.51,113.5,8.56,41.8,8.38,17.0,8.38,37.2
+Arikamedu Archaeological Site,Chunnambar Boat House,7.89,105.2,11.33,56.3,5.58,10.6,5.58,27.0
+Arikamedu Archaeological Site,Ousteri Wetland and National Park,17.37,231.6,16.95,67.7,16.45,26.0,16.45,51.6
+Arikamedu Archaeological Site,Auroville Visitors Centre,19.46,265.7,19.06,88.5,19.59,31.7,19.59,60.7
+Arikamedu Archaeological Site,Jawaharlal Nehru Statue,8.75,116.7,8.79,43.1,8.64,17.4,8.64,37.8
+Arikamedu Archaeological Site,Dupleix Statue,8.45,112.6,8.49,41.5,8.45,17.2,8.45,37.5
+Arikamedu Archaeological Site,Romain Rolland Library,8.79,117.2,9.0,43.0,8.61,17.3,8.61,37.7
+Arikamedu Archaeological Site,French Institute of Pondicherry (IFP),8.88,118.3,9.09,43.3,8.67,17.5,8.67,38.0
+Arikamedu Archaeological Site,Alliance Francaise de Pondichery,7.94,105.8,7.98,39.2,8.06,16.1,8.06,35.8
+Arikamedu Archaeological Site,Hotel de Ville / Municipal Office,8.56,114.2,8.61,42.1,8.34,16.8,8.34,36.9
+Arikamedu Archaeological Site,Old Port / Old Harbour Area,8.15,108.7,8.2,40.7,7.47,15.3,7.47,34.5
+Arikamedu Archaeological Site,Auroville Farms & Green Belt,18.88,251.9,18.61,85.2,19.01,31.3,19.01,60.1
+Arikamedu Archaeological Site,Karaikal Beach,146.38,1951.7,141.64,554.7,137.92,108.1,137.92,183.0
+Auroville Visitors Centre,Sri Aurobindo Ashram,11.19,155.4,10.83,51.1,15.42,25.5,15.42,50.8
+Auroville Visitors Centre,White Town (French Quarter),11.61,160.9,11.25,52.9,16.04,27.3,16.04,53.7
+Auroville Visitors Centre,Promenade / Rock Beach,13.46,185.6,12.97,65.4,16.69,26.9,16.69,53.0
+Auroville Visitors Centre,Pondicherry Museum,11.55,160.1,11.2,52.4,15.81,26.6,15.81,52.6
+Auroville Visitors Centre,Matrimandir Viewing Point,2.42,33.6,2.43,16.0,3.11,8.4,3.11,23.4
+Auroville Visitors Centre,Casablanca Heritage Boutique,11.41,158.3,10.98,52.0,14.75,24.9,14.75,49.8
+Auroville Visitors Centre,Cluny Embroidery Centre,11.71,162.2,11.36,53.2,16.36,25.8,16.36,51.3
+Auroville Visitors Centre,Paradise Beach,24.57,333.8,28.15,113.1,23.98,36.4,23.98,68.2
+Auroville Visitors Centre,Serenity Beach,8.22,117.7,8.15,39.2,10.19,22.2,10.19,45.5
+Auroville Visitors Centre,Eden Beach,20.65,281.5,20.01,89.2,21.07,32.4,21.07,61.8
+Auroville Visitors Centre,Pondy Marina Beach,14.28,196.6,13.77,63.1,18.36,29.6,18.36,57.4
+Auroville Visitors Centre,Auroville Beach,6.62,96.4,6.55,32.3,7.93,18.4,7.93,39.4
+Auroville Visitors Centre,French War Memorial,11.9,164.7,11.57,54.4,16.59,26.5,16.59,52.4
+Auroville Visitors Centre,Mahatma Gandhi Statue,11.85,164.2,11.41,53.8,16.74,27.0,16.74,53.2
+Auroville Visitors Centre,Aayi Mandapam / Bharathi Park,11.79,163.3,11.52,54.6,15.87,26.7,15.87,52.7
+Auroville Visitors Centre,Old Lighthouse,11.78,163.1,11.4,53.7,16.05,27.3,16.05,53.7
+Auroville Visitors Centre,Raj Niwas (Governor's Palace),11.76,162.9,11.41,54.8,15.85,26.6,15.85,52.6
+Auroville Visitors Centre,Manakula Vinayagar Temple,11.3,156.8,10.94,51.5,15.49,25.6,15.49,51.0
+Auroville Visitors Centre,Basilica of the Sacred Heart of Jesus,12.13,167.8,11.77,55.1,15.78,24.8,15.78,49.7
+Auroville Visitors Centre,Eglise de Notre Dame des Anges,11.97,165.7,11.59,54.3,16.46,26.4,16.46,52.2
+Auroville Visitors Centre,Cathedral of Our Lady of the Immaculate Conception,11.49,159.3,11.06,52.2,14.96,25.5,14.96,50.8
+Auroville Visitors Centre,Vedapureeswarar Temple,10.91,151.6,10.67,50.9,14.37,24.7,14.37,49.5
+Auroville Visitors Centre,"Thirukameswarar Temple, Villianur",14.7,198.7,14.74,60.2,15.55,27.7,15.55,54.3
+Auroville Visitors Centre,Kanniga Parameswari Temple,11.19,155.3,11.02,51.7,14.53,24.4,14.53,49.0
+Auroville Visitors Centre,Meeran Mosque,12.03,166.5,11.66,54.6,15.88,24.7,15.88,49.5
+Auroville Visitors Centre,Kuthba Mosque,12.13,167.8,11.7,54.5,15.78,24.5,15.78,49.2
+Auroville Visitors Centre,Jamia Mosque,10.83,150.5,10.66,50.2,14.86,23.9,14.86,48.2
+Auroville Visitors Centre,Bharathi Park / Government Park,11.79,163.3,11.52,54.6,15.87,26.7,15.87,52.7
+Auroville Visitors Centre,Botanical Garden,11.83,163.9,11.55,54.2,14.99,23.1,14.99,47.0
+Auroville Visitors Centre,Jawahar Toy Museum,12.09,167.4,11.61,54.6,16.51,26.6,16.51,52.6
+Auroville Visitors Centre,Chunnambar Boat House,22.88,311.2,26.91,109.4,20.38,28.6,20.38,55.8
+Auroville Visitors Centre,Ousteri Wetland and National Park,17.51,236.2,17.54,71.2,19.96,29.9,19.96,57.8
+Auroville Visitors Centre,Arikamedu Archaeological Site,19.46,265.7,18.8,85.3,19.52,29.7,19.52,57.5
+Auroville Visitors Centre,Jawaharlal Nehru Statue,11.85,164.2,11.41,53.8,16.74,27.0,16.74,53.2
+Auroville Visitors Centre,Dupleix Statue,12.16,168.2,11.67,54.9,16.57,26.8,16.57,52.9
+Auroville Visitors Centre,Romain Rolland Library,11.66,161.6,11.28,52.8,15.88,26.8,15.88,52.9
+Auroville Visitors Centre,French Institute of Pondicherry (IFP),11.55,160.2,11.21,52.6,15.83,26.6,15.83,52.6
+Auroville Visitors Centre,Alliance Francaise de Pondichery,12.59,174.0,12.25,57.1,16.37,26.1,16.37,51.8
+Auroville Visitors Centre,Hotel de Ville / Municipal Office,11.97,165.7,11.59,54.3,16.46,26.4,16.46,52.2
+Auroville Visitors Centre,Old Port / Old Harbour Area,12.88,177.9,12.54,58.8,16.46,26.2,16.46,51.9
+Auroville Visitors Centre,Auroville Farms & Green Belt,1.23,16.8,1.31,8.2,1.08,3.7,1.08,15.9
+Auroville Visitors Centre,Karaikal Beach,161.36,2157.7,151.81,586.4,152.72,126.0,152.72,211.6
+Jawaharlal Nehru Statue,Sri Aurobindo Ashram,0.68,9.1,0.7,3.5,0.68,2.1,0.68,13.4
+Jawaharlal Nehru Statue,White Town (French Quarter),0.15,2.0,0.15,0.9,0.12,0.3,0.12,10.5
+Jawaharlal Nehru Statue,Promenade / Rock Beach,1.68,22.5,1.6,12.1,0.05,0.1,0.05,10.2
+Jawaharlal Nehru Statue,Pondicherry Museum,0.28,3.8,0.32,1.8,0.29,1.0,0.29,11.6
+Jawaharlal Nehru Statue,Matrimandir Viewing Point,9.64,134.2,9.22,42.3,11.25,21.7,11.25,44.7
+Jawaharlal Nehru Statue,Casablanca Heritage Boutique,0.83,11.0,0.9,4.4,0.9,2.7,0.9,14.3
+Jawaharlal Nehru Statue,Cluny Embroidery Centre,0.33,4.4,0.38,2.4,0.47,1.5,0.47,12.4
+Jawaharlal Nehru Statue,Paradise Beach,13.86,184.8,16.87,77.7,13.26,25.1,13.26,50.2
+Jawaharlal Nehru Statue,Serenity Beach,5.21,69.5,5.21,21.7,5.31,10.9,5.31,27.4
+Jawaharlal Nehru Statue,Eden Beach,9.94,132.5,9.97,43.6,10.35,21.0,10.35,43.6
+Jawaharlal Nehru Statue,Pondy Marina Beach,2.81,37.5,2.81,12.7,2.94,8.1,2.94,23.0
+Jawaharlal Nehru Statue,Auroville Beach,7.0,93.4,6.91,28.4,7.24,13.8,7.24,32.1
+Jawaharlal Nehru Statue,French War Memorial,0.12,1.6,0.12,1.3,0.15,0.4,0.15,10.6
+Jawaharlal Nehru Statue,Mahatma Gandhi Statue,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+Jawaharlal Nehru Statue,Aayi Mandapam / Bharathi Park,0.2,2.7,0.2,2.0,0.21,0.7,0.21,11.1
+Jawaharlal Nehru Statue,Old Lighthouse,0.08,1.0,0.08,0.8,0.03,0.1,0.03,10.2
+Jawaharlal Nehru Statue,Raj Niwas (Governor's Palace),0.24,3.2,0.24,2.5,0.23,0.8,0.23,11.3
+Jawaharlal Nehru Statue,Manakula Vinayagar Temple,0.55,7.4,0.58,3.3,0.61,1.9,0.61,13.0
+Jawaharlal Nehru Statue,Basilica of the Sacred Heart of Jesus,1.52,20.2,1.57,7.7,1.67,4.5,1.67,17.2
+Jawaharlal Nehru Statue,Eglise de Notre Dame des Anges,0.19,2.5,0.22,1.3,0.21,0.7,0.21,11.1
+Jawaharlal Nehru Statue,Cathedral of Our Lady of the Immaculate Conception,0.7,9.4,0.72,3.6,0.69,2.2,0.69,13.5
+Jawaharlal Nehru Statue,Vedapureeswarar Temple,1.16,15.5,1.19,5.7,1.16,3.4,1.16,15.4
+Jawaharlal Nehru Statue,"Thirukameswarar Temple, Villianur",10.5,140.1,10.55,44.6,11.44,20.0,11.44,42.0
+Jawaharlal Nehru Statue,Kanniga Parameswari Temple,0.99,13.2,1.03,5.5,1.29,3.8,1.29,16.1
+Jawaharlal Nehru Statue,Meeran Mosque,0.73,9.7,0.78,4.6,1.0,2.9,1.0,14.6
+Jawaharlal Nehru Statue,Kuthba Mosque,0.82,11.0,0.89,4.5,0.9,2.7,0.9,14.3
+Jawaharlal Nehru Statue,Jamia Mosque,1.22,16.3,1.26,5.7,1.23,3.5,1.23,15.6
+Jawaharlal Nehru Statue,Bharathi Park / Government Park,0.2,2.7,0.2,2.0,0.21,0.7,0.21,11.1
+Jawaharlal Nehru Statue,Botanical Garden,1.72,22.9,1.77,8.2,1.8,4.5,1.8,17.2
+Jawaharlal Nehru Statue,Jawahar Toy Museum,0.23,3.1,0.23,1.2,0.23,0.6,0.23,11.0
+Jawaharlal Nehru Statue,Chunnambar Boat House,12.17,162.2,15.63,74.0,9.66,17.2,9.66,37.5
+Jawaharlal Nehru Statue,Ousteri Wetland and National Park,16.12,215.0,15.31,61.8,15.13,27.4,15.13,53.8
+Jawaharlal Nehru Statue,Arikamedu Archaeological Site,8.75,116.7,8.76,39.6,8.8,18.3,8.8,39.3
+Jawaharlal Nehru Statue,Auroville Visitors Centre,11.85,164.2,11.42,54.1,15.39,29.0,15.39,56.4
+Jawaharlal Nehru Statue,Dupleix Statue,0.3,3.9,0.3,1.5,0.29,0.7,0.29,11.1
+Jawaharlal Nehru Statue,Romain Rolland Library,0.19,2.6,0.23,1.4,0.2,0.7,0.2,11.1
+Jawaharlal Nehru Statue,French Institute of Pondicherry (IFP),0.28,3.8,0.28,1.7,0.29,0.9,0.29,11.4
+Jawaharlal Nehru Statue,Alliance Francaise de Pondichery,0.81,10.9,0.84,4.2,0.84,2.0,0.84,13.2
+Jawaharlal Nehru Statue,Hotel de Ville / Municipal Office,0.19,2.5,0.22,1.3,0.21,0.7,0.21,11.1
+Jawaharlal Nehru Statue,Old Port / Old Harbour Area,1.11,14.8,1.1,5.6,1.51,4.1,1.51,16.6
+Jawaharlal Nehru Statue,Auroville Farms & Green Belt,11.97,165.5,11.66,53.0,14.8,28.7,14.8,55.9
+Jawaharlal Nehru Statue,Karaikal Beach,150.65,2008.7,147.13,567.2,142.0,114.7,142.0,193.5
+Dupleix Statue,Sri Aurobindo Ashram,0.98,13.1,0.97,4.5,0.98,3.1,0.98,15.0
+Dupleix Statue,White Town (French Quarter),0.42,5.6,0.42,1.9,0.61,2.1,0.61,13.4
+Dupleix Statue,Promenade / Rock Beach,1.3,17.3,1.3,10.6,0.24,0.6,0.24,11.0
+Dupleix Statue,Pondicherry Museum,0.59,7.8,0.58,2.8,0.59,2.0,0.59,13.2
+Dupleix Statue,Matrimandir Viewing Point,9.95,138.3,9.48,43.2,11.57,22.5,11.57,46.0
+Dupleix Statue,Casablanca Heritage Boutique,0.94,12.5,0.96,4.6,0.96,3.0,0.96,14.8
+Dupleix Statue,Cluny Embroidery Centre,0.44,5.8,0.44,2.6,0.53,1.8,0.53,12.9
+Dupleix Statue,Paradise Beach,13.56,180.8,16.57,76.2,12.65,24.4,12.65,49.0
+Dupleix Statue,Serenity Beach,5.51,73.5,5.47,22.6,5.64,11.8,5.64,28.9
+Dupleix Statue,Eden Beach,9.64,128.5,9.68,42.0,9.74,20.4,9.74,42.6
+Dupleix Statue,Pondy Marina Beach,2.51,33.5,2.51,11.2,2.66,7.4,2.66,21.8
+Dupleix Statue,Auroville Beach,7.31,97.5,7.18,29.4,7.57,14.7,7.57,33.5
+Dupleix Statue,French War Memorial,0.26,3.5,0.26,1.5,0.26,0.8,0.26,11.3
+Dupleix Statue,Mahatma Gandhi Statue,0.3,3.9,0.3,1.6,0.29,0.7,0.29,11.1
+Dupleix Statue,Aayi Mandapam / Bharathi Park,0.51,6.8,0.51,3.2,0.51,1.7,0.51,12.7
+Dupleix Statue,Old Lighthouse,0.38,5.1,0.37,2.4,0.32,0.8,0.32,11.3
+Dupleix Statue,Raj Niwas (Governor's Palace),0.54,7.2,0.54,3.7,0.53,1.8,0.53,12.9
+Dupleix Statue,Manakula Vinayagar Temple,0.86,11.4,0.85,4.3,0.91,2.9,0.91,14.6
+Dupleix Statue,Basilica of the Sacred Heart of Jesus,1.29,17.3,1.29,6.4,1.57,4.3,1.57,16.9
+Dupleix Statue,Eglise de Notre Dame des Anges,0.19,2.6,0.19,1.1,0.19,0.6,0.19,11.0
+Dupleix Statue,Cathedral of Our Lady of the Immaculate Conception,0.81,10.8,0.84,4.0,0.84,2.7,0.84,14.3
+Dupleix Statue,Vedapureeswarar Temple,1.47,19.6,1.46,6.7,1.48,4.2,1.48,16.7
+Dupleix Statue,"Thirukameswarar Temple, Villianur",10.3,137.4,10.25,43.1,11.38,19.8,11.38,41.7
+Dupleix Statue,Kanniga Parameswari Temple,1.16,15.5,1.19,6.2,1.49,4.4,1.49,17.0
+Dupleix Statue,Meeran Mosque,0.68,9.1,0.71,3.6,0.9,2.7,0.9,14.3
+Dupleix Statue,Kuthba Mosque,0.61,8.2,0.61,3.2,0.8,2.5,0.8,14.0
+Dupleix Statue,Jamia Mosque,1.53,20.4,1.52,6.6,1.55,4.4,1.55,17.0
+Dupleix Statue,Bharathi Park / Government Park,0.51,6.8,0.51,3.2,0.51,1.7,0.51,12.7
+Dupleix Statue,Botanical Garden,1.51,20.2,1.51,7.0,1.7,4.3,1.7,16.9
+Dupleix Statue,Jawahar Toy Museum,0.06,0.9,0.06,0.3,0.06,0.2,0.06,10.3
+Dupleix Statue,Chunnambar Boat House,11.86,158.2,15.33,72.5,9.05,16.6,9.05,36.6
+Dupleix Statue,Ousteri Wetland and National Park,16.15,215.4,15.45,61.9,15.06,27.1,15.06,53.4
+Dupleix Statue,Arikamedu Archaeological Site,8.45,112.6,8.47,38.1,8.19,17.7,8.19,38.3
+Dupleix Statue,Auroville Visitors Centre,12.16,168.2,11.69,55.0,16.61,29.8,16.61,57.7
+Dupleix Statue,Jawaharlal Nehru Statue,0.3,3.9,0.3,1.6,0.29,0.7,0.29,11.1
+Dupleix Statue,Romain Rolland Library,0.5,6.6,0.49,2.4,0.5,1.7,0.5,12.7
+Dupleix Statue,French Institute of Pondicherry (IFP),0.59,7.8,0.59,2.7,0.59,1.9,0.59,13.0
+Dupleix Statue,Alliance Francaise de Pondichery,0.55,7.3,0.55,2.7,0.74,1.8,0.74,12.9
+Dupleix Statue,Hotel de Ville / Municipal Office,0.19,2.6,0.19,1.1,0.19,0.6,0.19,11.0
+Dupleix Statue,Old Port / Old Harbour Area,0.8,10.7,0.8,4.1,1.23,3.4,1.23,15.4
+Dupleix Statue,Auroville Farms & Green Belt,12.28,169.5,11.92,54.0,16.02,29.4,16.02,57.0
+Dupleix Statue,Karaikal Beach,150.35,2004.7,146.83,565.7,141.39,114.0,141.39,192.4
+Romain Rolland Library,Sri Aurobindo Ashram,0.49,6.5,0.49,2.2,0.49,1.5,0.49,12.4
+Romain Rolland Library,White Town (French Quarter),0.16,2.1,0.16,0.8,0.16,0.6,0.16,11.0
+Romain Rolland Library,Promenade / Rock Beach,1.8,24.0,1.79,12.9,0.25,0.7,0.25,11.1
+Romain Rolland Library,Pondicherry Museum,0.09,1.2,0.09,0.4,0.09,0.3,0.09,10.5
+Romain Rolland Library,Matrimandir Viewing Point,9.45,131.6,9.09,41.2,11.05,21.0,11.05,43.6
+Romain Rolland Library,Casablanca Heritage Boutique,0.7,9.3,0.7,3.1,0.7,2.0,0.7,13.2
+Romain Rolland Library,Cluny Embroidery Centre,0.37,4.9,0.38,2.0,0.38,1.3,0.38,12.1
+Romain Rolland Library,Paradise Beach,13.9,185.3,17.07,77.9,14.22,25.1,14.22,50.2
+Romain Rolland Library,Serenity Beach,5.01,66.9,5.09,20.5,5.12,10.3,5.12,26.5
+Romain Rolland Library,Eden Beach,9.98,133.0,10.17,43.8,11.3,21.0,11.3,43.6
+Romain Rolland Library,Pondy Marina Beach,2.85,38.0,3.01,12.7,3.01,8.2,3.01,23.1
+Romain Rolland Library,Auroville Beach,6.81,90.8,6.79,27.3,7.05,13.2,7.05,31.1
+Romain Rolland Library,French War Memorial,0.24,3.1,0.29,1.6,0.29,1.0,0.29,11.6
+Romain Rolland Library,Mahatma Gandhi Statue,0.19,2.6,0.23,1.2,0.2,0.6,0.2,11.0
+Romain Rolland Library,Aayi Mandapam / Bharathi Park,0.24,3.2,0.24,1.8,0.01,0.0,0.01,10.0
+Romain Rolland Library,Old Lighthouse,0.12,1.5,0.12,0.9,0.17,0.5,0.17,10.8
+Romain Rolland Library,Raj Niwas (Governor's Palace),0.28,3.7,0.28,2.3,0.03,0.1,0.03,10.2
+Romain Rolland Library,Manakula Vinayagar Temple,0.36,4.8,0.36,1.9,0.41,1.3,0.41,12.1
+Romain Rolland Library,Basilica of the Sacred Heart of Jesus,1.56,20.7,1.7,7.1,1.64,4.5,1.64,17.2
+Romain Rolland Library,Eglise de Notre Dame des Anges,0.31,4.1,0.31,1.5,0.31,1.0,0.31,11.6
+Romain Rolland Library,Cathedral of Our Lady of the Immaculate Conception,0.49,6.6,0.49,2.2,0.49,1.5,0.49,12.4
+Romain Rolland Library,Vedapureeswarar Temple,0.97,12.9,0.97,4.3,0.96,2.7,0.96,14.3
+Romain Rolland Library,"Thirukameswarar Temple, Villianur",10.54,140.6,10.83,44.3,11.25,19.4,11.25,41.0
+Romain Rolland Library,Kanniga Parameswari Temple,0.8,10.7,0.8,4.1,1.1,3.1,1.1,15.0
+Romain Rolland Library,Meeran Mosque,0.76,10.2,0.83,4.4,1.04,2.9,1.04,14.6
+Romain Rolland Library,Kuthba Mosque,0.86,11.5,0.94,4.1,0.94,2.7,0.94,14.3
+Romain Rolland Library,Jamia Mosque,1.03,13.7,1.03,4.3,1.03,2.8,1.03,14.5
+Romain Rolland Library,Bharathi Park / Government Park,0.24,3.2,0.24,1.8,0.01,0.0,0.01,10.0
+Romain Rolland Library,Botanical Garden,1.75,23.4,1.82,7.7,1.77,4.5,1.77,17.2
+Romain Rolland Library,Jawahar Toy Museum,0.43,5.8,0.43,2.0,0.43,1.5,0.43,12.4
+Romain Rolland Library,Chunnambar Boat House,12.2,162.7,15.83,74.2,10.61,17.2,10.61,37.5
+Romain Rolland Library,Ousteri Wetland and National Park,15.93,212.4,15.08,60.4,14.93,26.7,14.93,52.7
+Romain Rolland Library,Arikamedu Archaeological Site,8.79,117.2,8.96,39.8,9.76,18.3,9.76,39.3
+Romain Rolland Library,Auroville Visitors Centre,11.66,161.6,11.3,53.0,15.19,28.4,15.19,55.4
+Romain Rolland Library,Jawaharlal Nehru Statue,0.19,2.6,0.23,1.2,0.2,0.6,0.2,11.0
+Romain Rolland Library,Dupleix Statue,0.5,6.6,0.49,2.3,0.5,1.6,0.5,12.6
+Romain Rolland Library,French Institute of Pondicherry (IFP),0.14,1.8,0.14,0.8,0.14,0.5,0.14,10.8
+Romain Rolland Library,Alliance Francaise de Pondichery,0.93,12.4,0.93,4.4,0.93,2.4,0.93,13.8
+Romain Rolland Library,Hotel de Ville / Municipal Office,0.31,4.1,0.31,1.5,0.31,1.0,0.31,11.6
+Romain Rolland Library,Old Port / Old Harbour Area,1.22,16.3,1.22,6.1,1.58,4.2,1.58,16.7
+Romain Rolland Library,Auroville Farms & Green Belt,11.78,162.9,11.53,51.9,14.6,28.0,14.6,54.8
+Romain Rolland Library,Karaikal Beach,150.69,2009.2,147.32,567.4,142.96,114.7,142.96,193.5
+French Institute of Pondicherry (IFP),Sri Aurobindo Ashram,0.41,5.5,0.42,2.1,0.42,1.4,0.42,12.2
+French Institute of Pondicherry (IFP),White Town (French Quarter),0.25,3.3,0.25,1.3,0.25,0.9,0.25,11.4
+French Institute of Pondicherry (IFP),Promenade / Rock Beach,1.89,25.2,1.89,13.2,0.34,1.1,0.34,11.8
+French Institute of Pondicherry (IFP),Pondicherry Museum,0.15,2.0,0.15,0.8,0.15,0.5,0.15,10.8
+French Institute of Pondicherry (IFP),Matrimandir Viewing Point,9.34,130.2,9.02,41.0,11.0,21.1,11.0,43.8
+French Institute of Pondicherry (IFP),Casablanca Heritage Boutique,0.76,10.2,0.76,3.3,0.76,2.2,0.76,13.5
+French Institute of Pondicherry (IFP),Cluny Embroidery Centre,0.45,6.0,0.45,2.2,0.45,1.5,0.45,12.4
+French Institute of Pondicherry (IFP),Paradise Beach,13.99,186.5,17.13,78.1,14.28,25.2,14.28,50.3
+French Institute of Pondicherry (IFP),Serenity Beach,4.91,65.5,5.01,20.4,5.07,10.3,5.07,26.5
+French Institute of Pondicherry (IFP),Eden Beach,10.06,134.2,10.24,44.0,11.37,21.2,11.37,43.9
+French Institute of Pondicherry (IFP),Pondy Marina Beach,2.94,39.2,3.07,12.9,3.07,8.4,3.07,23.4
+French Institute of Pondicherry (IFP),Auroville Beach,6.7,89.4,6.71,27.1,7.0,13.2,7.0,31.1
+French Institute of Pondicherry (IFP),French War Memorial,0.32,4.3,0.38,1.9,0.38,1.2,0.38,11.9
+French Institute of Pondicherry (IFP),Mahatma Gandhi Statue,0.28,3.8,0.32,1.7,0.29,0.9,0.29,11.4
+French Institute of Pondicherry (IFP),Aayi Mandapam / Bharathi Park,0.33,4.4,0.33,2.1,0.14,0.6,0.14,11.0
+French Institute of Pondicherry (IFP),Old Lighthouse,0.2,2.7,0.2,1.4,0.26,0.9,0.26,11.4
+French Institute of Pondicherry (IFP),Raj Niwas (Governor's Palace),0.36,4.9,0.36,2.6,0.14,0.6,0.14,11.0
+French Institute of Pondicherry (IFP),Manakula Vinayagar Temple,0.35,4.7,0.42,2.2,0.34,1.1,0.34,11.8
+French Institute of Pondicherry (IFP),Basilica of the Sacred Heart of Jesus,1.64,21.9,1.77,7.4,1.71,4.7,1.71,17.5
+French Institute of Pondicherry (IFP),Eglise de Notre Dame des Anges,0.39,5.3,0.39,1.8,0.39,1.3,0.39,12.1
+French Institute of Pondicherry (IFP),Cathedral of Our Lady of the Immaculate Conception,0.56,7.4,0.56,2.5,0.56,1.7,0.56,12.7
+French Institute of Pondicherry (IFP),Vedapureeswarar Temple,0.92,12.2,1.03,4.6,0.91,2.7,0.91,14.3
+French Institute of Pondicherry (IFP),"Thirukameswarar Temple, Villianur",10.62,141.7,10.9,44.6,11.31,19.5,11.31,41.2
+French Institute of Pondicherry (IFP),Kanniga Parameswari Temple,0.86,11.5,0.86,4.4,1.16,3.3,1.16,15.3
+French Institute of Pondicherry (IFP),Meeran Mosque,0.85,11.4,0.89,4.6,1.11,3.1,1.11,15.0
+French Institute of Pondicherry (IFP),Kuthba Mosque,0.95,12.7,1.0,4.4,1.0,2.9,1.0,14.6
+French Institute of Pondicherry (IFP),Jamia Mosque,1.09,14.6,1.1,4.5,1.1,3.0,1.1,14.8
+French Institute of Pondicherry (IFP),Bharathi Park / Government Park,0.33,4.4,0.33,2.1,0.14,0.6,0.14,11.0
+French Institute of Pondicherry (IFP),Botanical Garden,1.83,24.5,1.89,7.9,1.84,4.6,1.84,17.4
+French Institute of Pondicherry (IFP),Jawahar Toy Museum,0.52,7.0,0.52,2.4,0.52,1.7,0.52,12.7
+French Institute of Pondicherry (IFP),Chunnambar Boat House,12.29,163.9,15.89,74.5,10.68,17.4,10.68,37.8
+French Institute of Pondicherry (IFP),Ousteri Wetland and National Park,15.99,213.3,15.15,60.7,15.0,26.9,15.0,53.0
+French Institute of Pondicherry (IFP),Arikamedu Archaeological Site,8.88,118.3,9.03,40.1,9.82,18.5,9.82,39.6
+French Institute of Pondicherry (IFP),Auroville Visitors Centre,11.55,160.2,11.22,52.8,15.25,28.5,15.25,55.6
+French Institute of Pondicherry (IFP),Jawaharlal Nehru Statue,0.28,3.8,0.32,1.7,0.29,0.9,0.29,11.4
+French Institute of Pondicherry (IFP),Dupleix Statue,0.59,7.8,0.59,2.7,0.59,1.9,0.59,13.0
+French Institute of Pondicherry (IFP),Romain Rolland Library,0.14,1.8,0.14,0.7,0.14,0.5,0.14,10.8
+French Institute of Pondicherry (IFP),Alliance Francaise de Pondichery,1.02,13.6,1.02,4.7,1.02,2.6,1.02,14.2
+French Institute of Pondicherry (IFP),Hotel de Ville / Municipal Office,0.39,5.3,0.39,1.8,0.39,1.3,0.39,12.1
+French Institute of Pondicherry (IFP),Old Port / Old Harbour Area,1.31,17.5,1.31,6.4,1.64,4.4,1.64,17.0
+French Institute of Pondicherry (IFP),Auroville Farms & Green Belt,11.67,161.5,11.46,51.8,14.67,28.2,14.67,55.1
+French Institute of Pondicherry (IFP),Karaikal Beach,150.78,2010.4,147.39,567.7,143.02,114.9,143.02,193.8
+Alliance Francaise de Pondichery,Sri Aurobindo Ashram,1.42,18.9,1.43,6.6,1.42,3.9,1.42,16.2
+Alliance Francaise de Pondichery,White Town (French Quarter),0.97,12.9,0.96,4.6,1.04,2.8,1.04,14.5
+Alliance Francaise de Pondichery,Promenade / Rock Beach,0.87,11.6,0.88,8.7,0.79,1.9,0.79,13.0
+Alliance Francaise de Pondichery,Pondicherry Museum,1.02,13.6,1.02,4.8,1.02,2.7,1.02,14.3
+Alliance Francaise de Pondichery,Matrimandir Viewing Point,10.38,144.0,10.02,45.6,12.0,23.3,12.0,47.3
+Alliance Francaise de Pondichery,Casablanca Heritage Boutique,1.37,18.2,1.37,6.3,1.39,3.7,1.39,15.9
+Alliance Francaise de Pondichery,Cluny Embroidery Centre,0.87,11.6,0.87,4.6,0.96,2.5,0.96,14.0
+Alliance Francaise de Pondichery,Paradise Beach,13.05,174.0,16.06,73.8,11.99,22.7,11.99,46.3
+Alliance Francaise de Pondichery,Serenity Beach,5.94,79.3,6.02,25.0,6.07,12.5,6.07,30.0
+Alliance Francaise de Pondichery,Eden Beach,9.13,121.7,9.17,39.7,9.08,18.6,9.08,39.8
+Alliance Francaise de Pondichery,Pondy Marina Beach,2.0,26.7,2.0,8.8,2.44,6.8,2.44,20.9
+Alliance Francaise de Pondichery,Auroville Beach,7.74,103.2,7.72,31.7,8.0,15.4,8.0,34.6
+Alliance Francaise de Pondichery,French War Memorial,0.69,9.3,0.69,3.6,0.69,1.5,0.69,12.4
+Alliance Francaise de Pondichery,Mahatma Gandhi Statue,0.81,10.9,0.84,4.3,0.84,2.0,0.84,13.2
+Alliance Francaise de Pondichery,Aayi Mandapam / Bharathi Park,0.94,12.5,0.94,5.2,0.94,2.4,0.94,13.8
+Alliance Francaise de Pondichery,Old Lighthouse,0.81,10.9,0.81,4.8,0.87,2.1,0.87,13.4
+Alliance Francaise de Pondichery,Raj Niwas (Governor's Palace),0.97,13.0,0.97,5.7,0.96,2.5,0.96,14.0
+Alliance Francaise de Pondichery,Manakula Vinayagar Temple,1.29,17.2,1.29,6.3,1.34,3.7,1.34,15.9
+Alliance Francaise de Pondichery,Basilica of the Sacred Heart of Jesus,0.91,12.2,0.92,4.3,0.92,2.8,0.92,14.5
+Alliance Francaise de Pondichery,Eglise de Notre Dame des Anges,0.62,8.3,0.62,2.9,0.62,1.3,0.62,12.1
+Alliance Francaise de Pondichery,Cathedral of Our Lady of the Immaculate Conception,1.24,16.5,1.25,5.9,1.27,3.4,1.27,15.4
+Alliance Francaise de Pondichery,Vedapureeswarar Temple,1.9,25.3,1.9,8.6,1.92,4.9,1.92,17.8
+Alliance Francaise de Pondichery,"Thirukameswarar Temple, Villianur",10.06,134.1,9.74,40.7,9.59,17.7,9.59,38.3
+Alliance Francaise de Pondichery,Kanniga Parameswari Temple,1.59,21.2,1.6,8.0,1.92,5.1,1.92,18.2
+Alliance Francaise de Pondichery,Meeran Mosque,0.7,9.4,0.71,3.6,0.91,2.4,0.91,13.8
+Alliance Francaise de Pondichery,Kuthba Mosque,0.6,8.0,0.61,3.1,0.81,2.2,0.81,13.5
+Alliance Francaise de Pondichery,Jamia Mosque,1.96,26.1,1.96,8.7,1.98,5.1,1.98,18.2
+Alliance Francaise de Pondichery,Bharathi Park / Government Park,0.94,12.5,0.94,5.2,0.94,2.4,0.94,13.8
+Alliance Francaise de Pondichery,Botanical Garden,1.53,20.4,1.42,6.2,1.71,4.1,1.71,16.6
+Alliance Francaise de Pondichery,Jawahar Toy Museum,0.62,8.2,0.61,3.0,0.67,1.6,0.67,12.6
+Alliance Francaise de Pondichery,Chunnambar Boat House,11.36,151.4,14.82,70.2,8.39,14.8,8.39,33.7
+Alliance Francaise de Pondichery,Ousteri Wetland and National Park,16.23,216.5,15.44,61.5,15.08,27.0,15.08,53.2
+Alliance Francaise de Pondichery,Arikamedu Archaeological Site,7.94,105.8,7.96,35.8,7.53,15.9,7.53,35.4
+Alliance Francaise de Pondichery,Auroville Visitors Centre,12.59,174.0,12.23,57.4,16.62,29.6,16.62,57.4
+Alliance Francaise de Pondichery,Jawaharlal Nehru Statue,0.81,10.9,0.84,4.3,0.84,2.0,0.84,13.2
+Alliance Francaise de Pondichery,Dupleix Statue,0.55,7.3,0.55,2.7,0.74,1.7,0.74,12.7
+Alliance Francaise de Pondichery,Romain Rolland Library,0.93,12.4,0.93,4.4,0.93,2.4,0.93,13.8
+Alliance Francaise de Pondichery,French Institute of Pondicherry (IFP),1.02,13.6,1.02,4.7,1.02,2.6,1.02,14.2
+Alliance Francaise de Pondichery,Hotel de Ville / Municipal Office,0.62,8.3,0.62,2.9,0.62,1.3,0.62,12.1
+Alliance Francaise de Pondichery,Old Port / Old Harbour Area,0.29,3.9,0.29,1.7,1.01,2.9,1.01,14.6
+Alliance Francaise de Pondichery,Auroville Farms & Green Belt,12.71,175.3,12.46,56.3,16.03,29.2,16.03,56.7
+Alliance Francaise de Pondichery,Karaikal Beach,149.84,1997.9,146.32,563.4,140.73,112.3,140.73,189.7
+Hotel de Ville / Municipal Office,Sri Aurobindo Ashram,0.79,10.6,0.8,3.7,0.79,2.5,0.79,14.0
+Hotel de Ville / Municipal Office,White Town (French Quarter),0.34,4.6,0.34,1.7,0.42,1.4,0.42,12.2
+Hotel de Ville / Municipal Office,Promenade / Rock Beach,1.5,19.9,1.5,11.6,0.16,0.5,0.16,10.8
+Hotel de Ville / Municipal Office,Pondicherry Museum,0.39,5.3,0.39,1.9,0.39,1.3,0.39,12.1
+Hotel de Ville / Municipal Office,Matrimandir Viewing Point,9.76,135.7,9.4,42.7,11.38,21.9,11.38,45.0
+Hotel de Ville / Municipal Office,Casablanca Heritage Boutique,0.74,9.9,0.77,3.7,0.77,2.4,0.77,13.8
+Hotel de Ville / Municipal Office,Cluny Embroidery Centre,0.25,3.3,0.25,1.7,0.34,1.1,0.34,11.8
+Hotel de Ville / Municipal Office,Paradise Beach,13.68,182.3,16.69,76.7,13.05,24.4,13.05,49.0
+Hotel de Ville / Municipal Office,Serenity Beach,5.32,70.9,5.39,22.1,5.44,11.2,5.44,27.9
+Hotel de Ville / Municipal Office,Eden Beach,9.75,130.0,9.79,42.6,10.13,20.4,10.13,42.6
+Hotel de Ville / Municipal Office,Pondy Marina Beach,2.63,35.0,2.63,11.7,2.72,7.4,2.72,21.8
+Hotel de Ville / Municipal Office,Auroville Beach,7.12,94.9,7.09,28.8,7.37,14.0,7.37,32.4
+Hotel de Ville / Municipal Office,French War Memorial,0.07,0.9,0.07,0.7,0.06,0.2,0.06,10.3
+Hotel de Ville / Municipal Office,Mahatma Gandhi Statue,0.19,2.5,0.22,1.4,0.21,0.7,0.21,11.1
+Hotel de Ville / Municipal Office,Aayi Mandapam / Bharathi Park,0.31,4.2,0.31,2.3,0.32,1.1,0.32,11.8
+Hotel de Ville / Municipal Office,Old Lighthouse,0.19,2.5,0.19,1.9,0.24,0.7,0.24,11.1
+Hotel de Ville / Municipal Office,Raj Niwas (Governor's Palace),0.35,4.7,0.35,2.8,0.34,1.2,0.34,11.9
+Hotel de Ville / Municipal Office,Manakula Vinayagar Temple,0.66,8.8,0.66,3.5,0.71,2.3,0.71,13.7
+Hotel de Ville / Municipal Office,Basilica of the Sacred Heart of Jesus,1.36,18.1,1.38,6.5,1.45,3.8,1.45,16.1
+Hotel de Ville / Municipal Office,Eglise de Notre Dame des Anges,0.0,0.0,0.0,0.0,-0.0,0.0,-0.0,10.0
+Hotel de Ville / Municipal Office,Cathedral of Our Lady of the Immaculate Conception,0.62,8.2,0.65,3.1,0.65,2.1,0.65,13.4
+Hotel de Ville / Municipal Office,Vedapureeswarar Temple,1.28,17.0,1.27,5.9,1.29,3.6,1.29,15.8
+Hotel de Ville / Municipal Office,"Thirukameswarar Temple, Villianur",10.34,138.0,10.37,43.6,11.26,19.3,11.26,40.9
+Hotel de Ville / Municipal Office,Kanniga Parameswari Temple,0.97,12.9,0.99,5.4,1.3,3.8,1.3,16.1
+Hotel de Ville / Municipal Office,Meeran Mosque,0.57,7.5,0.58,3.4,0.79,2.2,0.79,13.5
+Hotel de Ville / Municipal Office,Kuthba Mosque,0.66,8.9,0.69,3.4,0.69,2.0,0.69,13.2
+Hotel de Ville / Municipal Office,Jamia Mosque,1.33,17.8,1.34,5.8,1.35,3.7,1.35,15.9
+Hotel de Ville / Municipal Office,Bharathi Park / Government Park,0.31,4.2,0.31,2.3,0.32,1.1,0.32,11.8
+Hotel de Ville / Municipal Office,Botanical Garden,1.55,20.8,1.56,7.0,1.58,3.8,1.58,16.1
+Hotel de Ville / Municipal Office,Jawahar Toy Museum,0.13,1.7,0.13,0.8,0.13,0.5,0.13,10.8
+Hotel de Ville / Municipal Office,Chunnambar Boat House,11.98,159.7,15.45,73.1,9.45,16.6,9.45,36.6
+Hotel de Ville / Municipal Office,Ousteri Wetland and National Park,16.19,216.0,15.5,61.9,14.95,26.6,14.95,52.6
+Hotel de Ville / Municipal Office,Arikamedu Archaeological Site,8.56,114.2,8.58,38.7,8.59,17.7,8.59,38.3
+Hotel de Ville / Municipal Office,Auroville Visitors Centre,11.97,165.7,11.6,54.5,16.5,29.3,16.5,56.9
+Hotel de Ville / Municipal Office,Jawaharlal Nehru Statue,0.19,2.5,0.22,1.4,0.21,0.7,0.21,11.1
+Hotel de Ville / Municipal Office,Dupleix Statue,0.19,2.6,0.19,1.1,0.19,0.6,0.19,11.0
+Hotel de Ville / Municipal Office,Romain Rolland Library,0.31,4.1,0.31,1.5,0.31,1.0,0.31,11.6
+Hotel de Ville / Municipal Office,French Institute of Pondicherry (IFP),0.39,5.3,0.39,1.8,0.39,1.3,0.39,12.1
+Hotel de Ville / Municipal Office,Alliance Francaise de Pondichery,0.62,8.3,0.62,2.9,0.62,1.3,0.62,12.1
+Hotel de Ville / Municipal Office,Old Port / Old Harbour Area,0.92,12.2,0.92,4.6,1.29,3.4,1.29,15.4
+Hotel de Ville / Municipal Office,Auroville Farms & Green Belt,12.08,167.0,11.84,53.4,15.91,28.9,15.91,56.2
+Hotel de Ville / Municipal Office,Karaikal Beach,150.47,2006.2,146.95,566.2,141.79,114.1,141.79,192.6
+Old Port / Old Harbour Area,Sri Aurobindo Ashram,1.71,22.8,1.72,8.3,1.79,4.5,1.79,17.2
+Old Port / Old Harbour Area,White Town (French Quarter),1.26,16.8,1.22,6.0,1.59,4.5,1.59,17.2
+Old Port / Old Harbour Area,Promenade / Rock Beach,1.09,14.5,1.09,9.8,1.46,3.9,1.46,16.2
+Old Port / Old Harbour Area,Pondicherry Museum,1.31,17.5,1.31,6.5,1.54,4.2,1.54,16.7
+Old Port / Old Harbour Area,Matrimandir Viewing Point,10.67,147.9,10.32,47.3,12.08,23.4,12.08,47.4
+Old Port / Old Harbour Area,Casablanca Heritage Boutique,1.66,22.1,1.67,8.0,1.47,3.9,1.47,16.2
+Old Port / Old Harbour Area,Cluny Embroidery Centre,1.16,15.5,1.16,6.3,1.28,3.5,1.28,15.6
+Old Port / Old Harbour Area,Paradise Beach,13.27,176.9,16.28,75.5,11.84,22.7,11.84,46.3
+Old Port / Old Harbour Area,Serenity Beach,6.24,83.2,6.31,26.7,6.15,12.7,6.15,30.3
+Old Port / Old Harbour Area,Eden Beach,9.34,124.6,9.38,41.3,8.93,18.6,8.93,39.8
+Old Port / Old Harbour Area,Pondy Marina Beach,2.22,29.6,2.22,10.5,1.64,5.0,1.64,18.0
+Old Port / Old Harbour Area,Auroville Beach,8.03,107.1,8.01,33.4,8.08,15.6,8.08,35.0
+Old Port / Old Harbour Area,French War Memorial,0.99,13.2,0.99,5.3,1.36,3.6,1.36,15.8
+Old Port / Old Harbour Area,Mahatma Gandhi Statue,1.11,14.8,1.1,5.7,1.51,4.0,1.51,16.4
+Old Port / Old Harbour Area,Aayi Mandapam / Bharathi Park,1.23,16.4,1.23,6.9,1.49,4.2,1.49,16.7
+Old Port / Old Harbour Area,Old Lighthouse,1.11,14.8,1.11,6.5,1.54,4.1,1.54,16.6
+Old Port / Old Harbour Area,Raj Niwas (Governor's Palace),1.27,16.9,1.27,7.4,1.52,4.1,1.52,16.6
+Old Port / Old Harbour Area,Manakula Vinayagar Temple,1.58,21.1,1.58,8.0,1.78,4.7,1.78,17.5
+Old Port / Old Harbour Area,Basilica of the Sacred Heart of Jesus,1.13,15.0,1.13,6.0,0.77,2.7,0.77,14.3
+Old Port / Old Harbour Area,Eglise de Notre Dame des Anges,0.92,12.2,0.92,4.6,1.3,3.4,1.3,15.4
+Old Port / Old Harbour Area,Cathedral of Our Lady of the Immaculate Conception,1.53,20.5,1.54,7.6,1.35,3.6,1.35,15.8
+Old Port / Old Harbour Area,Vedapureeswarar Temple,2.19,29.2,2.19,10.3,2.0,5.1,2.0,18.2
+Old Port / Old Harbour Area,"Thirukameswarar Temple, Villianur",10.27,136.9,9.96,42.3,9.45,17.6,9.45,38.2
+Old Port / Old Harbour Area,Kanniga Parameswari Temple,1.88,25.1,1.89,9.7,2.01,5.3,2.01,18.5
+Old Port / Old Harbour Area,Meeran Mosque,1.0,13.3,1.0,5.3,0.8,2.4,0.8,13.8
+Old Port / Old Harbour Area,Kuthba Mosque,0.89,11.9,0.9,4.8,0.7,2.2,0.7,13.5
+Old Port / Old Harbour Area,Jamia Mosque,2.25,30.0,2.25,10.4,2.06,5.3,2.06,18.5
+Old Port / Old Harbour Area,Bharathi Park / Government Park,1.23,16.4,1.23,6.9,1.49,4.2,1.49,16.7
+Old Port / Old Harbour Area,Botanical Garden,1.83,24.3,1.63,7.8,1.27,3.9,1.27,16.2
+Old Port / Old Harbour Area,Jawahar Toy Museum,0.87,11.6,0.87,4.4,1.35,3.6,1.35,15.8
+Old Port / Old Harbour Area,Chunnambar Boat House,11.57,154.3,15.04,71.8,8.24,14.8,8.24,33.7
+Old Port / Old Harbour Area,Ousteri Wetland and National Park,16.51,220.2,15.66,63.1,15.64,26.3,15.64,52.1
+Old Port / Old Harbour Area,Arikamedu Archaeological Site,8.15,108.7,8.17,37.4,7.38,15.9,7.38,35.4
+Old Port / Old Harbour Area,Auroville Visitors Centre,12.88,177.9,12.52,59.1,16.28,29.5,16.28,57.2
+Old Port / Old Harbour Area,Jawaharlal Nehru Statue,1.11,14.8,1.1,5.7,1.51,4.0,1.51,16.4
+Old Port / Old Harbour Area,Dupleix Statue,0.8,10.7,0.8,4.1,1.41,3.8,1.41,16.1
+Old Port / Old Harbour Area,Romain Rolland Library,1.22,16.3,1.22,6.1,1.48,4.1,1.48,16.6
+Old Port / Old Harbour Area,French Institute of Pondicherry (IFP),1.31,17.5,1.31,6.4,1.57,4.4,1.57,17.0
+Old Port / Old Harbour Area,Alliance Francaise de Pondichery,0.29,3.9,0.29,1.7,0.57,1.7,0.57,12.7
+Old Port / Old Harbour Area,Hotel de Ville / Municipal Office,0.92,12.2,0.92,4.6,1.3,3.4,1.3,15.4
+Old Port / Old Harbour Area,Auroville Farms & Green Belt,13.0,179.2,12.76,58.0,15.69,29.2,15.69,56.7
+Old Port / Old Harbour Area,Karaikal Beach,150.06,2000.8,146.54,565.0,140.58,112.3,140.58,189.7
+Auroville Farms & Green Belt,Sri Aurobindo Ashram,11.31,156.7,11.07,49.8,14.68,25.1,14.68,50.2
+Auroville Farms & Green Belt,White Town (French Quarter),11.73,162.2,11.49,51.6,15.3,26.9,15.3,53.0
+Auroville Farms & Green Belt,Promenade / Rock Beach,13.58,186.9,13.21,64.1,15.95,26.5,15.95,52.4
+Auroville Farms & Green Belt,Pondicherry Museum,11.67,161.4,11.43,51.1,15.06,26.2,15.06,51.9
+Auroville Farms & Green Belt,Matrimandir Viewing Point,2.54,34.9,2.49,15.7,3.15,9.1,3.15,24.6
+Auroville Farms & Green Belt,Casablanca Heritage Boutique,11.53,159.6,11.22,50.7,14.01,24.5,14.01,49.2
+Auroville Farms & Green Belt,Cluny Embroidery Centre,11.83,163.5,11.6,51.9,15.62,25.4,15.62,50.6
+Auroville Farms & Green Belt,Paradise Beach,23.99,320.1,27.42,108.3,23.24,36.1,23.24,67.8
+Auroville Farms & Green Belt,Serenity Beach,8.65,122.9,8.83,39.0,10.51,21.7,10.51,44.7
+Auroville Farms & Green Belt,Eden Beach,20.07,267.7,19.56,85.6,20.32,32.0,20.32,61.2
+Auroville Farms & Green Belt,Pondy Marina Beach,14.4,197.9,14.0,61.8,17.62,29.3,17.62,56.9
+Auroville Farms & Green Belt,Auroville Beach,7.05,101.6,7.23,32.1,8.26,17.9,8.26,38.6
+Auroville Farms & Green Belt,French War Memorial,12.01,166.0,11.81,53.1,15.84,26.2,15.84,51.9
+Auroville Farms & Green Belt,Mahatma Gandhi Statue,11.97,165.5,11.64,52.5,16.0,26.7,16.0,52.7
+Auroville Farms & Green Belt,Aayi Mandapam / Bharathi Park,11.91,164.6,11.76,53.3,15.13,26.3,15.13,52.1
+Auroville Farms & Green Belt,Old Lighthouse,11.89,164.4,11.64,52.4,15.31,26.9,15.31,53.0
+Auroville Farms & Green Belt,Raj Niwas (Governor's Palace),11.88,164.2,11.65,53.5,15.11,26.3,15.11,52.1
+Auroville Farms & Green Belt,Manakula Vinayagar Temple,11.42,158.1,11.17,50.2,14.74,25.2,14.74,50.3
+Auroville Farms & Green Belt,Basilica of the Sacred Heart of Jesus,12.24,169.1,12.01,53.8,15.04,24.4,15.04,49.0
+Auroville Farms & Green Belt,Eglise de Notre Dame des Anges,12.08,167.0,11.83,53.0,15.72,26.0,15.72,51.6
+Auroville Farms & Green Belt,Cathedral of Our Lady of the Immaculate Conception,11.61,160.6,11.3,50.9,14.21,25.2,14.21,50.3
+Auroville Farms & Green Belt,Vedapureeswarar Temple,11.03,152.9,10.9,49.6,13.62,24.4,13.62,49.0
+Auroville Farms & Green Belt,"Thirukameswarar Temple, Villianur",13.98,186.4,14.01,55.5,14.8,27.3,14.8,53.7
+Auroville Farms & Green Belt,Kanniga Parameswari Temple,11.31,156.6,11.25,50.4,13.78,24.0,13.78,48.4
+Auroville Farms & Green Belt,Meeran Mosque,12.15,167.8,11.9,53.2,15.14,24.3,15.14,48.9
+Auroville Farms & Green Belt,Kuthba Mosque,12.25,169.1,11.93,53.2,15.04,24.1,15.04,48.6
+Auroville Farms & Green Belt,Jamia Mosque,10.95,151.8,10.9,48.9,14.12,23.5,14.12,47.6
+Auroville Farms & Green Belt,Bharathi Park / Government Park,11.91,164.6,11.76,53.3,15.13,26.3,15.13,52.1
+Auroville Farms & Green Belt,Botanical Garden,11.95,165.2,11.79,52.9,14.25,22.7,14.25,46.3
+Auroville Farms & Green Belt,Jawahar Toy Museum,12.21,168.7,11.84,53.2,15.76,26.3,15.76,52.1
+Auroville Farms & Green Belt,Chunnambar Boat House,22.3,297.4,26.18,104.6,19.64,28.2,19.64,55.1
+Auroville Farms & Green Belt,Ousteri Wetland and National Park,16.79,223.9,16.81,66.4,19.22,29.5,19.22,57.2
+Auroville Farms & Green Belt,Arikamedu Archaeological Site,18.88,251.9,18.35,81.7,18.78,29.3,18.78,56.9
+Auroville Farms & Green Belt,Auroville Visitors Centre,1.23,16.8,1.31,8.0,1.08,3.7,1.08,15.9
+Auroville Farms & Green Belt,Jawaharlal Nehru Statue,11.97,165.5,11.64,52.5,16.0,26.7,16.0,52.7
+Auroville Farms & Green Belt,Dupleix Statue,12.28,169.5,11.91,53.5,15.83,26.4,15.83,52.2
+Auroville Farms & Green Belt,Romain Rolland Library,11.78,162.9,11.52,51.5,15.14,26.4,15.14,52.2
+Auroville Farms & Green Belt,French Institute of Pondicherry (IFP),11.67,161.5,11.44,51.3,15.09,26.3,15.09,52.1
+Auroville Farms & Green Belt,Alliance Francaise de Pondichery,12.71,175.3,12.48,55.8,15.63,25.7,15.63,51.1
+Auroville Farms & Green Belt,Hotel de Ville / Municipal Office,12.08,167.0,11.83,53.0,15.72,26.0,15.72,51.6
+Auroville Farms & Green Belt,Old Port / Old Harbour Area,13.0,179.2,12.78,57.5,15.72,25.8,15.72,51.3
+Auroville Farms & Green Belt,Karaikal Beach,157.2,2096.1,151.08,581.6,151.98,125.7,151.98,211.1
+Karaikal Beach,Sri Aurobindo Ashram,151.0,2013.4,147.55,567.5,145.45,116.0,145.45,195.6
+Karaikal Beach,White Town (French Quarter),150.81,2010.8,147.34,567.7,145.44,116.6,145.44,196.6
+Karaikal Beach,Promenade / Rock Beach,150.63,2008.5,147.21,571.5,145.26,116.1,145.26,195.8
+Karaikal Beach,Pondicherry Museum,150.78,2010.4,147.38,567.3,145.26,116.0,145.26,195.6
+Karaikal Beach,Matrimandir Viewing Point,159.15,2127.8,151.62,584.6,150.47,125.0,150.47,210.0
+Karaikal Beach,Casablanca Heritage Boutique,150.69,2009.2,147.19,565.5,144.89,114.9,144.89,193.8
+Karaikal Beach,Cluny Embroidery Centre,150.48,2006.4,147.06,565.6,144.94,115.0,144.94,194.0
+Karaikal Beach,Paradise Beach,144.62,1928.3,138.61,534.2,135.48,105.5,135.48,178.8
+Karaikal Beach,Serenity Beach,155.31,2070.9,151.11,582.0,149.93,120.6,149.93,203.0
+Karaikal Beach,Eden Beach,146.43,1952.4,140.48,555.7,137.95,111.1,137.95,187.8
+Karaikal Beach,Pondy Marina Beach,150.71,2009.5,147.28,567.0,145.16,116.7,145.16,196.7
+Karaikal Beach,Auroville Beach,157.11,2094.8,152.64,588.1,151.34,122.4,151.34,205.8
+Karaikal Beach,French War Memorial,150.54,2007.2,147.29,566.8,145.16,115.7,145.16,195.1
+Karaikal Beach,Mahatma Gandhi Statue,150.65,2008.7,147.22,567.3,145.31,116.2,145.31,195.9
+Karaikal Beach,Aayi Mandapam / Bharathi Park,150.71,2009.5,147.43,568.0,145.27,116.0,145.27,195.6
+Karaikal Beach,Old Lighthouse,150.65,2008.7,147.39,567.7,145.45,116.6,145.45,196.6
+Karaikal Beach,Raj Niwas (Governor's Palace),150.68,2009.1,147.26,567.7,145.25,115.9,145.25,195.4
+Karaikal Beach,Manakula Vinayagar Temple,150.82,2011.0,147.42,567.3,145.43,116.2,145.43,195.9
+Karaikal Beach,Basilica of the Sacred Heart of Jesus,149.76,1996.9,146.16,562.1,143.96,112.9,143.96,190.6
+Karaikal Beach,Eglise de Notre Dame des Anges,150.47,2006.2,147.04,566.3,145.01,115.6,145.01,195.0
+Karaikal Beach,Cathedral of Our Lady of the Immaculate Conception,150.6,2008.0,147.13,566.0,145.0,115.2,145.0,194.3
+Karaikal Beach,Vedapureeswarar Temple,150.8,2010.7,146.87,564.9,145.75,115.4,145.75,194.6
+Karaikal Beach,"Thirukameswarar Temple, Villianur",143.47,1912.9,137.47,528.0,134.76,100.2,134.76,170.3
+Karaikal Beach,Kanniga Parameswari Temple,150.59,2007.9,147.09,565.1,144.79,114.8,144.79,193.7
+Karaikal Beach,Meeran Mosque,150.01,2000.1,146.58,563.6,144.46,113.9,144.46,192.2
+Karaikal Beach,Kuthba Mosque,149.91,1998.8,146.48,563.2,144.36,113.7,144.36,191.9
+Karaikal Beach,Jamia Mosque,150.64,2008.6,146.7,564.2,145.6,114.7,145.6,193.5
+Karaikal Beach,Bharathi Park / Government Park,150.71,2009.5,147.43,568.0,145.27,116.0,145.27,195.6
+Karaikal Beach,Botanical Garden,149.69,1995.9,146.08,561.6,143.88,112.4,143.88,189.8
+Karaikal Beach,Jawahar Toy Museum,150.42,2005.6,146.99,566.0,145.06,115.8,145.06,195.3
+Karaikal Beach,Chunnambar Boat House,142.93,1905.7,137.37,530.6,135.98,105.9,135.98,179.4
+Karaikal Beach,Ousteri Wetland and National Park,149.83,1997.8,143.43,550.7,140.72,108.5,140.72,183.6
+Karaikal Beach,Arikamedu Archaeological Site,146.38,1951.7,141.72,555.1,137.97,109.8,137.97,185.7
+Karaikal Beach,Auroville Visitors Centre,161.36,2157.7,151.9,586.6,150.18,126.7,150.18,212.7
+Karaikal Beach,Jawaharlal Nehru Statue,150.65,2008.7,147.22,567.3,145.31,116.2,145.31,195.9
+Karaikal Beach,Dupleix Statue,150.35,2004.7,146.92,565.7,145.12,116.0,145.12,195.6
+Karaikal Beach,Romain Rolland Library,150.69,2009.2,147.42,567.2,145.28,116.1,145.28,195.8
+Karaikal Beach,French Institute of Pondicherry (IFP),150.78,2010.4,147.51,567.5,145.35,116.3,145.35,196.1
+Karaikal Beach,Alliance Francaise de Pondichery,149.84,1997.9,146.41,563.4,144.73,115.0,144.73,194.0
+Karaikal Beach,Hotel de Ville / Municipal Office,150.47,2006.2,147.04,566.3,145.01,115.6,145.01,195.0
+Karaikal Beach,Old Port / Old Harbour Area,150.06,2000.8,146.63,564.9,144.15,114.1,144.15,192.6
+Karaikal Beach,Auroville Farms & Green Belt,157.2,2096.1,151.17,581.9,149.59,126.4,149.59,212.2

@@ -1,0 +1,36 @@
+{
+  "cultural_norms": [
+    {
+      "title": "Religious & Sacred Spaces",
+      "guideline": "Modest attire covering shoulders and knees is mandatory at Sri Aurobindo Ashram, temples, and churches. Footwear must be removed before entering ashram courtyards and sanctums."
+    },
+    {
+      "title": "Photography Protocol",
+      "guideline": "Photography is strictly forbidden inside Sri Aurobindo Ashram courtyard and samadhi. Street photography in White Town is welcomed, but respect private residential doorways."
+    },
+    {
+      "title": "Promenade Beach Vehicle Restrictions",
+      "guideline": "Promenade Beach road is completely closed to motorized vehicles every evening from 6:00 PM to 7:30 AM the next morning, creating a pristine pedestrian-only zone."
+    },
+    {
+      "title": "Eco-Conscious Tourism & Waste",
+      "guideline": "Puducherry enforces strict single-use plastic bans across heritage zones and beaches. Carry a reusable water bottle; filtered water refill stations are present in White Town cafés."
+    }
+  ],
+  "electrical_specs": {
+    "voltage": "230 V",
+    "frequency": "50 Hz",
+    "plug_types": "Type C, D, and M (Standard Indian three-pin round and two-pin European round)",
+    "adapter_note": "Universal surge-protected travel adapter recommended for UK (Type G) and US (Type A/B) travelers."
+  },
+  "local_transport_tips": [
+    {
+      "mode": "Bicycle & E-Cycles",
+      "tip": "White Town is flat and compact (1.5 km²); renting a vintage bicycle or electric bicycle is the most carbon-free and scenic way to explore."
+    },
+    {
+      "mode": "Auto-Rickshaws",
+      "tip": "Agree on fares before boarding or ask for standard meter rates (approx ₹50 base for short local rides in town)."
+    }
+  ]
+}

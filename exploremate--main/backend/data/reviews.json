@@ -1,0 +1,119 @@
+[
+  {
+    "id": "rev-1",
+    "place_id": "aurobindo-ashram",
+    "user_name": "Aarav Sharma",
+    "user_email": "aarav.sharma@example.in",
+    "rating": 5,
+    "review_text": "A deeply tranquil experience. The courtyard around the Samadhi is profoundly peaceful.",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "rev-2",
+    "place_id": "aurobindo-ashram",
+    "user_name": "Meera Ramanathan",
+    "user_email": "meera.r@example.in",
+    "rating": 5,
+    "review_text": "Exquisite floral decorations on the samadhi. Very well organized and respectful silence maintained.",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "rev-3",
+    "place_id": "aurobindo-ashram",
+    "user_name": "Claire Dupont",
+    "user_email": "claire.dupont@example.fr",
+    "rating": 4,
+    "review_text": "Very spiritual atmosphere. Make sure to visit early in the morning before crowds arrive.",
+    "date": "2026-03-10"
+  },
+  {
+    "id": "rev-4",
+    "place_id": "french-quarter",
+    "user_name": "Vikram Patel",
+    "user_email": "vikram.patel@example.com",
+    "rating": 5,
+    "review_text": "The mustard walls and bougainvillea make White Town breathtaking for morning photography.",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "rev-5",
+    "place_id": "french-quarter",
+    "user_name": "Sarah Jenkins",
+    "user_email": "sarah.j@example.co.uk",
+    "rating": 5,
+    "review_text": "Renting a bicycle to cycle along Rue Dumas and Rue Romain Rolland was the highlight of our trip.",
+    "date": "2026-03-08"
+  },
+  {
+    "id": "rev-6",
+    "place_id": "promenade-beach",
+    "user_name": "Dinesh Kumar",
+    "user_email": "dinesh.k@example.com",
+    "rating": 5,
+    "review_text": "Banning vehicles after 6 PM makes Promenade Beach the best coastal walking experience in India.",
+    "date": "2026-03-11"
+  },
+  {
+    "id": "rev-1792315459014",
+    "place_id": "french-quarter",
+    "user_name": "Test Traveler",
+    "user_email": "test.user.1792315459012953500@exploremate.test",
+    "rating": 5,
+    "review_text": "Great heritage atmosphere and peaceful early morning walk.",
+    "date": "2026-10-18"
+  },
+  {
+    "id": "rev-1792316092958",
+    "place_id": "french-quarter",
+    "user_name": "Test Traveler",
+    "user_email": "test.user.1792316092956899300@exploremate.test",
+    "rating": 5,
+    "review_text": "Great heritage atmosphere and peaceful early morning walk.",
+    "date": "2026-10-18"
+  },
+  {
+    "id": "rev-1792316421575",
+    "place_id": "french-quarter",
+    "user_name": "Test Traveler",
+    "user_email": "test.user.1792316421573981500@exploremate.test",
+    "rating": 5,
+    "review_text": "Great heritage atmosphere and peaceful early morning walk.",
+    "date": "2026-10-18"
+  },
+  {
+    "id": "rev-1792316629332",
+    "place_id": "french-quarter",
+    "user_name": "Test Traveler",
+    "user_email": "test.user.1792316629330813400@exploremate.test",
+    "rating": 5,
+    "review_text": "Great heritage atmosphere and peaceful early morning walk.",
+    "date": "2026-10-18"
+  },
+  {
+    "id": "rev-1792316653060",
+    "place_id": "french-quarter",
+    "user_name": "Test Traveler",
+    "user_email": "test.user.1792316653059818800@exploremate.test",
+    "rating": 5,
+    "review_text": "Great heritage atmosphere and peaceful early morning walk.",
+    "date": "2026-10-18"
+  },
+  {
+    "id": "rev-1792319607138",
+    "place_id": "french-quarter",
+    "user_name": "Test Traveler",
+    "user_email": "test.user.1792319607136978700@exploremate.test",
+    "rating": 5,
+    "review_text": "Great heritage atmosphere and peaceful early morning walk.",
+    "date": "2026-10-18"
+  },
+  {
+    "id": "rev-1792320032677",
+    "place_id": "french-quarter",
+    "user_name": "Test Traveler",
+    "user_email": "test.user.1792320032677302800@exploremate.test",
+    "rating": 5,
+    "review_text": "Great heritage atmosphere and peaceful early morning walk.",
+    "date": "2026-10-18"
+  }
+]

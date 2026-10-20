@@ -1,0 +1,14 @@
+All 43 places verified with valid coordinates; notice logged for Karaikal Beach as an outlying enclave.
+- **Vite production build**: Successfully compiled in `2.16s` with zero errors.
+- **Vitest test suite**: `7 passed in 945ms`.
+
+---
+
+#### Files Added / Changed
+1. `backend/data/pondicherry.json`: Merged all 36 new destinations with short/long descriptions, experience lists, and coordinates.
+2. `scripts/merge_task3_places.py`: Repeatable merge script ensuring non-destructive data updates.
+3. `scripts/check_data.py`: Validated coordinates and schema across all 43 places.
+4. `frontend/src/tabs/DestinationsTab.jsx`: Updated with 6 spec category filters, verification badges, and "Add to Plan" button.
+5. `TODO_VERIFY.md`: Added section listing places requiring on-ground hours/fees confirmation.
+
+Please reply with **"next"** when you are ready to proceed with **Task 4 (Smart Itinerary: Fix + Flexible Timeline + Weather/Crowd Re-planning + Re-routing)**.

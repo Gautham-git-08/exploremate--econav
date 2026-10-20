@@ -1,0 +1,39 @@
+{
+  "emergency_helplines": [
+    {"service": "Police Emergency", "number": "100", "description": "24/7 Police Dispatch"},
+    {"service": "Ambulance", "number": "108", "description": "National Emergency Ambulance Service"},
+    {"service": "Fire & Rescue", "number": "101", "description": "Puducherry Fire Service"},
+    {"service": "Women's Safety Helpline", "number": "1091", "description": "Toll-free 24/7 dedicated support"},
+    {"service": "Tourist Helpline", "number": "1363", "description": "Ministry of Tourism Multi-lingual Helpline"},
+    {"service": "Puducherry Tourism Information", "number": "+91 413 2234500", "description": "Official Tourism Dept HQ (9 AM - 6 PM)"}
+  ],
+  "hospitals": [
+    {
+      "name": "Indira Gandhi Government General Hospital & Post Graduate Institute",
+      "phone": "+91 413 2336050",
+      "distance": "0.4 km from White Town",
+      "address": "Victor Simonel St, White Town, Puducherry 605001",
+      "emergency": "24/7 Casualty & Trauma Unit Available",
+      "verified": true,
+      "last_verified": "2026-03-15"
+    },
+    {
+      "name": "JIPMER (Jawaharlal Institute of Postgraduate Medical Education & Research)",
+      "phone": "+91 413 2296000",
+      "distance": "5.5 km",
+      "address": "Dhanvantari Nagar, Gorimedu, Puducherry 605006",
+      "emergency": "Apex Super-specialty 24/7 Emergency Care",
+      "verified": true,
+      "last_verified": "2026-03-15"
+    },
+    {
+      "name": "A.G. Padmavati's Hospital",
+      "phone": "+91 413 2252250",
+      "distance": "3.2 km",
+      "address": "Villupuram Main Road, Puducherry 605009",
+      "emergency": "24/7 Multi-specialty & Intensive Care",
+      "verified": true,
+      "last_verified": "2026-03-15"
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "lastReviewed": "2026-10-19",
+  "note": "Rules can change without notice. Always follow signboards and staff instructions on site.",
+  "places": [
+    {
+      "name": "Sri Aurobindo Ashram",
+      "visitorInstructions": {
+        "photography": "Not allowed inside the Ashram premises.",
+        "dressCode": "Modest clothing: cover shoulders and knees. No beachwear.",
+        "tips": [
+          "Switch your phone off or keep it fully silent.",
+          "Keep silence, especially around the Samadhi courtyard.",
+          "Entry is free; expect a quick security check at the gate."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "White Town (French Quarter)",
+      "visitorInstructions": {
+        "photography": "Allowed on public streets and outside buildings. Ask before photographing residents or entering private courtyards.",
+        "dressCode": "Casual is fine on the streets. Carry a light scarf or shawl for the temples and ashram nearby.",
+        "tips": [
+          "People live here: keep noise low, especially early morning and late evening.",
+          "Do not enter private gates or climb on heritage walls and balconies.",
+          "Wear comfortable shoes; pavements can be uneven and midday sun is strong."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Promenade / Rock Beach",
+      "visitorInstructions": {
+        "photography": "Allowed freely on the public promenade.",
+        "dressCode": "Casual, comfortable clothes.",
+        "tips": [
+          "Swimming is not advisable here: rocky seawall and deep water.",
+          "Do not climb on the rocks near breaking waves.",
+          "Vehicles are banned 6:00 PM to 7:30 AM, so plan to walk or cycle.",
+          "Use the bins; keep the seawall litter-free."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Pondicherry Museum",
+      "visitorInstructions": {
+        "photography": "Visitors report photography is not allowed inside. Confirm at the ticket counter.",
+        "dressCode": "Neat, casual clothing.",
+        "tips": [
+          "Closed on Mondays.",
+          "Keep small change ready for the entry ticket.",
+          "Do not touch the exhibits, sculptures or furniture.",
+          "Ask at the counter if large bags must be deposited."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Matrimandir Viewing Point",
+      "visitorInstructions": {
+        "photography": "Allowed only from the designated viewing point. No photography inside the Matrimandir or its inner gardens.",
+        "dressCode": "Modest, comfortable clothing.",
+        "tips": [
+          "Collect your free viewing pass at the Auroville Visitors Centre first (usually after a short video).",
+          "Keep silence near the Matrimandir; do not talk in the grounds.",
+          "Inner chamber meditation needs advance booking and strict silence; no phones or large bags.",
+          "Passes can run out, so go early in the day."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Casablanca Heritage Boutique",
+      "visitorInstructions": {
+        "photography": "Usually fine in the shop. Ask before photographing staff or artisan products.",
+        "dressCode": "Casual.",
+        "tips": [
+          "Opening hours are not confirmed, so check on arrival.",
+          "Handmade ceramics, textiles and leather: handle gently and ask before touching display pieces.",
+          "Browsing is free; the top-floor cafe is a good rest stop."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Cluny Embroidery Centre",
+      "visitorInstructions": {
+        "photography": "Ask permission first. The women embroidering may not want to be photographed.",
+        "dressCode": "Modest, neat casual clothing.",
+        "tips": [
+          "Closed on Sundays.",
+          "Do not touch linen or lace that is still being worked on.",
+          "Buying directly supports the women artisans.",
+          "Keep your voice low; it is a working centre."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Paradise Beach",
+      "visitorInstructions": {
+        "photography": "Allowed. Keep phones and cameras in a dry bag during the boat ride.",
+        "dressCode": "Swimwear is fine on the sand. Carry a cover-up and a change of clothes.",
+        "tips": [
+          "Reachable only by boat from Chunnambar Boat House. The last boat is usually around 4:30 PM, so confirm the return time.",
+          "Swim only in the marked safe zones near lifeguards; the tide can be strong.",
+          "Wear the life jacket on the boat and keep your ticket for the return.",
+          "Rough seas in monsoon (July to September) can stop boat service."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Serenity Beach",
+      "visitorInstructions": {
+        "photography": "Allowed. Ask before photographing fishermen and their families.",
+        "dressCode": "Beachwear is fine on the sand. Cover up when walking through the fishing village.",
+        "tips": [
+          "Currents can be strong. Swim only near the shore and avoid it when waves are high.",
+          "Do not swim alone; lifeguard cover is not guaranteed.",
+          "Do not sit on or move fishing boats and nets."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Eden Beach",
+      "visitorInstructions": {
+        "photography": "Allowed on the beach.",
+        "dressCode": "Beachwear is fine on the sand.",
+        "tips": [
+          "This is a designated No Plastic Zone: avoid single-use plastic and take your waste with you.",
+          "Swim only in the designated area near the watchtowers.",
+          "Use the washroom facilities and bins provided."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Pondy Marina Beach",
+      "visitorInstructions": {
+        "photography": "Allowed.",
+        "dressCode": "Casual clothing.",
+        "tips": [
+          "Opening hours are not confirmed, so check on arrival.",
+          "Evenings and weekends get crowded around the food court; watch children and belongings.",
+          "Enter the water only if a lifeguard or sign says it is safe.",
+          "Use bins and keep the playground area clean."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Auroville Beach",
+      "visitorInstructions": {
+        "photography": "Allowed.",
+        "dressCode": "Beachwear is fine on the sand. Cover up away from the beach.",
+        "tips": [
+          "Swim with caution and stay close to shore; tides can be unpredictable.",
+          "Swimming is discouraged in monsoon (July to September).",
+          "Do not disturb the fishing catamarans.",
+          "Take your rubbish with you."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "French War Memorial",
+      "visitorInstructions": {
+        "photography": "Allowed from outside.",
+        "dressCode": "Respectful casual clothing.",
+        "tips": [
+          "This is a solemn memorial: keep voices low.",
+          "Do not climb on or lean against the monument.",
+          "It is lit up on Bastille Day (14 July)."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Mahatma Gandhi Statue",
+      "visitorInstructions": {
+        "photography": "Allowed; it is a popular photo spot.",
+        "dressCode": "Casual clothing.",
+        "tips": [
+          "Do not climb the granite pillars or the statue base.",
+          "Gets busy around sunset: keep your belongings safe.",
+          "Keep the seafront clean."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Aayi Mandapam / Bharathi Park",
+      "visitorInstructions": {
+        "photography": "Allowed.",
+        "dressCode": "Casual clothing.",
+        "tips": [
+          "Do not climb on or write on the heritage pavilion.",
+          "Keep off the lawns and flower beds where signs say so.",
+          "Use the bins and carry out your litter."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Old Lighthouse",
+      "visitorInstructions": {
+        "photography": "Allowed outside. Ask staff whether cameras are allowed in the tower.",
+        "dressCode": "Comfortable clothes and sturdy footwear.",
+        "tips": [
+          "Check the current visiting schedule before you go.",
+          "Narrow old stairs are typical: go slowly and keep a hand on the rail.",
+          "Keep small change ready for the entry ticket."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Raj Niwas (Governor's Palace)",
+      "visitorInstructions": {
+        "photography": "Usually restricted. Ask security first and never photograph guards or security installations.",
+        "dressCode": "Neat, formal-casual clothing; this is an official residence.",
+        "tips": [
+          "Prior approval is required for a visit, so arrange it before you go.",
+          "Carry a photo ID.",
+          "If you do not have approval, enjoy the exterior view from the road."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Manakula Vinayagar Temple",
+      "visitorInstructions": {
+        "photography": "Visitors report no photos or videos inside. Ask the staff before taking any.",
+        "dressCode": "Modest: cover shoulders and knees. No shorts or sleeveless tops.",
+        "tips": [
+          "Remove footwear before entering and use the shoe stand.",
+          "Keep your phone on silent; be ready to leave it outside if asked.",
+          "Follow the mahout's instructions near the temple elephant."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Basilica of the Sacred Heart of Jesus",
+      "visitorInstructions": {
+        "photography": "Reported to be allowed only outside. Ask before photographing inside and never use flash.",
+        "dressCode": "Modest: cover shoulders and knees.",
+        "tips": [
+          "It is an active place of worship: keep quiet and do not walk around during Mass.",
+          "Busiest on Sundays and during Mass times.",
+          "Do not photograph worshippers."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Église de Notre Dame des Anges",
+      "visitorInstructions": {
+        "photography": "Outside photos are fine. Ask before photographing inside and do not use flash.",
+        "dressCode": "Modest: cover shoulders and knees.",
+        "tips": [
+          "Keep silence inside; step outside to take calls.",
+          "Avoid sightseeing during services.",
+          "Do not photograph people who are praying."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Cathedral of Our Lady of the Immaculate Conception",
+      "visitorInstructions": {
+        "photography": "Outside photos are fine. Ask before photographing inside and do not use flash.",
+        "dressCode": "Modest: cover shoulders and knees.",
+        "tips": [
+          "It is the Archdiocese's mother church and a working place of worship: be quiet.",
+          "Avoid sightseeing during Mass.",
+          "Do not photograph people who are praying."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Vedapureeswarar Temple",
+      "visitorInstructions": {
+        "photography": "Usually not allowed inside the halls and sanctum. Outside views of the gopuram are generally fine; ask staff.",
+        "dressCode": "Modest: cover shoulders and knees. No shorts or sleeveless tops.",
+        "tips": [
+          "Remove footwear at the entrance.",
+          "Be ready to leave your phone outside if asked.",
+          "Do not touch the carved pillars or idols; follow the queue and signs."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Thirukameswarar Temple, Villianur",
+      "visitorInstructions": {
+        "photography": "Usually not allowed inside the halls and sanctum. Ask staff before using a camera.",
+        "dressCode": "Modest: cover shoulders and knees. No shorts or sleeveless tops.",
+        "tips": [
+          "Remove footwear at the entrance.",
+          "Do not enter the sacred tank (theertham) or throw anything into it.",
+          "It is about 9 km out of town: confirm the ritual timings before you travel."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Kanniga Parameswari Temple",
+      "visitorInstructions": {
+        "photography": "Usually not allowed inside. Ask staff first.",
+        "dressCode": "Modest: cover shoulders and knees. No shorts or sleeveless tops.",
+        "tips": [
+          "Remove footwear at the entrance.",
+          "Keep your phone on silent.",
+          "Opening hours are not confirmed, so check on arrival."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Meeran Mosque",
+      "visitorInstructions": {
+        "photography": "Ask permission before photographing inside. Never photograph people praying.",
+        "dressCode": "Cover arms and legs. Women should cover their hair (carry a scarf). No shorts, sleeveless or tight clothing.",
+        "tips": [
+          "Remove shoes before entering the prayer area.",
+          "Avoid visiting at prayer times, especially Friday midday. Entry to the prayer hall for non-Muslims is at the caretaker's discretion, so ask politely.",
+          "Keep your phone on silent and your voice low."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Kuthba Mosque",
+      "visitorInstructions": {
+        "photography": "Ask permission before photographing inside. Never photograph people praying.",
+        "dressCode": "Cover arms and legs. Women should cover their hair (carry a scarf). No shorts, sleeveless or tight clothing.",
+        "tips": [
+          "This is the Friday congregational mosque: avoid visiting around Friday midday prayers.",
+          "Remove shoes before entering the prayer area.",
+          "Follow the caretaker's instructions on where visitors may go."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Jamia Mosque",
+      "visitorInstructions": {
+        "photography": "Ask permission before photographing inside. Never photograph people praying.",
+        "dressCode": "Cover arms and legs. Women should cover their hair (carry a scarf). No shorts, sleeveless or tight clothing.",
+        "tips": [
+          "Remove shoes before entering the prayer area.",
+          "Avoid visiting during prayer times, especially Friday midday.",
+          "Keep your phone on silent and your voice low."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Bharathi Park / Government Park",
+      "visitorInstructions": {
+        "photography": "Allowed in the park. Do not photograph guards or security at the nearby Raj Niwas and Assembly.",
+        "dressCode": "Casual clothing.",
+        "tips": [
+          "Keep off the lawns and flower beds where signs say so.",
+          "Do not climb on or write on the heritage pavilion.",
+          "Use the bins and carry out your litter."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Botanical Garden",
+      "visitorInstructions": {
+        "photography": "Personal photos are fine. Professional shoots (photo-shoots, short films) need a permit and a fee set by the Puducherry government.",
+        "dressCode": "Casual clothes and comfortable shoes.",
+        "tips": [
+          "Do not pluck flowers or plants or walk on the garden beds.",
+          "Keep to the walkways.",
+          "Children below a set age get free entry; check the ticket counter."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Jawahar Toy Museum",
+      "visitorInstructions": {
+        "photography": "Ask at the counter; small museums often restrict cameras.",
+        "dressCode": "Casual clothing.",
+        "tips": [
+          "Closed on Mondays and public holidays.",
+          "Do not touch the dolls and puppets.",
+          "Keep children close to the display cases."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Chunnambar Boat House",
+      "visitorInstructions": {
+        "photography": "Allowed. Keep gadgets in a dry bag on the boats.",
+        "dressCode": "Casual clothing and sandals or sports shoes you do not mind getting wet.",
+        "tips": [
+          "The last boat to Paradise Beach is usually around 4:30 PM, so arrive early.",
+          "Wear the life jacket and follow the crew's instructions.",
+          "A parking fee applies; confirm current ticket prices at the counter."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Ousteri Wetland and National Park",
+      "visitorInstructions": {
+        "photography": "Welcome. Use a long lens for birds, no flash, and do not approach nests.",
+        "dressCode": "Muted, earthy colours, a hat and long sleeves for sun and insects.",
+        "tips": [
+          "Move slowly and stay quiet near the water; noise and horns scare the birds.",
+          "The lake is meant to be plastic-free: carry a reusable bottle and take all litter out.",
+          "Bring binoculars. Mornings and the migratory season (roughly November to February) are best."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Arikamedu Archaeological Site",
+      "visitorInstructions": {
+        "photography": "Allowed at the open site. Ask the caretaker if any area is restricted.",
+        "dressCode": "Light, covered clothing, a hat and sturdy shoes.",
+        "tips": [
+          "It is a protected archaeological site: do not dig or collect beads and pottery pieces.",
+          "Do not climb on old structures.",
+          "Shade is limited near the riverbank, so carry water."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Auroville Visitors Centre",
+      "visitorInstructions": {
+        "photography": "Fine inside the Centre. Photography is restricted around the Matrimandir.",
+        "dressCode": "Modest, comfortable clothing.",
+        "tips": [
+          "Collect your free Matrimandir viewing pass here (usually after a short video).",
+          "Auroville is a living community, not a theme park: respect its quiet and privacy.",
+          "The information desk closes in the afternoon, so arrive well before 5 PM."
+        ],
+        "confidence": "sourced"
+      }
+    },
+    {
+      "name": "Jawaharlal Nehru Statue",
+      "visitorInstructions": {
+        "photography": "Allowed; popular photo spot on the promenade.",
+        "dressCode": "Casual clothing.",
+        "tips": [
+          "Do not climb the statue or its base.",
+          "Busy around sunset: keep your belongings safe.",
+          "Keep the seafront clean."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Dupleix Statue",
+      "visitorInstructions": {
+        "photography": "Allowed; popular photo spot on the promenade.",
+        "dressCode": "Casual clothing.",
+        "tips": [
+          "Do not climb the statue or its base.",
+          "Busy around sunset: keep your belongings safe.",
+          "Keep the seafront clean."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Romain Rolland Library",
+      "visitorInstructions": {
+        "photography": "Usually restricted in the reading rooms. Ask staff before photographing books or manuscripts.",
+        "dressCode": "Neat, quiet-friendly clothing.",
+        "tips": [
+          "Keep silence and put your phone on silent.",
+          "Rare manuscripts are for reference only: ask the librarian before handling anything.",
+          "Closed on Mondays and public holidays."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "French Institute of Pondicherry (IFP)",
+      "visitorInstructions": {
+        "photography": "Usually restricted in the archives and library. Ask first.",
+        "dressCode": "Smart casual.",
+        "tips": [
+          "This is a working research institute: visit only in weekday hours and ask at reception before going in.",
+          "Do not touch the archives or manuscripts.",
+          "Keep your voice low."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Alliance Française de Pondichéry",
+      "visitorInstructions": {
+        "photography": "Fine in public areas. Ask staff during events and screenings.",
+        "dressCode": "Smart casual.",
+        "tips": [
+          "Check the event schedule for screenings, salons and talks.",
+          "Keep your phone silent during events.",
+          "Hours listed are office hours, so confirm before you go."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Hôtel de Ville / Municipal Office",
+      "visitorInstructions": {
+        "photography": "Exterior photos are fine. Do not photograph security staff, and ask before going inside.",
+        "dressCode": "Neat casual clothing.",
+        "tips": [
+          "It is a working municipal office: enter only with permission.",
+          "Exterior viewing only unless access is permitted.",
+          "Opening details are not confirmed, so check on arrival."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Old Port / Old Harbour Area",
+      "visitorInstructions": {
+        "photography": "Allowed. Ask fishermen and workers before photographing them.",
+        "dressCode": "Casual clothing and shoes with a good grip.",
+        "tips": [
+          "The pier and ruins can be slippery or uneven: watch your step, especially after rain.",
+          "Do not sit or stand on broken edges.",
+          "Take your litter with you."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Auroville Farms & Green Belt",
+      "visitorInstructions": {
+        "photography": "Ask before photographing residents and workers. Some farms are private working sites.",
+        "dressCode": "Light, covered clothing and closed shoes.",
+        "tips": [
+          "Opening details are not confirmed: check with the Visitors Centre first.",
+          "Enter only places that welcome visitors.",
+          "Do not pick crops or disturb the seed banks and plots."
+        ],
+        "confidence": "general"
+      }
+    },
+    {
+      "name": "Karaikal Beach",
+      "visitorInstructions": {
+        "photography": "Allowed.",
+        "dressCode": "Casual clothing; cover up away from the beach.",
+        "tips": [
+          "It is about 130 km from central Pondicherry: plan it as a full day trip.",
+          "Currents can be strong where the river meets the sea. Swim only if locals or lifeguards say it is safe.",
+          "Opening details are not confirmed, so check on arrival."
+        ],
+        "confidence": "general"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+# Environment and secrets
+.env
+.env.local
+*.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+sqlite3.db
+lostfound.db
+chapters.db
+
+# Node artifacts
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+
+# Uploads & local caches
+uploads/
+backend/data/cache/*
+!backend/data/cache/.gitkeep
+
+build/
+build
+

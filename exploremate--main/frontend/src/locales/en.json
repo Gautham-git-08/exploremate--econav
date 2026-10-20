@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "plan": "Smart Itinerary",
+    "destinations": "Destinations",
+    "stays": "Stays",
+    "map": "Map",
+    "weather": "Weather",
+    "budget": "Budget",
+    "before_you_go": "Before You Go",
+    "reviews": "Reviews",
+    "lostfound": "Lost & Found",
+    "translate": "Translate",
+    "chapters": "Carbon Chapters"
+  },
+  "hero": {
+    "badge": "AI Eco-Travel Companion for Pondicherry",
+    "headline": "Discover French Elegance & Coastal Serenity",
+    "subtext": "Personalized itineraries, low-carbon story chapters, live weather rerouting, and verified heritage walking routes — crafted strictly for Pondicherry.",
+    "searchPlaceholder": "Search White Town, Promenade Beach, Matrimandir, temples...",
+    "searchBtn": "Search"
+  },
+  "weather": {
+    "title": "Pondicherry Weather",
+    "indoorRecommend": "⚠️ Indoor stops recommended today",
+    "outdoorGood": "Ideal for French Quarter walks",
+    "simulationBanner": "WEATHER SIMULATION ACTIVE"
+  },
+  "howItWorks": {
+    "title": "How ExploreMate Works",
+    "subtitle": "Four simple steps to travel sustainably with verified local intelligence.",
+    "step1Title": "Discover & Search",
+    "step1Desc": "Browse 43 verified Pondicherry destinations across White Town, beaches, and temples.",
+    "step2Title": "Smart Itinerary",
+    "step2Desc": "Generate dynamic hour-by-hour plans that swap outdoor spots during monsoon showers.",
+    "step3Title": "Travel Low-Carbon",
+    "step3Desc": "Choose walking or cycling to save CO2 emissions compared to petrol vehicles.",
+    "step4Title": "Unlock Mystery Tales",
+    "step4Desc": "Redeem your verified CO2 ink to reveal serialized historical mystery chapters."
+  },
+  "eco": {
+    "badge": "Eco-Impact Counter",
+    "title": "Every Footstep Preserves Pondicherry",
+    "desc": "ExploreMate encourages pedalling through French Quarter boulevards and strolling Promenade Beach rather than hiring motorized transport, cutting coastal emissions and keeping heritage zones clean.",
+    "savedPerKm": "Saved per km walked vs car",
+    "localScope": "Local Pondicherry scope"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "viewAll": "View All",
+    "verified": "Verified",
+    "notVerified": "Not verified",
+    "freeEntry": "Free Entry"
+  }
+}
